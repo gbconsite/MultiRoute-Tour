@@ -5,6 +5,7 @@
   --md-accent-fg-color: #8d8dc4;
   --table-td-background-even: #f8f8f8;
   --table-td-background-uneven: white; 
+  --md-typeset-a-color: #c2c2ff;
 }
 
 /* Active tab bold & color */
@@ -49,6 +50,9 @@ a.md-button.md-button:hover {
 }
 .md-header__title {
   margin-left: 0rem !important;
+}
+.md-header{
+  padding-top: 5px;
 }
 
 /*Table styling*/
