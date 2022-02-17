@@ -919,6 +919,18 @@ Einzelne Fahrzeugstrecken Array Objekt:
 | rueckweg\_zum\_depot    | Rückweg zum Depot                   |
 | google\_maps\_url       | Navigationsformat Google Maps       |
 | apple\_maps\_url        | Navigationsformat Apple Maps        |
+| token                   | Token für Google/Apple Maps und Klick Maps Exporte| 
+
+Klick Maps lassen sich über den Link
+```
+https://tour.multiroute.de/klick_tour?token= 
+```
+abrufen. Hierzu gibt es auch hilfreiche Flags:
+
+|                         |                                     |
+|-------------------------|-------------------------------------|
+| only | Zeigt nur eine Strecke an [Bsp](https://tour.multiroute.de/klick_tour?token=9C278CAECFE8C38CC7D82C26FADDFE0680100C06D22D0401A0BA9BCC118CF3552893F1FBD92AF3F89846B5AD707C30477CE9A167C20315962CAF98022ECD3AEE&only=2)| 
+| exclude | Exkludiert Strecken [Bsp](https://tour.multiroute.de/klick_tour?token=9C278CAECFE8C38CC7D82C26FADDFE0680100C06D22D0401A0BA9BCC118CF3552893F1FBD92AF3F89846B5AD707C30477CE9A167C20315962CAF98022ECD3AEE&exclude=1,2)| 
 
 Einzelne Fahrzeugstrecken Array Objekt:
 
