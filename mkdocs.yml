@@ -89,10 +89,7 @@ markdown_extensions:
       permalink: true
   - toc:
       title: Inhalt
-<<<<<<< HEAD
-=======
 
->>>>>>> 3cf8987794399c2ccda1dfa3156635c2fd4e3d81
 plugins:
   - minify:
       minify_html: true
@@ -100,10 +97,7 @@ plugins:
       minify_css: true
       htmlmin_opts:
           remove_comments: true
-<<<<<<< HEAD
-=======
 
->>>>>>> 3cf8987794399c2ccda1dfa3156635c2fd4e3d81
 #extra:
 #  alternate:
 #    - name: Deutsch
