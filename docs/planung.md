@@ -17,12 +17,29 @@ Diese Aufträge können Sie mit einem Klick auf die drei Kistchen bearbeiten und
 
 Die Adressverwaltung befindet sich unter Planung in der linken Sidebar mit einem Klick auf das Haus-Symbol.
 
-Hier können Ihre Adressen durchsucht werden. Gelöscht werden können diese nur durch den Administrator unter Administration -> Upload
+Hier können Ihre Adressen durchsucht werden. Gelöscht werden können diese nur durch den Administrator unter **Administration -> Upload**
 
 Neue Adressen können durch den [Upload](/upload) oder [manuell per Klick in die Karte](/tipps/#adressen-neu-anlegen) hinzugefügt werden.
 
 ![!](assets/Adressverwaltung2.png)
 
+### Adressen korrigieren mit Google
+
+Wenn es beim Hochladen Ihrer Datei Adressen gab, für die keine Koordinate gefunden werden konnte, können Sie diese ganz einfach mithilfe einer Suche über Google Maps korrigieren. 
+
+1) Zeigen Sie sich unter **2.Planung -> Adressverwaltung (kleines Häuschen)** und einem Klick auf die Checkbox **Adressen ohne Koordinaten** alle Adressen an, die nicht korrigiert werden konnten.
+
+2) Hier sehen Sie zwei kleine Buttons. Die Pinnadel sucht die Adresse direkt in der Karte. Kann diese hier nicht gefunden werden, suchen Sie Ihre Adresse mit einem Klick auf das Google-Icon. Dieser öffnet einen neuen Tab in Ihrem Browser und sucht Ihre Adresse. 
+
+![Google Adressuche in MultiRoute Tour!](https://user-images.githubusercontent.com/47481567/155503407-206091aa-9cd5-4caa-9f2e-6423dd7a75e9.png "Google Adressuche in MultiRoute Tour!")
+
+3) In Google Maps klicken Sie mit der rechten Maustaste auf den Punkt, wo Ihre Adresse liegt und kopieren sich mit einem Rechtsklick die Koordinate in den Zwischenspeicher.
+
+![Google Adressuche in MultiRoute Tour!](https://user-images.githubusercontent.com/47481567/155503600-f4706688-aa34-45dd-89a8-d6bf8fcf4bcb.png "Google Adressuche in MultiRoute Tour!")
+
+4) In MRT! klicken Sie in der Spalte "OI" auf die entsprechende Adresse. Ein kleines Fenster öffnet sich, wo Sie nun die Koordinate mit STRG+V einfügen. Klicken Sie auf OK. Fertig! Die Koordinate ist nun für die Adresse übernommen worden und muss bei weiteren Uploads nicht noch einmal korrigiert werden. MultiRoute Tour! merkt sich die Koordinate also auch für die Zukunft.
+
+![Google Adressuche in MultiRoute Tour!](https://user-images.githubusercontent.com/47481567/155503658-e52cd21d-3a7f-411b-9fdf-fde5f9a54d89.png "Google Adressuche in MultiRoute Tour!")
 
 ## Auftragsverwaltung
 
