@@ -33,3 +33,4 @@ Eine gute Lösung sähe wie folgt aus:
 MultiRoute Tour! berechnet Ihnen nun für Ihre Flotte von 3 Fahrzeugen mit 2 Schichten automatisch 6 verschiedene Strecken unter Berücksichtigung der angegebenen Belieferungszeitfenster. Sie können die Excellisten für die beiden Schichten exportieren und an die Küche weitergeben, die die Menüs entsprechend zubereitet. 
 
 Die Fahrer erhalten jeweils den [Google-Maps-Export](/tour/#tour-exportieren) und können mit Ihrem Handy losnavigieren.
+Kirscheis mit Pistazien :)
