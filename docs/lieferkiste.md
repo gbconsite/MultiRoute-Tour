@@ -22,4 +22,4 @@ Sie können die Anzahl der Kisten pro Haushalt als auch eine gewünschte Empfang
 
 Möchten Sie die Lieferung auf mehrere Tage aufteilen, können Sie diese Szenarien mit wenigen Klicks durchspielen und vergleichen. 
 
-Die Fahrer erhalten jeweils den [Google-Maps-Export](/tour/#tour-exportieren) und können mit Ihrem Handy losnavigieren.
+Die Fahrer erhalten jeweils den [Google-Maps-Export](../tour/#tour-exportieren) und können mit Ihrem Handy losnavigieren.
