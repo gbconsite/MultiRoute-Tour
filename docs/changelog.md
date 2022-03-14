@@ -2,7 +2,7 @@
 
 Alle MultiRoute Tour! Revisionen sind hier mit den letzten Änderungen aufgeführt.
 
-## v1.2601 vom 03.02.2021
+## v1.2601 vom 03.02.2022
 - Die Anzeige der Tourenergebnisse ist bei großen Touren nun viel schneller.
 - Die Richtungspfeile der Touren können optional angeschaltet werden (Default: aus).
 - Bugfix: manueller Upload von HH:MM(+D)-Zeitfenstern 
