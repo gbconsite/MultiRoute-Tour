@@ -24,4 +24,4 @@ Täglich werden die zu beliefernden Kunden aus dem CRM als Excelliste exportiert
 * Klappt dies, so können die Aufträge auch gleichmäßig auf alle Fahrzeuge aufgeteilt werden.
 * Falls Aufträge übrig bleiben, kann mit einem Klick mit der **festangestellen Flotte + Springer** optimiert werden.
 
-Die Fahrer erhalten jeweils den [Google-Maps-Export](/tour/#tour-exportieren) und können mit Ihrem Handy losnavigieren.
+Die Fahrer erhalten jeweils den [Google-Maps-Export](../tour/#tour-exportieren) und können mit Ihrem Handy losnavigieren.
