@@ -19,7 +19,7 @@ Die Adressverwaltung befindet sich unter Planung in der linken Sidebar mit einem
 
 Hier können Ihre Adressen durchsucht werden. Gelöscht werden können diese nur durch den Administrator unter **Administration -> Upload**
 
-Neue Adressen können durch den [Upload](/upload) oder [manuell per Klick in die Karte](/tipps/#adressen-neu-anlegen) hinzugefügt werden.
+Neue Adressen können durch den [Upload](../upload) oder [manuell per Klick in die Karte](../tipps/#adressen-neu-anlegen) hinzugefügt werden.
 
 ![!](assets/Adressverwaltung2.png)
 
