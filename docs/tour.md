@@ -8,7 +8,7 @@ Zum Berechnen wählen Sie nun einmal die Planung (Mittwoch 13.03.2024) und die F
 
 Sie haben hier die Option noch weitere Parameter einzugeben, wie die Servicezeit oder das Routingprofil (PKW oder verschiedene LKW-Klassen). Mit "Berechnung starten" wird die Tour nun innerhalb von wenigen Sekunden berechnet.
 
-![!](assets/touren_berechnen.png)
+![Touren berechnen](assets/touren_berechnen.png "Touren berechnen")
 
 ## Tour anzeigen
 
