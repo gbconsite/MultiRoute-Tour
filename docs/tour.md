@@ -28,7 +28,7 @@ Klicken Sie 🗺️ [hier](https://tour.multiroute.de/klick_tour?token=9C278CAEC
 
 ![!](assets/clickmap.gif)
 
-Klicken Sie zum Download für den 💾 [Excel-Export](/assets/downloads/tourexport.xlsx) und den 💾 [PDF-Export](/assets/downloads/tourexport.pdf) für alle Strecken.
+Klicken Sie zum Download für den 💾 [Excel-Export](../assets/downloads/tourexport.xlsx) und den 💾 [PDF-Export](../assets/downloads/tourexport.pdf) für alle Strecken.
 
 ## Adresse in Touren suchen 
 
@@ -38,4 +38,4 @@ Mit einem Klick auf die Adressuche (Haussymbol) können Sie in den Touren Ihre e
 
 ## Aktuellen Kartenausschnitt drucken
 
-Ein Klick auf den Drucker erzeugt einen druckbaren 💾 [PDF-Export](/assets/Kartendruck.pdf), den Sie sich ausdrucken können.
+Ein Klick auf den Drucker erzeugt einen druckbaren 💾 [PDF-Export](../assets/Kartendruck.pdf), den Sie sich ausdrucken können.
