@@ -52,4 +52,4 @@ Für das Tagesgeschäft wäre die einfachste Lösung, die Daten wochenweise aufz
 Soll eine strategische Monat- oder Jahresplanung stattfinden, so kann bspw. mit Kalenderwochen gearbeitet werden, innerhalb derer ein Kunde angefahren werden soll. 
 Je mehr Spielraum Sie MultiRoute Tour! bei der Berechnung geben, desto besser werden i.d.R. die Ergebnisse.
 
-Die Fahrer erhalten jeweils den [Google-Maps-Export](/tour/#tour-exportieren) für die entsprechenden Tage und können mit Ihrem Handy losnavigieren.
+Die Fahrer erhalten jeweils den [Google-Maps-Export](../tour/#tour-exportieren) für die entsprechenden Tage und können mit Ihrem Handy losnavigieren.
