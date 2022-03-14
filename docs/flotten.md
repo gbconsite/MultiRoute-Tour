@@ -22,7 +22,7 @@ In den Flotten legen Sie fest, welche Fahrzeuge Sie im Einsatz haben.
 
     Die Adresse muss vorher einmal in MultiRoute Tour! hochgeladen oder angelegt worden sein. 
     Finden Sie Ihre Adresse hier nicht, erledigen Sie dies ganz einfach mit drei Klicks. 
-    Dies ist [hier](/tipps/#adressen-neu-anlegen) erklärt.
+    Dies ist [hier](tipps/#adressen-neu-anlegen) erklärt.
     
 Möchten Sie eine Start- oder Endadresse für die Fahrzeuge suchen, klicken Sie auf das Listensymbol (gelb markiert). 
 
