@@ -122,8 +122,6 @@ Sie können in MRT! Ihre Planungen manuell in der Karte zerteilen.
 
 5) Fertig. Sie haben nun aus einer Planung zwei Planungen erzeugt. 
 
-Die Planungen können Sie auch jederzeit [wieder vereinigen](/handbuch-mrt/Planungen_vereinen). 
-
 <hr style="border:2px solid gray"> </hr>
 
 ## Planungen vereinigen 
