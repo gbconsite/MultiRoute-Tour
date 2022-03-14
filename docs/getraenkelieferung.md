@@ -20,4 +20,4 @@ Sie haben Großkunden aber auch kleinere Supermärkte und die Gastronomie unter 
 
 Der Schlüssel sind hier die Kapazitäten Ihrer Fahrzeuge. Diese müssen vorher definiert werden und sollten am besten einen kleinen Puffer beeinhalten. Haben Sie Ihre Flotte erstellt, können Sie Ihre Touren mit einem Klick berechnen! 
 
-Die Fahrer erhalten jeweils den [Google-Maps-Export](/tour/#tour-exportieren) und können mit Ihrem Handy losnavigieren.
+Die Fahrer erhalten jeweils den [Google-Maps-Export](../tour/#tour-exportieren) und können mit Ihrem Handy losnavigieren.
