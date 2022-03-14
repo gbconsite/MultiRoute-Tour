@@ -41,4 +41,4 @@ Werden an einer Adresse Gehweg und Straße geräumt, müssen hieraus zwei Zeilen
 
 In Ihrer Flotte geben Sie nun die Anzahl Ihrer Traktoren und SUVs an und können sofort die Touren berechnen!
 
-Die Fahrer erhalten jeweils den [Google-Maps-Export](/tour/#tour-exportieren) und können mit Ihrem Handy losnavigieren.
+Die Fahrer erhalten jeweils den [Google-Maps-Export](../tour/#tour-exportieren) und können mit Ihrem Handy losnavigieren.
