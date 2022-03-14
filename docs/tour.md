@@ -38,4 +38,4 @@ Mit einem Klick auf die Adressuche (Haussymbol) können Sie in den Touren Ihre e
 
 ## Aktuellen Kartenausschnitt drucken
 
-Ein Klick auf den Drucker erzeugt einen druckbaren 💾 [PDF-Export](../assets/Kartendruck.pdf), den Sie sich ausdrucken können.
+Ein Klick auf den Drucker erzeugt einen druckbaren 💾 [PDF-Export](../assets/downloads/Kartendruck.pdf), den Sie sich ausdrucken können.
