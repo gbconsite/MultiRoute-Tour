@@ -28,7 +28,7 @@ Klicken Sie 🗺️ [hier](https://tour.multiroute.de/klick_tour?token=9C278CAEC
 
 ![!](assets/clickmap.gif)
 
-Klicken Sie zum Download für den 💾 [Excel-Export](../assets/downloads/tourexport.xlsx) und den 💾 [PDF-Export](../assets/downloads/tourexport.pdf) für alle Strecken.
+Klicken Sie zum Download für den 💾 [Excel-Export](../assets/downloads/Tourexport.xlsx) und den 💾 [PDF-Export](../assets/downloads/Tourexport.pdf) für alle Strecken.
 
 ## Adresse in Touren suchen 
 
