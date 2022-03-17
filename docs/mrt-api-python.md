@@ -1,6 +1,6 @@
 # API-Ablauf Python Beispiel
 
-Laden Sie dieses Jupyter-Notebook als [.ipynb](/assets/downloads/mrt-api.ipynb) 💾 oder [.html](/assets/downloads/mrt-api.ipynb) 💾 herunter.
+Laden Sie dieses Jupyter-Notebook als [.ipynb](../assets/downloads/mrt-api.ipynb) 💾 oder [.html](../assets/downloads/mrt-api.html) 💾 herunter.
 
 ## Vorbereitung
 
