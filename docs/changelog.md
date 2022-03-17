@@ -4,6 +4,10 @@ Alle MultiRoute Tour! Revisionen sind hier mit den letzten Änderungen aufgefüh
 
 ## 2022
 
+### v1.2625M vom 15.03.2022
+- Die Streckenzuordnung wird nun (falls vorhanden) in den Strecken- und Tourexcelexporten mit aufgeführt
+- Skills werden nun ebenfalls in den Streckenexporten aufgeführt (in Tourexport bereits vorhanden) 
+
 ### v1.2601 vom 03.02.2022
 - Die Anzeige der Tourenergebnisse ist bei großen Touren nun viel schneller.
 - Die Richtungspfeile der Touren können optional angeschaltet werden (Default: aus).
