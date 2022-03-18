@@ -5,7 +5,7 @@
 <div style="font-size: 11px">Photo by <a href="https://unsplash.com/@markuswinkler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Winkler</a> on <a href="https://unsplash.com/s/photos/fleet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>
 
 ## Szenario
-Ein Spediteursunternehmen optimiert täglich seine Touren. Es muss dabei alle Kundenaufträge optimal auf seine festangestellte Flotte von 2 LKW und 2 Sprintern sowie 2 Caddy-Springern, die nur nach Bedarf eingesetzt werden.
+Ein Spediteursunternehmen optimiert täglich seine Touren und muss dabei alle Kundenaufträge optimal auf seine festangestellte Flotte von 2 LKW und 2 Sprintern sowie 2 Caddy-Springern, die nur nach Bedarf eingesetzt werden, verteilen.
 Es hat pro Tag rund 500 Aufträge, die sich im auszuliefernden Gewicht stark unterscheiden. 
 
 ## Lösung mit MultiRoute Tour!
