@@ -272,6 +272,7 @@ Parameter:
 | adresse | Adresse Parameter                                              |
 | insert  | true(default) oder false. Nur neue Adressen werden hinzugefügt |
 | update  | true(default) oder false. Bestehende Adressen werden geupdated |
+| exakt_plz_ort | true oder false (default). Entweder die angegebene PLZ ODER der Ort müssen exakt (Groß-/Kleinschreibung egal) mit den Geokodierungsergebnissen übereinstimmen. Falls Sie eine alte PLZ angeben aber der Ort stimmt, kann die Adresse geokodiert werden. Ist auch der Ort falsch (oder anders geschrieben) wird die Adresse später als "Adresse ohne Koordinaten" geführt und muss korrigiert werden. Dieser Parameter wird nur dann empfohlen, wenn Sie häufig in Neubaugebiete fahren oder Probleme mit falsch geokodierten Adressen bspw. bei Dopplungen hatten. | 
 
 Adresse Parameter:
 
@@ -279,8 +280,8 @@ Adresse Parameter:
 |--------------------|-----------------------------------|
 | oi                 | Gebäude ID (required)             |
 | street\_oi         | Straßen ID                        |
-| longitude          | Längengrad (required)             |
-| latitude           | Breitengrad (required)            |
+| longitude          | Längengrad                        |
+| latitude           | Breitengrad                       |
 | plz                | Postleitzahl                      |
 | ort                | Ort                               |
 | ort\_zusatz        | Ort Zusatz                        |
