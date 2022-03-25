@@ -12,13 +12,13 @@ Für den einfachsten Fall benötigen Sie nur eine Tabelle mit Adressinformatione
 
 💾 [Musterliste](assets/downloads/Muster-Upload.xlsx)
 
-![Upload](assets/upload_einfach.jpg "Spaltenzuordnung im Upload")
+![!Upload](assets/upload_einfach.jpg "Spaltenzuordnung im Upload")
 
 ## Zusätzliche optionale Spalten
 
 Die notwendigen Spalten sind blau markiert, die optionalen orange. 
 
-![Upload erweitert](assets/upload_erweitert.jpg "Zusätzliche Spalten im Upload")
+![!Upload erweitert](assets/upload_erweitert.jpg "Zusätzliche Spalten im Upload")
 
 Neben einem Gewicht oder eine Stückzahl, können Sie ein oder mehrere Auftragszeitfenster festlegen. Diese können die Öffnungszeit(en) Ihres Kunden widerspiegeln. Sie können ebenfalls eine Auftragsbezeichnung und Notizen vergeben, die auf den Export-Dokumenten nach der Tourenberechnung wieder auftauchen. 
 
@@ -31,7 +31,7 @@ Mithilfe der Skills können Sie Besonderheiten abbilden, wenn ein Auftrag bspw. 
 In MultiRoute Tour! klicken Sie auf **1. Upload** und wählen Ihre Datei aus. Anschließend müssen Sie die Spalten Ihrer Datei auswählen, die von MultiRoute Tour! berücksichtigt werden sollen. 
 Der Dateiname wird standardmäßig als Planungsbezeichnung genommen. Diese können Sie im Feld "An Planung" manuell nach Belieben anpassen, bspw. zu "Montag 04.10.2021".
 
-![Spaltenzuordnung](assets/upload_zuordnung_v1.jpg "Zuordnung der Excelspalten")
+![!Spaltenzuordnung](assets/upload_zuordnung_v1.jpg "Zuordnung der Excelspalten")
 
 
 
