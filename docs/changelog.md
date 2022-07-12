@@ -4,6 +4,10 @@ Alle MultiRoute Tour! Revisionen sind hier mit den letzten Änderungen aufgefüh
 
 ## 2022
 
+### v1.2709M vom 01.07.2022
+- [Interaktive Anleitungen](https://gbconsite.de/multiroute-tour-info-nr-02-2022/) zur Einführung oder Wiederauffrischung 
+- Anzeige der Zeitspanne bei der Eingabe von Zeitfenstern. Zwischen 07:30 Uhr und 15:45 Uhr beträgt die Zeitspanne bspw. 08:15h.
+
 ### v1.2667M vom 29.04.2022
 - Optionaler neuer Parameter "Geokodierungsergebnisse mit gegebener PLZ oder ORT prüfen" (unter "Weitere Optionen" im Uploadformular beim Adressupload oder [exakt_plz_ort](https://tour.multiroute.de/handbuch/routen/#adressen-hinzufugenupdaten) in der API) für verbesserte Genauigkeit. Wenn aktiviert, müssen mindestens die PLZ oder der Ort exakt mit den hochgeladenen Daten übereinstimmen. Bsp: wenn *12345 Musterort* hochgeladen wird und bei der Geokodierung *12346 Musterort-Vorstadt* ermittelt wird, wird diese Adresse als "Adresse ohne Koordinaten" geführt und muss einmal händisch korrigiert werden. 
 - Verbesserungen in der Optimierung bei komplexen Problemen mit Skills, Streckenzuordnung, Zeitfenstern und Kapazität
