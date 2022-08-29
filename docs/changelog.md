@@ -4,6 +4,11 @@ Alle MultiRoute Tour! Revisionen sind hier mit den letzten Änderungen aufgefüh
 
 ## 2022
 
+### v1.2742M vom 10.08.2022
+- GMaps & Apple Maps Dark Mode
+- Fußgängerprofil 
+- Vereinfachte Wochenzeitplanung nach der Tourberechnung durch Klick auf die kleine Uhr neben der Tournummer
+
 ### v1.2709M vom 01.07.2022
 - [Interaktive Anleitungen](https://gbconsite.de/multiroute-tour-info-nr-02-2022/) zur Einführung oder Wiederauffrischung 
 - Anzeige der Zeitspanne bei der Eingabe von Zeitfenstern. Zwischen 07:30 Uhr und 15:45 Uhr beträgt die Zeitspanne bspw. 08:15h.
