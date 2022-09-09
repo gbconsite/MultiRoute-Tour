@@ -201,6 +201,6 @@ Wenn Sie noch einmal neu "würfeln" möchten und die **Streckenzuordnungen** kom
 
 ![image](https://user-images.githubusercontent.com/47481567/189374170-cc869671-0b5a-4e89-97f8-783153f6826c.png)
 
-!!! warning
+!!! warning "Achtung!"
 
-    Achtung: da die Streckenzuordnungsnummern an den Aufträgen immer überschrieben werden, können Sie dies nicht rückgängig machen. Wir empfehlen, eine separate Datei zum Testen hochzuladen und mit dieser Planung zu experimentieren, bevor Sie das Feature für Ihre echt Planung benutzen. 
+    Da die Streckenzuordnungsnummern an den Aufträgen immer überschrieben werden, können Sie dies nicht rückgängig machen. Wir empfehlen, eine separate Datei zum Testen hochzuladen und mit dieser Planung zu experimentieren, bevor Sie das Feature für Ihre echt Planung benutzen. 
