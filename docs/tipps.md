@@ -153,3 +153,54 @@ In der Karte finden Sie oben rechts die sogenannte Layersteuerung. Hier können 
 Wenn Sie auf das Fragezeichen und anschließend in die Karte klicken, können Sie sich zusätzlich die Postleitzahl und Ort für einen beliebigen Punkt anzeigen lassen. 
 
 ![!](assets/layersteuerung.png)
+
+## Strecken bei der nächsten Berechnung beibehalten
+
+Möchten Sie Ihre Strecken "einfrieren" und nur wenige Aufträge hinzufügen/ändern/entfernen? 
+Hierfür gibt es eine spezielle Funktion, die eben diese **Aufteilung der Aufträge auf die Strecken** bei den nächsten Berechnungen für Sie beibehält. 
+
+Dies funktioniert über die sogenannte **Streckenzuordnung**, die in der Flotte auch schlicht mit der Raute (**#**) abgekürzt wird.
+
+Gehen Sie zur Nutzung wie folgt vor:
+
+1. In Ihrer Flotte erhält jedes Fahrzeug eine eigene **Streckenzuordnung**snummer. Hier 1-4. 
+
+![image](https://user-images.githubusercontent.com/47481567/189370466-26fdadcf-c4a3-47b0-b5ca-b9f14b3c4128.png)
+
+2. Laden Sie eine Planung ganz normal hoch, mit allen Parametern, die Sie sonst auch benutzen.
+
+![!](https://user-images.githubusercontent.com/47481567/189369973-32178bae-a109-40cb-a9b6-b2f1843fc1f4.png)
+
+3. Berechnen Sie die Ausgangstour, die später "eingefroren" werden soll.
+
+![image](https://user-images.githubusercontent.com/47481567/189371248-54d71474-be00-4996-803f-8ee42e737bfb.png)
+
+In diesem Beispiel gibt es bspw. vier verschiedene Strecken, die fast exklusiv gewisse Gebiete zugewiesen bekommen haben. Weil sich die Strecken nicht überschneiden und auf Kundenbindung (gleicher Fahrer kommt immer beim gleichen Kunden vorbei) Wert legen, entscheiden Sie sich diese Tour "einzufrieren". 
+
+4. Tour einfrieren und Strecken beibehalten
+
+Wählen Sie alle Strecken, die Sie beibehalten möchten unten rechts mit den Checkboxen aus. 
+
+Wenn Sie von diesen Strecken ggf. doch nur **Alex** und **Lisa** beibehalten und die restlichen Aufträge noch einmal neu verteilen möchten, aktivieren Sie nur diese Strecken auf der Karte. Wenn Sie alle beibehalten möchten, aktivieren Sie alle mit **Alle anzeigen**.
+
+![image](https://user-images.githubusercontent.com/47481567/189372208-36ec035d-61c7-4e30-9c32-7c724356f9d1.png)
+
+In diesem Beispiel sollen also nur die Aufträge von **Alex** und **Lisa** beibehalten werden. 
+
+Klicken Sie nun auf das kleine blaue Bookmark-Icon [:material-bookmark:]() und bestätigen Sie. 
+
+![Screenshot 2022-09-09 162510](https://user-images.githubusercontent.com/47481567/189373123-ab62679b-4df0-498f-bfdb-5f1184223f00.png)
+
+![image](https://user-images.githubusercontent.com/47481567/189373608-dc3923c4-8f6b-4398-a139-affb64de35e0.png)
+
+5. Neue Tour mit bestehenden Zuordnunen berechnen
+
+Wenn Sie nun Aufträge verändern, wird die Zuordnung der Aufträge von **Alex** und **Lisa** bei neuen Tourberechnungen automatisch beibehalten. Beide können aber noch Aufträge dazubekommen, falls die Optimierung es erlaubt. 
+
+Wenn Sie noch einmal neu "würfeln" möchten und die **Streckenzuordnungen** komplett ignorieren möchten, können Sie diese einfach bei der nächsten Tourberechnungn ignorieren. 
+
+![image](https://user-images.githubusercontent.com/47481567/189374170-cc869671-0b5a-4e89-97f8-783153f6826c.png)
+
+!!! warning
+
+    Achtung: da die Streckenzuordnungsnummern an den Aufträgen immer überschrieben werden, können Sie dies nicht rückgängig machen. Wir empfehlen, eine separate Datei zum Testen hochzuladen und mit dieser Planung zu experimentieren, bevor Sie das Feature für Ihre echt Planung benutzen. 
