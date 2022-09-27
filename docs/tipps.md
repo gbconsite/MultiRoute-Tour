@@ -154,6 +154,8 @@ Wenn Sie auf das Fragezeichen und anschließend in die Karte klicken, können Si
 
 ![!](assets/layersteuerung.png)
 
+<hr style="border:2px solid gray"> </hr>
+
 ## Strecken bei der nächsten Berechnung beibehalten
 
 Möchten Sie Ihre Strecken "einfrieren" und nur wenige Aufträge hinzufügen/ändern/entfernen? 
@@ -204,3 +206,90 @@ Wenn Sie noch einmal neu "würfeln" möchten und die **Streckenzuordnungen** kom
 !!! warning "Achtung!"
 
     Da die Streckenzuordnungsnummern an den Aufträgen immer überschrieben werden, können Sie dies nicht rückgängig machen. Wir empfehlen, eine separate Datei zum Testen hochzuladen und mit dieser Planung zu experimentieren, bevor Sie das Feature für Ihre echt Planung benutzen. 
+
+
+<hr style="border:2px solid gray"> </hr>
+
+## Import in Google Maps mit MyMaps
+
+### Export-Formate
+
+![image](https://user-images.githubusercontent.com/47481567/192495199-6f92ba2c-08c7-4316-95dc-b182218c2179.png)
+
+Unsere [Export-Formate](../tour/#tour-exportieren), wie bspw. der [Google-Maps-Export](https://tour.multiroute.de/google_maps?token=9C278CAECFE8C38CC7D82C26FADDFE06659BB20461FDD7F6FDADD0373EECC1E87CCFD70D623E7217E44031895C591BF37C23BA6F74AB8B5479DCBD45ACC4E58B) sowie unsere [Klick-Maps](https://tour.multiroute.de/klick_tour?token=9C278CAECFE8C38CC7D82C26FADDFE0680100C06D22D0401A0BA9BCC118CF3552893F1FBD92AF3F89846B5AD707C30477CE9A167C20315962CAF98022ECD3AEE) wurden dazu konzipiert, Änderungen schnell an Fahrer übermitteln zu können.
+
+Wenn Sie mit sehr statischen Touren arbeiten und diese nur äußerst selten anpassen, kann es nützlich sein, sich die Touren in Google Maps *direkt* zu speichern, sodass man diese immer dabei hat. 
+
+Das, was Sie auf unserer [Klick-Map](https://tour.multiroute.de/klick_tour?token=9C278CAECFE8C38CC7D82C26FADDFE0680100C06D22D0401A0BA9BCC118CF3552893F1FBD92AF3F89846B5AD707C30477CE9A167C20315962CAF98022ECD3AEE) sehen, können Sie nämlich in ähnlicher Form auch in Google Maps abbilden, sodass Sie beim Navigieren im Fahrzeug nie den Überblick verlieren wo der nächste Auftrag liegt. 
+
+### My Maps
+[My Maps](https://www.google.com/maps/d/u/0/?hl=de) ist eine Plattform von Google, die es ermöglicht teilbare Karten für Google Maps zu generieren.
+
+Eine Karte für komplette Tour mit bspw. 4 Fahrzeugstrecken könnte bspw. so aussehen.
+
+![image](https://user-images.githubusercontent.com/47481567/192499502-23caf83b-4066-412f-a0d5-92267ad3011f.png)
+
+Wenn Sie navigieren, sehen Sie immer alle Aufträge, hier im Bild bspw. die gelben Pinnadeln 4, 5 und 6. 
+
+![image](https://user-images.githubusercontent.com/47481567/192500461-d4c3b5ed-d286-4a23-b394-81074daaa720.png)
+
+Testen Sie die Kartenansicht gerne mit unser [Beispielkarte für den Raum Berlin](https://www.google.com/maps/d/u/0/edit?mid=1LYUyCPCSPzVjpQN1FOiPTf_aQ_NAJZc&usp=sharing)
+
+### MultiRoute Tour! Excel-Export in My Maps einlesen und teilen 
+1. Exportieren Sie sich die Excelliste für eine Tour Ihrer Wahl.
+
+![image](https://user-images.githubusercontent.com/47481567/192501849-b24ed4d9-7daa-4f99-9bf9-146864e881bb.png)
+
+2. Da Google My Maps Adressen aus einer Spalte beziehen muss, erzeugen Sie mit einer einfachen Formel eine neue Spalte in Excel "Adresse". Die Formel hierzu lautet `=TEXTVERKETTEN(" ";WAHR;F2:I2)` für die im Bild angegebene Zelle. Danach übernehmen Sie diese Formel für weiteren Zellen mit einem Doppelklick auf den grünen Punkt in der unteren rechten Ecke.
+
+![image](https://user-images.githubusercontent.com/47481567/192503420-c554dca8-4178-4234-b845-78ea4679434a.png)
+
+Die Tabelle sollte nun so aussehen. Speichern Sie.
+
+![image](https://user-images.githubusercontent.com/47481567/192502937-ca6edf54-ea84-41f7-a761-cec5686e31f7.png)
+
+3. Öffnen Sie [My Maps](https://www.google.com/maps/d/u/0/?hl=de) und loggen Sie sich in Ihren Google Account ein. Legen Sie eine neue Karte an und vergeben Sie einen Namen. 
+
+![image](https://user-images.githubusercontent.com/47481567/192503947-18109c7d-28bc-44e1-88bc-f3fd43d9a632.png)
+
+4. Links in der Übersicht finden Sie die Option eine Datei hochzuladen. Klicken Sie auf **importieren**. 
+
+![image](https://user-images.githubusercontent.com/47481567/192504193-992e762c-0a57-4d40-b156-31600476465c.png)
+
+5. Ziehen Sie die Datei in das Fenster und lassen Sie los.
+
+![image](https://user-images.githubusercontent.com/47481567/192504424-30010ab8-cbfa-4bcf-9af4-e81a2be699a8.png)
+
+6. Wählen Sie hier die soeben angelegte Spalte **Adresse** aus.
+
+![image](https://user-images.githubusercontent.com/47481567/192504758-aaa5b1a8-4524-4a7c-9e67-bfbffa99020d.png)
+
+7. Im nächsten Schritt wählen Sie **Fz.Str.** aus. Schließen Sie den Export ab.
+
+![image](https://user-images.githubusercontent.com/47481567/192504891-50b16500-1660-4ae8-9cd5-0052156b1965.png)
+
+8. Auf der Karte erscheinen nun alle Pinnadeln in der gleichen Farbe. 
+
+![image](https://user-images.githubusercontent.com/47481567/192505225-2bf5d2a2-139c-4eb5-a800-5a7e203b9604.png)
+
+Um diese nach den Strecken einzufärben klicken Sie links in der Übersicht auf **einheitlicher Stil** um diesen anzupassen.
+
+![image](https://user-images.githubusercontent.com/47481567/192505403-5231fefb-f231-4115-91a9-9f7425de4190.png)
+
+Wählen Sie wie im Bild zweimal **Fz.Str.** aus, um hiernach einzufärben und die Label anzuzeigen.
+
+Fertig!
+
+9. Klicken Sie nun auf **Teilen** um die Karte mit Kollegen zu teilen oder bei Ihnen auf dem Handy anzuzeigen.
+
+Mit diesen Einstellungen kann jeder, der den Link hat, die Karte aufrufen.
+
+![image](https://user-images.githubusercontent.com/47481567/192506075-a9f5a8b3-ea90-4255-b639-8e631c1e7da5.png)
+
+Verschicken Sie den Link an alle, die ihn benötigen.
+
+Wenn jemand den Link mit Google Maps auf dem Handy aufruft, können alle Aufträge betrachtet werden. Mit einem Klick auf den enstprechenden Auftrag kann in der App sofort losnavigiert werden. 
+
+![image](https://user-images.githubusercontent.com/47481567/192499502-23caf83b-4066-412f-a0d5-92267ad3011f.png)
+
+
