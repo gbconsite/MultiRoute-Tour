@@ -214,8 +214,6 @@ Wenn Sie noch einmal neu "würfeln" möchten und die **Streckenzuordnungen** kom
 
 ### Export-Formate
 
-![image](https://user-images.githubusercontent.com/47481567/192495199-6f92ba2c-08c7-4316-95dc-b182218c2179.png)
-
 Unsere [Export-Formate](../tour/#tour-exportieren), wie bspw. der [Google-Maps-Export](https://tour.multiroute.de/google_maps?token=9C278CAECFE8C38CC7D82C26FADDFE06659BB20461FDD7F6FDADD0373EECC1E87CCFD70D623E7217E44031895C591BF37C23BA6F74AB8B5479DCBD45ACC4E58B) sowie unsere [Klick-Maps](https://tour.multiroute.de/klick_tour?token=9C278CAECFE8C38CC7D82C26FADDFE0680100C06D22D0401A0BA9BCC118CF3552893F1FBD92AF3F89846B5AD707C30477CE9A167C20315962CAF98022ECD3AEE) wurden dazu konzipiert, Änderungen schnell an Fahrer übermitteln zu können.
 
 Wenn Sie mit sehr statischen Touren arbeiten und diese nur äußerst selten anpassen, kann es nützlich sein, sich die Touren in Google Maps *direkt* zu speichern, sodass man diese immer dabei hat. 
@@ -223,6 +221,8 @@ Wenn Sie mit sehr statischen Touren arbeiten und diese nur äußerst selten anpa
 Das, was Sie auf unserer [Klick-Map](https://tour.multiroute.de/klick_tour?token=9C278CAECFE8C38CC7D82C26FADDFE0680100C06D22D0401A0BA9BCC118CF3552893F1FBD92AF3F89846B5AD707C30477CE9A167C20315962CAF98022ECD3AEE) sehen, können Sie nämlich in ähnlicher Form auch in Google Maps abbilden, sodass Sie beim Navigieren im Fahrzeug nie den Überblick verlieren wo der nächste Auftrag liegt. 
 
 ### My Maps
+![image](https://user-images.githubusercontent.com/47481567/192495199-6f92ba2c-08c7-4316-95dc-b182218c2179.png)
+
 [My Maps](https://www.google.com/maps/d/u/0/?hl=de) ist eine Plattform von Google, die es ermöglicht teilbare Karten für Google Maps zu generieren.
 
 Eine Karte für komplette Tour mit bspw. 4 Fahrzeugstrecken könnte bspw. so aussehen.
