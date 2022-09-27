@@ -24,7 +24,7 @@ In der Sidebar links können Sie mit einem Klick auf das Ordnersymbol alle bishe
 
 Mit den Icons können Sie sich die Gesamttour oder die Einzelstrecken als interaktive Karte, PDF, Excel, gpx oder im Google-Maps-Format exportieren.
 
-Klicken Sie 🗺️ [hier](https://tour.multiroute.de/klick_tour?token=9C278CAECFE8C38CC7D82C26FADDFE0680100C06D22D0401A0BA9BCC118CF3552893F1FBD92AF3F89846B5AD707C30477CE9A167C20315962CAF98022ECD3AEE) für die interaktive Karte oder scannen Sie den QR-Code mit dem Handy für den Google-Maps-Export.
+Klicken Sie 🗺️ [hier](https://tour.multiroute.de/klick_tour?token=9C278CAECFE8C38CC7D82C26FADDFE0680100C06D22D0401A0BA9BCC118CF3552893F1FBD92AF3F89846B5AD707C30477CE9A167C20315962CAF98022ECD3AEE) für die interaktive Karte, scannen Sie den QR-Code mit dem Handy oder klicken Sie [hier](https://tour.multiroute.de/google_maps?token=9C278CAECFE8C38CC7D82C26FADDFE06659BB20461FDD7F6FDADD0373EECC1E87CCFD70D623E7217E44031895C591BF37C23BA6F74AB8B5479DCBD45ACC4E58B) für den Google-Maps-Export. 
 
 ![!](assets/clickmap.gif)
 
