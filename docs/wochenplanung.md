@@ -1,7 +1,7 @@
 # Wochenplanung
 
 ## Anforderung 
-Wenn Sie Ihre Fahrzeuge nicht nur auf einfache Tagestouren schicken, bei denen das Fahrzeug immer wieder am gleichen Tag zurück zum Depot oder nach Hause fährt, sondern die Fahrzeuge bspw. *eine ganze Woche am Stück* mit Übernachtungen unterwegs sein sollen, kann dies ganz einfache in MRT! abgebildet werden. 
+Wenn Sie Ihre Fahrzeuge nicht nur auf einfache Tagestouren schicken, bei denen das Fahrzeug immer wieder am gleichen Tag zurück zum Depot oder nach Hause fährt, sondern die Fahrzeuge bspw. *eine ganze Woche am Stück* mit Übernachtungen unterwegs sein sollen, kann dies ganz einfach in MRT! abgebildet werden. 
 
 Um anstatt einer einfachen Tagestour eine Wochentour abzubilden, befolgen Sie diese zwei Schritte.
 
