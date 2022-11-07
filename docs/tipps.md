@@ -128,7 +128,7 @@ Sie können in MRT! Ihre Planungen manuell in der Karte zerteilen.
 
 Über die Karte können Sie zwei Planungen leicht vereinigen. 
 
-1) Erzeugen Sie unter **2. Planung** für alle Planungen mit dem Zauberstab blaue Polygone (Spalte Geometrie), wie [hier](/handbuch-mrt/Planungen_zerteilen/) unter 1) beschrieben.
+1) Erzeugen Sie unter **2. Planung** für alle Planungen mit dem Zauberstab blaue Polygone (Spalte Geometrie).
 
 2) Klicken Sie eine Planung in der linken Sidebar an. Diese wird nun blau wohingegen die nicht ausgewählten Polygone rot erscheinen.
 
