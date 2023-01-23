@@ -63,6 +63,7 @@ theme:
     - search.highlight
     - search.share
     - search.suggest
+    - content.code.copy
     
   font: false
   icon:  # from .icons path. Add to theme override for custom logo.
