@@ -16,8 +16,6 @@ In den Flotten legen Sie fest, welche Fahrzeuge Sie im Einsatz haben.
 - Die **Skills** beziehen sich auf die Skills die Sie ggf. hochgeladen haben. Hier würde nun auch entsprechend "Kühlfahrzeug" oder "mit Hebebühne" angegeben werden. 
 - In der **Aktionsspalte** können Sie den Fahrzeugtypen klonen oder löschen.
 
-## Start- und Endadresse definieren
-
 ???+ note
 
 	Hinweis zu Tagen beim Zeitfenster:
@@ -25,6 +23,7 @@ In den Flotten legen Sie fest, welche Fahrzeuge Sie im Einsatz haben.
 	Wenn Sie Aufträge in der Nacht erledigen oder Sie generell in längeren Schichten arbeiten, müssen Sie dies entsprechend sowohl bei den Auftragszeitfenstern im Upload, als auch beim Einsatzzeitfesnter der Fahrzeuge kennzeichnen.
 	Bsp.: Ein Auftrag kann zwischen 22:00 Uhr und 02:00 des Folgetages erledigt werden. 22:00 Uhr bezieht sich hierbei auf den Ausgangstag (Default), 02:00 Uhr auf den Folgetag. Das Einsatzzeitfenster der Fahrzeuge könnte bspw. 20:00 Uhr bis 04:00 Uhr des Folgetags betragen. Dies kennzeichnet sich in der Flotte mit "Tag 0 20:00 Uhr bis Tag 1 04:00 Uhr". 
 
+## Start- und Endadresse definieren
     
 Möchten Sie eine Start- oder Endadresse für die Fahrzeuge suchen, klicken Sie auf das Listensymbol (gelb markiert). 
 
