@@ -72,12 +72,23 @@ Aufträge beinhalten gewisse notwendige Angaben Kunden oder können eine Vielzah
 |Kapazität|Liefermenge in kg, Stück, oder Personen|10|
 |Servicezeit|Individuelle Zeit, die am Auftragsort verbracht wird in Sekunden|60|
 |Auftragszeitfenster Start|Startzeit eines Zeitfensters innerhalb dessen der Auftrag erledigt werden kann|08:00|
+|Start am nächsten Tag (ja/nein)|Wenn der Zeitpunkt nicht auf den Ausgangstag sondern den Folgetag fällt, muss dies mit **ja** gekennzeichnet werden|nein| 
 |Auftragszeitfenster Ende|Endzeit eines Zeitfensters innerhalb dessen der Auftrag erledigt werden kann|14:00|
+|Ende am nächsten Tag (ja/nein)|Wenn der Zeitpunkt nicht auf den Ausgangstag sondern den Folgetag fällt, muss dies mit **ja** gekennzeichnet werden|ja| 
 ||||
 |**Profi-Bedingungen**|||
 |Skills|Zuordnung eines Auftrages zu einem Fahrzeug damit besondere Fahrer- oder Fahrzeuganforderungen für diesen Auftrag abgebildet werden können, wenn bspw. Ware für diesen Auftrag (aber für andere nicht) gekühlt werden muss. Es können auch mehrere Skills angeben und kombiniert werden (kommagetrennt). In der Flotte erhält jedes Fahrzeug dann den entsprechenden Skill. Skills sind UND-Bedingungen, d.h. ein Fahrzeug muss immer alle Auftrags-Skills erfüllen, damit der Auftrag erledigt werden kann.|Kühlfahrzeug, Gabelstapler|
 |Streckenzuordnung|Ähnlich der Skills, mit dem Unterschied, dass hier eine ODER-Bedingung gilt, d.h. wenn bspw. jedes Fahrzeug eine eigene Nummer hat, können am Auftrag mehrere Fahrzeugnummern angegeben werden (kommagetrennt), die den Auftrag erledigen dürfen.|3,5,9|
 |Priorität|Dient der Priorisierung von einzelnen Aufträgen über andere, wenn nicht alle erledigt werden können. Wichtige Aufträge erhalten eine 1 und Aufträge, die nur erledigt werden sollen, wenn alle wichtigen Aufträge verplant wurden eine 0.| 1 |
+
+???+ Hinweis zu "Start/Ende am nächsten Tag (ja/nein)"
+
+	MultiRoute Tour! geht per Default davon aus, dass alle Ihre Aufträge am gleichen Kalendertag bearbeitet werden. 
+	Wenn Sie Aufträge in der Nacht erledigen oder Sie generell in längeren Schichten arbeiten, müssen Sie dies entsprechend kennzeichnen.
+	Bsp.: Ein Auftrag kann zwischen 22:00 Uhr und 02:00 des Folgetages erledigt werden. 22:00 Uhr bezieht sich hierbei auf den Ausgangstag (Default). 
+	In diesem Fall kann die Zelle entweder leer gelassen oder mit einem "nein" gekennzeichnet werden.
+	02:00 Uhr hingegen meint den Folgetag und muss entsprechend mit "ja" gekennzeichnet werden.
+ 
 
 Kontaktieren Sie uns gerne, wenn Sie eine besonders komplizierte Anforderung haben. Wir freuen uns über Ihre Anfrage!
 
