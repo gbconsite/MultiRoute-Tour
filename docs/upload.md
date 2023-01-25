@@ -71,9 +71,9 @@ Aufträge beinhalten gewisse notwendige Angaben Kunden oder können eine Vielzah
 |**Einfache Bedingungen**|||
 |Kapazität|Liefermenge in kg, Stück, oder Personen|10|
 |Servicezeit|Individuelle Zeit, die am Auftragsort verbracht wird in Sekunden|60|
-|Auftragszeitfenster Start|Startzeit eines Zeitfensters innerhalb dessen der Auftrag erledigt werden kann|08:00|
+|Auftragszeitfenster Start|Startzeit eines Zeitfensters innerhalb dessen der Auftrag erledigt werden kann|20:00|
 |Start am nächsten Tag (ja/nein)|Wenn der Zeitpunkt nicht auf den Ausgangstag sondern den Folgetag fällt, muss dies mit **ja** gekennzeichnet werden|nein| 
-|Auftragszeitfenster Ende|Endzeit eines Zeitfensters innerhalb dessen der Auftrag erledigt werden kann|14:00|
+|Auftragszeitfenster Ende|Endzeit eines Zeitfensters innerhalb dessen der Auftrag erledigt werden kann|04:00|
 |Ende am nächsten Tag (ja/nein)|Wenn der Zeitpunkt nicht auf den Ausgangstag sondern den Folgetag fällt, muss dies mit **ja** gekennzeichnet werden|ja| 
 ||||
 |**Profi-Bedingungen**|||
