@@ -20,12 +20,10 @@ In den Flotten legen Sie fest, welche Fahrzeuge Sie im Einsatz haben.
 
 ???+ note
 
-	Hinweis zu "Start/Ende am nächsten Tag (ja/nein)":
+	Hinweis zu Tagen beim Zeitfenster:
 	MultiRoute Tour! geht per Default davon aus, dass alle Ihre Aufträge am gleichen Kalendertag bearbeitet werden. 
-	Wenn Sie Aufträge in der Nacht erledigen oder Sie generell in längeren Schichten arbeiten, müssen Sie dies entsprechend kennzeichnen.
-	Bsp.: Ein Auftrag kann zwischen 22:00 Uhr und 02:00 des Folgetages erledigt werden. 22:00 Uhr bezieht sich hierbei auf den Ausgangstag (Default). 
-	In diesem Fall kann die Zelle entweder leer gelassen oder mit einem "nein" gekennzeichnet werden.
-	02:00 Uhr hingegen meint den Folgetag und muss entsprechend mit "ja" gekennzeichnet werden.
+	Wenn Sie Aufträge in der Nacht erledigen oder Sie generell in längeren Schichten arbeiten, müssen Sie dies entsprechend sowohl bei den Auftragszeitfenstern im Upload, als auch beim Einsatzzeitfesnter der Fahrzeuge kennzeichnen.
+	Bsp.: Ein Auftrag kann zwischen 22:00 Uhr und 02:00 des Folgetages erledigt werden. 22:00 Uhr bezieht sich hierbei auf den Ausgangstag (Default), 02:00 Uhr auf den Folgetag. Das Einsatzzeitfenster der Fahrzeuge könnte bspw. 20:00 Uhr bis 04:00 Uhr des Folgetags betragen. Dies kennzeichnet sich in der Flotte mit "Tag 0 20:00 Uhr bis Tag 1 04:00 Uhr". 
 
     
 Möchten Sie eine Start- oder Endadresse für die Fahrzeuge suchen, klicken Sie auf das Listensymbol (gelb markiert). 
