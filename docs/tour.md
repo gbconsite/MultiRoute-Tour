@@ -6,7 +6,7 @@ Unter **Touren** können Sie Touren optimieren und bereits berechnete Touren anz
 
 Zum Berechnen wählen Sie nun einmal die Planung (Mittwoch 13.03.2024) und die Flotte (Standardflotte) aus, mit denen Sie eine Tour optimieren möchten. 
 
-Sie haben hier die Option noch weitere Parameter einzugeben, wie die Servicezeit oder das Routingprofil (PKW oder verschiedene LKW-Klassen). Mit "Berechnung starten" wird die Tour nun innerhalb von wenigen Sekunden berechnet.
+Sie haben hier die Option noch weitere Parameter einzugeben, wie die Servicezeit oder das Routingprofil (PKW oder verschiedene LKW-Klassen). Ein Klick auf die kleine Waage lastet Ihre Fahrzeuge so gleich aus wie möglich. Mit "Berechnung starten" wird die Tour nun innerhalb von wenigen Sekunden berechnet.
 
 ![Touren berechnen](assets/touren_berechnen.png "Touren berechnen")
 
