@@ -18,11 +18,15 @@ In den Flotten legen Sie fest, welche Fahrzeuge Sie im Einsatz haben.
 
 ## Start- und Endadresse definieren
 
-!!! info "Achtung"
+???+ note
 
-    Die Adresse muss vorher einmal in MultiRoute Tour! hochgeladen oder angelegt worden sein. 
-    Finden Sie Ihre Adresse hier nicht, erledigen Sie dies ganz einfach mit drei Klicks. 
-    Dies ist [hier](../tipps/#adressen-neu-anlegen) erklärt.
+	Hinweis zu "Start/Ende am nächsten Tag (ja/nein)":
+	MultiRoute Tour! geht per Default davon aus, dass alle Ihre Aufträge am gleichen Kalendertag bearbeitet werden. 
+	Wenn Sie Aufträge in der Nacht erledigen oder Sie generell in längeren Schichten arbeiten, müssen Sie dies entsprechend kennzeichnen.
+	Bsp.: Ein Auftrag kann zwischen 22:00 Uhr und 02:00 des Folgetages erledigt werden. 22:00 Uhr bezieht sich hierbei auf den Ausgangstag (Default). 
+	In diesem Fall kann die Zelle entweder leer gelassen oder mit einem "nein" gekennzeichnet werden.
+	02:00 Uhr hingegen meint den Folgetag und muss entsprechend mit "ja" gekennzeichnet werden.
+
     
 Möchten Sie eine Start- oder Endadresse für die Fahrzeuge suchen, klicken Sie auf das Listensymbol (gelb markiert). 
 
