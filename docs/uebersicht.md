@@ -31,4 +31,4 @@ Für detailliertere Erklärungen klicken Sie sich links durch die einzelnen Schr
 
 
 ## Newsletter 
-Abonieren Sie [unseren Newsletter](https://publ.maillist-manage.com/ua/Optin?od=11287eca5605b8&zx=1283976e&lD=11669435b1efc0ce&n=11699f75114c2c8&sD=11669435b1f80da7) und seien Sie immer up-to-date! Einmal im Quartal alle Infos zu neuen Features und Verbesserungen.
+Abonnieren Sie [unseren Newsletter](https://publ.maillist-manage.com/ua/Optin?od=11287eca5605b8&zx=1283976e&lD=11669435b1efc0ce&n=11699f75114c2c8&sD=11669435b1f80da7) und seien Sie immer up-to-date! Einmal im Quartal alle Infos zu neuen Features und Verbesserungen.
