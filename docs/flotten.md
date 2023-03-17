@@ -12,7 +12,7 @@ In den Flotten legen Sie fest, welche Fahrzeuge Sie im Einsatz haben.
 - Die **Kapazität** gibt an, welches Fassungsvermögen in Stück oder kg der jeweilige Fahrzeugtyp hat.
 - Die **Einsatzzeit** können Sie beliebig anpassen. 
 - Bei **Pausen** können Sie genau eine Pause berücksichtigen lassen, die sich innerhalb der Einsatzzeit befinden muss. Bspw. können Sie eine 60-minütige Pause zwischen 12 und 14 Uhr einbauen lassen. Diese 60 min werden vom Algorithmus automatisch optimal zugeteilt, frühestens bspw. 12-13 Uhr oder spätestens 13-14 Uhr.
-- Die **Start- und Endadresse** können beliebig wählen. Die Adresse muss nur im System vorhanden sein und vorher entweder hochgeladen oder manuell gesetzt worden sein. 
+- Die **Start- und Endadresse** können beliebig wählen. Die Adresse muss nur im System vorhanden sein und vorher entweder hochgeladen oder manuell gesetzt worden sein. Fehlt Ihre Adresse? Legen Sie sie einmalig im System an wie  [hier](../tipps/#adressen-neu-anlegen) erklärt. 
 - Die **Skills** beziehen sich auf die Skills die Sie ggf. hochgeladen haben. Hier würde nun auch entsprechend "Kühlfahrzeug" oder "mit Hebebühne" angegeben werden. 
 - In der **Aktionsspalte** können Sie den Fahrzeugtypen klonen oder löschen.
 
