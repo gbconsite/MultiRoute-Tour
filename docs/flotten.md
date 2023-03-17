@@ -32,5 +32,5 @@ Es öffnet sich eine Suchmaske in der Sie bspw. den Straßennamen eingeben.
 
 ![!](assets/Adresssuche_Str.png)
 
-Wenn Sie auf die entsprechende Adresse klicken, ist diese eingetragen. Vergessen Sie am Ende nicht, die Flotte zu speichern! 
+Wenn Sie auf die entsprechende Adresse klicken, ist diese eingetragen. Fehlt Ihre Adresse? Legen Sie sie einmalig im System an wie  [hier](../tipps/#adressen-neu-anlegen) erklärt. Vergessen Sie am Ende nicht, die Flotte zu speichern! 
 
