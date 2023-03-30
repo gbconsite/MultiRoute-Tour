@@ -13,8 +13,8 @@ nav:
       - Tipps & Tricks: tipps.md
       - Wochenplanung: wochenplanung.md
       - Changelog: changelog.md
-    - Use Cases:
-      - Spediteur: spediteur.md
+    - Anwendungsbeispiele:
+      - Spedition: spediteur.md
       - Außendienst: aussendienst.md
       - Schneeräumung: schneeraeumung.md
       - Essen auf Rädern: essen_auf_raedern.md
