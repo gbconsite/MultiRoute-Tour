@@ -1,6 +1,6 @@
 # API-Ablauf
 
-## Vokabular
+## Terminologie
 
 In MultiRoute Tour! spielen folgende Begriffe eine entscheidende Rolle:
 
