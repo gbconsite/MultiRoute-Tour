@@ -1,4 +1,4 @@
-# Spediteur
+# Spedition und Kurierdienste
 
 ![!](assets/sprinter.jpg)
 
