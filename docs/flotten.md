@@ -1,3 +1,7 @@
+---
+description: Unter 3. Flotten definieren Sie, welche Fahrzeuge Sie im Einsatz haben. Sie können viele verschiedene Parameter definieren.
+---
+
 # **3. Flotten**
 
 In den Flotten legen Sie fest, welche Fahrzeuge Sie im Einsatz haben.
