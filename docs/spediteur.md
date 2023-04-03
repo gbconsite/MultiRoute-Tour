@@ -1,3 +1,7 @@
+---
+description: Nutzen Sie Ihre Flotte ideal aus und erledigen Sie alle Stops. Teilen Sie die Aufträge effizient auf Ihre eigene Flotte sowie externe Dienstleister auf.
+---
+
 # Spedition und Kurierdienste
 
 ![!](assets/sprinter.jpg)
