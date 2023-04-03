@@ -1,3 +1,7 @@
+---
+description: Sehen Sie sich das Python-Beispiel zum Anprogrammieren der MultiRoute Tour! API im Jupyter Notebook an.
+---
+
 # API-Ablauf Python Beispiel
 
 Laden Sie dieses Jupyter-Notebook als [.ipynb](../assets/downloads/mrt-api.ipynb) 💾 oder [.html](../assets/downloads/mrt-api.html) 💾 herunter.
