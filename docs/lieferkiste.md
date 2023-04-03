@@ -1,3 +1,7 @@
+---
+description: Beliefern Sie Ihre Kunden an festen Tagen mit Ihrer Obst- und Gemüsekiste. Nutzen Sie Ihre Fahrzeuge optimal aus und sparen Sie Kosten.
+---
+
 # Lieferkisten 
 
 ![!](assets/lieferkiste.jpg)
