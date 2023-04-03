@@ -1,3 +1,7 @@
+---
+description: Wir nehmen den Schutz Ihrer Daten ernst. Alle Details finden Sie in unserer Datenschutzerklärung.
+---
+
 # Datenschutzerklärung
 
 ## Datenschutz in MultiRoute Tour!
