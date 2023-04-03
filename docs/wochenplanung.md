@@ -1,3 +1,7 @@
+---
+description: Planen Sie eine ganze Woche im Voraus und erhalten Sie einen detaillierten Plan, wer wann wo hinfahren muss.
+---
+
 # Wochenplanung
 
 ## Anforderung 
