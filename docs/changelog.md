@@ -1,3 +1,7 @@
+---
+description: Verfolgen Sie alle Änderungen und Versionssprünge im Changelog.
+---
+
 # Changelog
 
 Alle MultiRoute Tour! Revisionen sind hier mit den letzten Änderungen aufgeführt.
