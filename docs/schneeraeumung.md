@@ -1,3 +1,7 @@
+---
+description: Befreien Sie Ihre Kunden von Eis und Schnee mit Ihrer Flotte und unterschiedlichen Räumfahrzeugen. Definieren Sie im Voraus, wo kleine Traktoren nötig sind oder große Räumfahrzeuge zum Einsatz kommen können.
+---
+
 # Schneeräumung
 
 ![!](assets/snow.jpg)
