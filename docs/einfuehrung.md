@@ -1,4 +1,8 @@
-## Vokabular
+---
+description: Lernen Sie MultiRoute Tour! kennen und informieren Sie sich über die Terminologie, die zugrundeliegenden Konzepte und den generellen Ablauf.
+---
+
+## Terminologie
 
 In MultiRoute Tour! spielen folgende Begriffe eine entscheidende Rolle:
 
