@@ -1,3 +1,7 @@
+---
+description: Unter 2. Planung können Sich alle Ihre angelegten Planungen auf der Karte ansehen und Aufträge bearbeiten.
+---
+
 # **2. Planung**
 
 ## Bedienung
