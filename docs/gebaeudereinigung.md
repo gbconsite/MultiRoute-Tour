@@ -1,3 +1,7 @@
+---
+description: Planen Sie Ihre Team-Einsätze mit der voraussichtlichen Arbeitszeit und Fixterminen. 
+---
+
 # Gebäudereinigung
 
 ![!](assets/reinigung.jpg)
