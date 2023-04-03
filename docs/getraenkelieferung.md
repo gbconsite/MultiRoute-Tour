@@ -1,3 +1,7 @@
+---
+description: Beliefern Sie kleine und große Märkte effizient mit Ihrer Flotte. Nutzen Sie die Kapazität Ihrer Fahrzeuge effizient aus.
+---
+
 # Getränkelieferungen
 
 ![!](assets/getraenke.jpg)
