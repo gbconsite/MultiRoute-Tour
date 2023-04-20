@@ -75,15 +75,16 @@ Aufträge beinhalten gewisse notwendige Angaben Kunden oder können eine Vielzah
 |**Einfache Bedingungen**|||
 |Kapazität|Liefermenge in kg, Stück, oder Personen|10|
 |Servicezeit|Individuelle Zeit, die am Auftragsort verbracht wird in Sekunden|60|
-|Auftragszeitfenster Start|Startzeit eines Zeitfensters innerhalb dessen der Auftrag erledigt werden kann|20:00|
+|Auftragszeitfenster Start|Startzeit eines Zeitfensters innerhalb dessen der Auftrag erledigt werden kann. Es können auch mehrere mögliche Zeitfenster hochgeladen werden.|20:00|
 |Start am nächsten Tag (ja/nein)|Wenn der Zeitpunkt nicht auf den Ausgangstag sondern den Folgetag fällt, muss dies mit **ja** gekennzeichnet werden|nein| 
-|Auftragszeitfenster Ende|Endzeit eines Zeitfensters innerhalb dessen der Auftrag erledigt werden kann|04:00|
+|Auftragszeitfenster Ende|Endzeit eines Zeitfensters innerhalb dessen der Auftrag erledigt werden kann. Es können auch mehrere mögliche Zeitfenster hochgeladen werden.|04:00|
 |Ende am nächsten Tag (ja/nein)|Wenn der Zeitpunkt nicht auf den Ausgangstag sondern den Folgetag fällt, muss dies mit **ja** gekennzeichnet werden|ja| 
 ||||
 |**Profi-Bedingungen**|||
 |Skills|Zuordnung eines Auftrages zu einem Fahrzeug damit besondere Fahrer- oder Fahrzeuganforderungen für diesen Auftrag abgebildet werden können, wenn bspw. Ware für diesen Auftrag (aber für andere nicht) gekühlt werden muss. Es können auch mehrere Skills angeben und kombiniert werden (kommagetrennt). In der Flotte erhält jedes Fahrzeug dann den entsprechenden Skill. Skills sind UND-Bedingungen, d.h. ein Fahrzeug muss immer alle Auftrags-Skills erfüllen, damit der Auftrag erledigt werden kann.|Kühlfahrzeug, Gabelstapler|
 |Streckenzuordnung|Ähnlich der Skills, mit dem Unterschied, dass hier eine ODER-Bedingung gilt, d.h. wenn bspw. jedes Fahrzeug eine eigene Nummer hat, können am Auftrag mehrere Fahrzeugnummern angegeben werden (kommagetrennt), die den Auftrag erledigen dürfen.|3,5,9|
 |Priorität|Dient der Priorisierung von einzelnen Aufträgen über andere, wenn nicht alle erledigt werden können. Wichtige Aufträge erhalten eine 1 und Aufträge, die nur erledigt werden sollen, wenn alle wichtigen Aufträge verplant wurden eine 0.| 1 |
+|Zeitfenster (HH:MM(+D)-Format)|Das HH:MM(+D)-Format bietet die Möglichkeit ein oder mehrere Zeitfenster gebündelt zu übergeben. Es folgt dem Schema [Startzeitpunkt,Endzeitpunkt]. Mehr Infos [hier](https://tour.multiroute.de/handbuch/routen/#hhmmd-format-fur-multi-zeitfenster).|[08:00,12:00];[14:00,18:30] oder [08:00,12:00]|
 
 ???+ Hinweis zu "Start/Ende am nächsten Tag (ja/nein)"
 
