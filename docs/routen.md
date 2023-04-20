@@ -524,7 +524,7 @@ Beispiel-Rückgabe für den obigen GET-Request:
 Das HHMMD-Format ist eine intern verwendete String-Formatierung zur
 Serialisierung von Multi-Zeitfenstern.  
 Die Intention hinter dem Format war, dass sich die Zeitfenster nicht mit
-einem Datum auf absolut fixierte Zeitpunkte beziehen (so etwas wie
+einem Datum auf absolut fixierte Zeitpunkte beziehen (bspw. 
 "03-05-2020:08:00:00"),  
 sondern einen relativen Bezug besitzen zum Starttag, an dem die Tour
 beginnen soll.
