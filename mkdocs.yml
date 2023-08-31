@@ -32,7 +32,7 @@ nav:
         - PHP: mrt-api-php.md
 #    - Referenzen: 14.md
     - Preise: preise.md
-    - Impressum: impressum.md
+    - Kontakt: impressum.md
     - Datenschutz: datenschutz.md
 
 theme:
