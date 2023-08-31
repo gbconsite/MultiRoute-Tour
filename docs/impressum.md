@@ -2,7 +2,7 @@
 description: Im Impressum finden Sie unsere Kontaktinformationen. Rufen Sie uns an oder schreiben Sie uns gerne eine Mail.
 ---
 
-# Impressum
+# Kontakt
 
 ## Kontakt und Support für MultiRoute Tour!
 
