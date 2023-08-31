@@ -19,7 +19,7 @@ gb consite GmbH Geomarketing Software & Beratung<br>
 Mittenheimer Straße 58<br>
 85764 Oberschleißheim, Deutschland<br>
 
-## Kontakt gbconsite
+## Kontakt gb consite
 Telefon: +49 89 / 309 052 970<br>
 Telefax: +49 89 / 309 052 979<br>
 E-Mail: [info@gbconsite.de](mailto:info@gbconsite.de)<br>
