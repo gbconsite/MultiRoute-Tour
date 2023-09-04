@@ -6,6 +6,17 @@ description: Verfolgen Sie alle Änderungen und Versionssprünge im Changelog.
 
 Alle MultiRoute Tour! Revisionen sind hier mit den letzten Änderungen aufgeführt.
 
+## 2023
+
+### v1.2860M vom 04.09.2023
+- Optionaler erweiterter Routingalgorithmus
+- Geschwindigkeitseinstellung: Die Durchschnittsgeschwindigkeit für alle Fahrzeuge kann prozentual reduziert oder erhöht werden. So kann in Innenstädten mit viel Verkehr bspw. mit nur 90% der Durchschnittsgeschwindigkeit gerechnet werden oder mit 105% in sehr ländlichen Regionen oder für lange Strecken mit wenig Verkehr und vielen Autobahn- und Landstraßenabschnitten. Die Einstellung eignet sich ebenfalls sehr gut um gewisse Puffer einzubauen.
+
+### v1.2800M vom 08.03.2023
+- Einstellungsmöglichkeit: schnellere oder beste Optimierung, wobei die schnelleren Optimierungen ebenfalls sehr gute Ergebnisse in einem Bruchteil der Berechnungsdauer der besten Optimierung liefern.
+- Bugfixes: beschleunigter Upload
+- Schnellerer SaaS-Server!
+
 ## 2022
 
 ### v1.2742M vom 10.08.2022
