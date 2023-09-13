@@ -323,8 +323,8 @@ Rückgabe:
         "privathaushalte": 0,
         "gewerbebetriebe": 0,
         "werbeverweigerer": 0,
-        "longitude": 52.5347133208835,
-        "latitude": 13.4075689315796
+        "longitude": 13.4075689315796,
+        "latitude": 52.5347133208835
     }, {
         "oi": "GBC360693",
         "plz": "84030",
@@ -338,8 +338,8 @@ Rückgabe:
         "privathaushalte": 0,
         "gewerbebetriebe": 0,
         "werbeverweigerer": null,
-        "longitude": 12.1660333871841,
-        "latitude": 48.5649005287186
+        "longitude": 48.5649005287186,
+        "latitude": 12.1660333871841
     }]
      }
 
