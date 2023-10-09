@@ -926,6 +926,8 @@ Einzelne Fahrzeugstrecken Array Objekt:
 | apple\_maps\_url        | Navigationsformat Apple Maps        |
 | token                   | Token für Google/Apple Maps und Klick Maps Exporte| 
 
+#### Klick Maps
+
 Klick Maps lassen sich über den Link
 ```
 https://tour.multiroute.de/klick_tour?token= 
