@@ -68,6 +68,9 @@ Fügen Sie dann einmal eine Verknüpfung **Dienst starten** und **Dienst stoppen
 
 ![image](https://github.com/gbconsite/MultiRoute-Tour/assets/47481567/2b982684-3e8d-4267-b55b-ab8f7d5ac8a7)
 
+Auf iOS setzen Sie den **Dienststatus** auf aktiv/inaktiv zum Starten/Stoppen. 
+
+
 ### Kontakt 
 **Interesse?**
 
