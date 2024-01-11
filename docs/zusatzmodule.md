@@ -26,7 +26,7 @@ nur zur Tourenplanung und Einsatzkoordinierung eingesetzt wird.
 
 ### Beispiel
 Der Zusteller der Tageszeitung wartet auf das Speditionsfahrzeug an
-der Abladestelle. Nach 10 Minuten warten im Regen ruft er den
+der Abladestelle. Nach 10 Minuten Warten im Regen ruft er den
 zuständigen Gebietsleiter an, der ihm mitteilen kann, wo sich das
 Speditionsfahrzeug befindet. Die Arbeitszeit dieses Zustellers
 verlängert sich an diesem Tag um die Wartezeit. Diese lässt sich auf
