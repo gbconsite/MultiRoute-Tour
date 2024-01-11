@@ -66,8 +66,6 @@ Hierzu drücken Sie auf Ihrem Startbildschirm drei Sekunden auf eine freie Stell
 Dort klicken Sie auf **Widgets** und suchen dann nach **Traccar**.
 Fügen Sie dann einmal eine Verknüpfung **Dienst starten** und **Dienst stoppen** hinzu.
 
-Auf iOS gibt es leider kein vergleichbares Feature. Zum Aktivieren und Deaktivieren müssen Sie in der App den **Dienststatus** auf aktiv/inaktiv setzen. 
-
 ![image](https://github.com/gbconsite/MultiRoute-Tour/assets/47481567/2b982684-3e8d-4267-b55b-ab8f7d5ac8a7)
 
 ### Kontakt 
