@@ -8,6 +8,11 @@ Alle MultiRoute Tour! Revisionen sind hier mit den letzten Änderungen aufgefüh
 
 ## 2023
 
+### v1.2951M vom 20.12.2023
+- Neu: Fußprofil neben PKW- und LKW-Profilen!
+- Bei User-Emails wird die Groß/Kleinschreibung ignoriert
+- Mehrere Pausen können nun bei den Fahrzeugen in der Flotte eingegeben werden und damit bspw. Übernachtungen einfacher abgebildet werden
+
 ### v1.2860M vom 04.09.2023
 - Optionaler erweiterter Routingalgorithmus
 - Geschwindigkeitseinstellung: Die Durchschnittsgeschwindigkeit für alle Fahrzeuge kann prozentual reduziert oder erhöht werden. So kann in Innenstädten mit viel Verkehr bspw. mit nur 90% der Durchschnittsgeschwindigkeit gerechnet werden oder mit 105% in sehr ländlichen Regionen oder für lange Strecken mit wenig Verkehr und vielen Autobahn- und Landstraßenabschnitten. Die Einstellung eignet sich ebenfalls sehr gut um gewisse Puffer einzubauen.
