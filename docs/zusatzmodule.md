@@ -7,8 +7,6 @@ description: Erweitern Sie MultiRoute Tour! um praktische Zusatzmodule wie Track
 Die MRT Zusatzmodule sind einzeln zubuchbar.
 
 ## Tracking 
-![image](https://github.com/gbconsite/MultiRoute-Tour/assets/47481567/24a30b21-792b-48d3-8326-a8d409073e68)
-
 
 ![Traccar](https://github.com/gbconsite/MultiRoute-Tour/assets/47481567/dad38292-9681-4724-99b1-0e68fdf13187){ align=left }
 
@@ -23,6 +21,8 @@ Das Tracking läuft mit Hilfe einer auf einem mobilen Endgerät
 installierten App, die an- und auch ausgeschaltet werden muss. Damit
 genügt sie auch den datenschutzrechtlichen Anforderungen, da sie
 nur zur Tourenplanung und Einsatzkoordinierung eingesetzt wird. 
+
+![image](https://github.com/gbconsite/MultiRoute-Tour/assets/47481567/24a30b21-792b-48d3-8326-a8d409073e68)
 
 ### Beispiel
 Der Zusteller der Tageszeitung wartet auf das Speditionsfahrzeug an
@@ -51,6 +51,7 @@ Sie müssen einmalig die Einstellungen für den Traccar-Client auf Ihrem Smartph
 - Winkel: 30
 - Datenherkunft: gemischt 
 
+
 **Bitte nicht vergessen, GPS auf Ihrem mobilen Endgerät zu aktivieren!**
 
 Das Tracking-Modul lässt sich auch offline verwenden (ohne mobile Daten). Nach Beendigung
@@ -67,12 +68,7 @@ Fügen Sie dann einmal eine Verknüpfung **Dienst starten** und **Dienst stoppen
 
 Auf iOS gibt es leider kein vergleichbares Feature. Zum Aktivieren und Deaktivieren müssen Sie in der App den **Dienststatus** auf aktiv/inaktiv setzen. 
 
-
-![image](https://github.com/gbconsite/MultiRoute-Tour/assets/47481567/393690c4-dba4-4f04-a564-2b026ca5f25b){ align=left }
-
-![image](https://github.com/gbconsite/MultiRoute-Tour/assets/47481567/6c929773-d8cc-4499-bbf7-a5f91224e69a){ align=right }
-
-![image](https://github.com/gbconsite/MultiRoute-Tour/assets/47481567/710e05f0-ca7c-4aa2-9ef2-019e5170c18f)
+![image](https://github.com/gbconsite/MultiRoute-Tour/assets/47481567/2b982684-3e8d-4267-b55b-ab8f7d5ac8a7)
 
 ### Kontakt 
 **Interesse?**
