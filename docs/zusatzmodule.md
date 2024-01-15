@@ -44,7 +44,7 @@ sind, können darüber getrackt werden.
 Sie müssen einmalig die Einstellungen für den Traccar-Client auf Ihrem Smartphone vornehmen (die Gerätekennung erhalten Sie von uns!):
 
 - Gerätekennung: XXXXXXX
-- Serveradresse: https://track.gbconsite.de:5055
+- Serveradresse: http://track.gbconsite.de:5055
 - Positionsgenauigkeit: Hoch
 - Frequenz: 5 (zu Fuß) oder 60 (Kfz)
 - Entfernung: 10
