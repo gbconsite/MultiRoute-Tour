@@ -19,7 +19,7 @@ Weitere Preisstaffelungen möglich.
 Preise zzgl. Einrichtungspauschale abhängig von Ihrer individuellen Fragestellung und Komplexität.
 
 
-Kostenpflichtige Zusatzmodule:
+**Kostenpflichtige Zusatzmodule:**
 
 - [API Zugang](https://tour.multiroute.de/handbuch/api-intro/)
 - [Klick Maps](https://go.multiroute.de/handbuch/zusatzmodule/#klickbare-karte)
