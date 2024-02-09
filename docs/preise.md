@@ -9,10 +9,12 @@ description: Die MultiRoute Tour! Preisstaffelung ist von mehreren Faktoren abh�
 
 | **Anzahl Fahrzeuge** | **Monatspreis** | **Jahrespreis** |
 |----------------:|------------------:|------------------:|
-|           bis 3 |             109 € |           1.090 € |
-|          bis 10 |             274 € |           2.740 € |
-|          bis 20 |             429 € |           4.290 € |
+|        bis 3 |             109 € |           1.090 € |
+|       bis 10 |             274 € |           2.740 € |
+|       bis 20 |             429 € |           4.290 € |
 
+
+Weitere Preisstaffelungen möglich.
 
 Preise zzgl. Einrichtungspauschale abhängig von Ihrer individuellen Fragestellung und Komplexität.
 
