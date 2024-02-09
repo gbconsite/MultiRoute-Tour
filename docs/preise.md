@@ -4,15 +4,29 @@ description: Die MultiRoute Tour! Preisstaffelung ist von mehreren Faktoren abh�
 
 # Preise 
 
-Die Preisstaffelung richtet sich nach Ihren individuellen Anforderungen. 
 
-* Einen Account zur täglichen Optimierung bis zu 3 Fahrzeugen, Auftrags-Zeitfenstern und Kapazitätsbeschränkungen gibt es monatlich **ab 92,50 €**
-* Wochenplanungen für 5 Außendienstmitarbeiter und Zeitfenstern gibt es monatlich **ab 181 €**
-* 10 LKW mit Kapazitätsbeschränkungen und besonderen Fahrer- und Fahrzeug-Skills gibt es ab **268,90 €** pro Monat
+**Grundpreise MultiRoute Tour!**
+
+| **Anzahl Fahrzeuge** | **Monatspreis** | **Jahrespreis** |
+|----------------:|------------------:|------------------:|
+|           bis 3 |             109 € |           1.090 € |
+|          bis 10 |             274 € |           2.740 € |
+|          bis 20 |             429 € |           4.290 € |
+
 
 Preise zzgl. Einrichtungspauschale abhängig von Ihrer individuellen Fragestellung und Komplexität.
 
-**Gerne ermöglichen wir Ihnen einen kostenfreien Demozugang!**
+
+Weitere preistreibende Faktoren sind:
+
+- API Zugang
+- Klick Maps
+- GPS-Tracking
+- Auftragsverfolgung
+- Reichweite für E-Fahrzeuge
+
+**Gerne kontaktieren Sie uns für ein Angebot, das zu Ihnen passt. Ein kostenfreier Demozugang ist möglich.**
+
 
 Sprechen Sie uns an! 
 
