@@ -17,7 +17,7 @@ description: Die MultiRoute Tour! Preisstaffelung ist von mehreren Faktoren abh�
 Preise zzgl. Einrichtungspauschale abhängig von Ihrer individuellen Fragestellung und Komplexität.
 
 
-Weitere preistreibende Faktoren sind:
+Weitere den Preis beeinflussende Faktoren sind:
 
 - API Zugang
 - Klick Maps
