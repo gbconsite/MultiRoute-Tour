@@ -24,8 +24,8 @@ Preise zzgl. Einrichtungspauschale abhängig von Ihrer individuellen Fragestellu
 - [API Zugang](https://tour.multiroute.de/handbuch/api-intro/)
 - [Klick Maps](https://go.multiroute.de/handbuch/zusatzmodule/#klickbare-karte)
 - [GPS-Tracking](https://tour.multiroute.de/handbuch/zusatzmodule/#tracking){:target="_blank"}
-- Auftragsverfolgung
-- Reichweite für E-Fahrzeuge
+- Auftragsverfolgung (ab März 2024)
+- Reichweite für E-Fahrzeuge (ab März 2024)
 
 **Gerne kontaktieren Sie uns für ein Angebot, das zu Ihnen passt. Ein kostenfreier Demozugang ist möglich.**
 
