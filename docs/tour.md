@@ -44,11 +44,12 @@ Für das PKW-Routing bieten wir den bequemen Google und Apple Maps Export für I
 
 ![image](https://github.com/gbconsite/MultiRoute-Tour/assets/47481567/b094a151-9674-40b2-9ff3-0e198273db3e)
 
-Klicken Sie [hier](https://tour.multiroute.de/google_maps?token=9C278CAECFE8C38CC7D82C26FADDFE06659BB20461FDD7F6FDADD0373EECC1E87CCFD70D623E7217E44031895C591BF37C23BA6F74AB8B5479DCBD45ACC4E58B) für die Beispielliste.
+Klicken Sie <a href="https://tour.multiroute.de/google_maps?token=9C278CAECFE8C38CC7D82C26FADDFE06659BB20461FDD7F6FDADD0373EECC1E87CCFD70D623E7217E44031895C591BF37C23BA6F74AB8B5479DCBD45ACC4E58B" rel="nofollow noindex">hier</a> für die Beispielliste.
+
 
 ### Interaktive Karte
 
-Klicken Sie 🗺️ [hier](https://tour.multiroute.de/klick_tour?token=9C278CAECFE8C38CC7D82C26FADDFE0680100C06D22D0401A0BA9BCC118CF3552893F1FBD92AF3F89846B5AD707C30477CE9A167C20315962CAF98022ECD3AEE) für die interaktive Karte oder scannen Sie den QR-Code mit dem Handy.
+Klicken Sie 🗺️ <a href="https://tour.multiroute.de/klick_tour?token=9C278CAECFE8C38CC7D82C26FADDFE0680100C06D22D0401A0BA9BCC118CF3552893F1FBD92AF3F89846B5AD707C30477CE9A167C20315962CAF98022ECD3AEE" rel="nofollow noindex">hier</a> für die interaktive Karte oder scannen Sie den QR-Code mit dem Handy.
 
 ![!](assets/clickmap.gif).
 
