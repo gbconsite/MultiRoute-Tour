@@ -4,6 +4,10 @@ description: Planen Sie eine ganze Woche im Voraus und erhalten Sie einen detail
 
 # Wochenplanung
 
+![!](assets/Wochenplanung.png)
+
+<div style="font-size: 11px">Photo by <a href="https://unsplash.com/de/@towfiqu999999">Towfiqu barbhuiya</a> on <a href="https://unsplash.com/de/fotos/einen-kalender-mit-daran-angehefteten-roten-druckknopfen-bwOAixLG0uc">Unsplash</a></div>
+
 ## Anforderung 
 Wenn Sie Ihre Fahrzeuge nicht nur auf einfache Tagestouren schicken, bei denen das Fahrzeug immer wieder am gleichen Tag zurück zum Depot oder nach Hause fährt, sondern die Fahrzeuge bspw. *eine ganze Woche am Stück* mit Übernachtungen unterwegs sein sollen, kann dies ganz einfach in MRT! abgebildet werden. 
 
