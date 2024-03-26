@@ -1,5 +1,6 @@
 ---
-description: Nutzen Sie Ihre Flotte ideal aus und erledigen Sie alle Stops. Teilen Sie die Aufträge effizient auf Ihre eigene Flotte sowie externe Dienstleister auf.
+title: Tourenoptimierung für Spediteure und Kurierdienste
+description: Nutzen Sie Ihre Flotte ideal aus und erledigen Sie alle Stopps. Teilen Sie die Aufträge effizient auf Ihre gemischte Flotte sowie externe Dienstleister auf.
 ---
 
 # Spedition und Kurierdienste
