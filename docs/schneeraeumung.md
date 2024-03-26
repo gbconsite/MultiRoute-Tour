@@ -1,5 +1,6 @@
 ---
-description: Befreien Sie Ihre Kunden von Eis und Schnee mit Ihrer Flotte und unterschiedlichen Räumfahrzeugen. Definieren Sie im Voraus, wo kleine Traktoren nötig sind oder große Räumfahrzeuge zum Einsatz kommen können.
+title: Statt Schneechaos geplante Routenoptimierung
+description: Befreien Sie Ihre Kunden von Eis und Schnee mit Ihrer Flotte und unterschiedlichen Räumfahrzeugen. Definieren Sie im Voraus, wo kleine Traktoren nötig sind oder große Räumfahrzeuge zum Einsatz kommen. Winterdienste, Gartenlandschaftsbauer und alle, die im Schnee unterwegs sind, werden es lieben.
 ---
 
 # Schneeräumung
@@ -13,6 +14,7 @@ Photo by <a href="https://unsplash.com/@photoripey?utm_source=unsplash&utm_mediu
 
 Unsere Schneeräumdienste haben die wichtige Aufgabe Straßen, Gehwege und Innenhöfe von Eis und Schnee zu befreien.<br>
 Hierbei kommen verschiedene Räumfahrzeuge zum Einsatz: große **Schneeschiebe-SUVs**, die eine ganze Fahrbahn von Schnee befreien und kleine wendige **Traktoren**, die auch enge Gehwege befahren können. 
+Manchmal sind es auch Bushaltestellen, die keine eigene Adresse haben. Hier können wir mit genauen Koordinaten arbeiten.
 
 ## Lösung mit MultiRoute Tour!
 
