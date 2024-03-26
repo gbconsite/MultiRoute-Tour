@@ -1,5 +1,6 @@
 ---
-description: Planen Sie Ihre Team-Einsätze mit der voraussichtlichen Arbeitszeit und Fixterminen. 
+title: Planen Sie Ihre Team-Einsätze mit der voraussichtlichen Arbeitszeit und Fixterminen. 
+description: Glasreinigung, Fassadenreinigung, Innenreinigung, Gebäudereinigung - wer hat den passenden Schlüssel? Planen Sie die Aufenthaltsdauer Ihrer Teams vor Ort und welche umliegenden Aufräge noch bearbeitet werden können, damit wenig Fahrzeit verschwendet wird.
 ---
 
 # Gebäudereinigung
