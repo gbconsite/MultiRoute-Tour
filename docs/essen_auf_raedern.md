@@ -1,5 +1,6 @@
 ---
-description: Optimieren Sie die Verteilung Ihrer Essensbestellungen mit MultiRoute Tour!. Berücksichtigen Sie die unterschiedlichen Menü-Wünsche und gewünschte Belieferungszeitfenster.
+title: Routenplanung für Lieferdienste aller Art - mit mehreren Fahrzeugen
+description: Optimieren Sie die Verteilung Ihrer Essensbestellungen mit MultiRoute Tour!. Berücksichtigen Sie die unterschiedlichen Menü-Wünsche und gewünschte Belieferungszeitfenster. Vom Mittagstisch zur Pizzalieferung, Kindergartenverköstigung oder Essen auf Rädern für älteren Menschen.
 ---
 
 # Essen auf Rädern 
