@@ -1,5 +1,6 @@
 ---
-description: Beliefern Sie kleine und große Märkte effizient mit Ihrer Flotte. Nutzen Sie die Kapazität Ihrer Fahrzeuge effizient aus.
+title: Getränkeauslieferung 2.0 - keine Gedanken mehr um die beste Route machen, einfach rechnen lassen
+description: Beliefern Sie kleine und große Märkte effizient mit Ihrer Flotte. Nutzen Sie die Kapazität Ihrer Fahrzeuge effizient aus und beliefern Sie Ihre Kunden gemäß Ihrer Wünsche schnell und effizient. So bleibt das Bier kalt und es bleibt mehr Zeit zum Genießen.
 ---
 
 # Getränkelieferungen
