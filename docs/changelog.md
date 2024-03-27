@@ -6,6 +6,12 @@ description: Verfolgen Sie alle Änderungen und Versionssprünge im Changelog.
 
 Alle MultiRoute Tour! Revisionen sind hier mit den letzten Änderungen aufgeführt.
 
+## 2024
+
+### v1.3029M vom 15.03.2024
+- 🔥 **Neu: Reichweitenbegrenzung** für Elektrofahrzeuge 🔥
+- Design-Anpassungen wie u.a. eine klare Strukturierung und Begriffsanpassungen unter 4. Touren
+
 ## 2023
 
 ### v1.2951M vom 20.12.2023
