@@ -1,6 +1,6 @@
 ---
-title: Frequently Asked Questions
-description: Ihre häufigsten Fragen ausführlich beantwortet
+title: Die häufigsten Fragen zur Tourenplanung
+description: Die wichtigsten Fragen zur Tourenoptimierung und Tourenplanung mit MultiRoute Tour! hier verständlich beantwortet
 ---
 
 # FAQ
