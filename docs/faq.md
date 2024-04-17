@@ -14,6 +14,7 @@ Sollten Sie einmal einen Fehler feststellen, so können Sie selbst Hand anlegen 
 Die Streckenoptimierung basiert auf dem tatsächlichen Straßennetzwerk und hat zum Ziel, dass insgesamt eine möglichst niedrige Anzahl an Kilometern gefahren wird.
 Wenn Sie mehrere Strecken auf einer Karte betrachten und sich diese überschneiden oder kreuzen, bedeutet dies, dass es **aus Sicht der Optimierung sinnhaft ist**, die Strecken genau so zu fahren. 
 Es gibt mehrere Gründe warum dies aus Kilometersicht günstiger sein kann als in "Gebieten" zu denken: 
+
 - Autobahnen, Landstraßen etc. müssen von mehreren Fahrzeugen benutzt werden um schnell zu den Aufträgen zu kommen
 - Aufgrund von komplexen Anforderungen wie sich überschneidende Zeitfenster, Kapazitätseinschränkungen, Skills o.ä. müssen sich die Strecken kreuzen, da es mehrerer Fahrzeuge bedarf, um alle Aufträge erledigen zu können
 - Es gibt aus Optimierungssicht keinen Anreiz dem einen oder anderen Fahrzeug einen spezifischen Auftrag zuzuordnen, wenn bspw. zwei Fahrzeuge beide sowieso an einer Adresse an einer Landstraße vorbeifahren
@@ -24,6 +25,7 @@ Insbesondere wenn Sie viele Parameter eingeben, können Strecken nicht mehr so e
 Unsere Algorithmen hingegen behalten die Übersicht und ermitteln Ihnen die besten Strecken!
 
 Sollten Sie aus anderen Gründen doch eine Aufteilung in Untergebiete benötigen, So können Sie entweder:
+
 - Ihre Aufträge vorher aufteilen (bspw. nach PLZ-Gebieten) und in [separate Planungen hochladen](../planung) oder
 - Ihre Planung in MultiRoute Tour! selbst in [Untergebiete zerschneiden mit dem Scheren-Tool](../tipps/#planungen-manuell-zerteilen-schere)
 
