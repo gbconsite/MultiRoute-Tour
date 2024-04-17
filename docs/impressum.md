@@ -8,7 +8,7 @@ description: Im Impressum finden Sie unsere Kontaktinformationen. Rufen Sie uns 
 
 |Vertrieb|Technischer Support|
 |---|---|
-| ![Alina Erke](https://github.com/gbconsite/MultiRoute-Tour/assets/47481567/dff1c779-2f72-4cb6-98fb-39b396eb4474){ width="300" } | ![Dominik Weckmüller](https://github.com/gbconsite/MultiRoute-Tour/assets/47481567/cf02733a-fb4b-4066-9f43-169c7ec46907){ width="300" } |
+| ![Alina Erke](https://github.com/gbconsite/MultiRoute-Tour/assets/47481567/dff1c779-2f72-4cb6-98fb-39b396eb4474){ width="300" } | ![Dominik Weckmüller](https://github.com/gbconsite/MultiRoute-Tour/assets/47481567/a61787b4-4e00-48c5-aaff-da1354552ed9){ width="300" } |
 |**Alina Erke<br>[alina.erke@gbconsite.de](mailto:alina.erke@gbconsite.de)<br>Telefon: +49 89 / 309 052 975**|**Dominik Weckmüller<br>[dominik.weckmueller@gbconsite.de](mailto:dominik.weckmueller@gbconsite.de)<br>Telefon: +49 89 / 309 052 974**|
 
 
