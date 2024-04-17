@@ -8,6 +8,7 @@ description: Im Impressum finden Sie unsere Kontaktinformationen. Rufen Sie uns 
 
 |Vertrieb|Technischer Support|
 |---|---|
+| ![Alina Erke](https://gbconsite.de/wp-content/uploads/2019/10/alina-erke-gb-consite.jpg){ width="300" } | ![Dominik Weckmüller](https://gbconsite.de/wp-content/uploads/2021/09/Dominik-Weckmueller-2.png){ width="300" } |
 |**Alina Erke<br>[alina.erke@gbconsite.de](mailto:alina.erke@gbconsite.de)<br>Telefon: +49 89 / 309 052 975**|**Dominik Weckmüller<br>[dominik.weckmueller@gbconsite.de](mailto:dominik.weckmueller@gbconsite.de)<br>Telefon: +49 89 / 309 052 974**|
 
 
