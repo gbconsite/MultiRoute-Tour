@@ -23,7 +23,7 @@ Preise zzgl. Einrichtungspauschale abhängig von Ihrer individuellen Fragestellu
 **Kostenpflichtige Zusatzmodule:**
 
 - [API Zugang](https://tour.multiroute.de/handbuch/api-intro/)
-- [Klick Maps](https://go.multiroute.de/handbuch/zusatzmodule/#klickbare-karte)
+- [Klick Maps](https://tour.multiroute.de/handbuch/zusatzmodule/#klickbare-karte)
 - [GPS-Tracking](https://tour.multiroute.de/handbuch/zusatzmodule/#tracking){:target="_blank"}
 - Auftragsverfolgung (ab April 2024)
 - Reichweite für E-Fahrzeuge (ab April 2024)
