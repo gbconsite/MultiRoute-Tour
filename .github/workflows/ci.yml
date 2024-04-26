@@ -12,7 +12,8 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs-material
-      - run: pip install mkdocs-glightbox mkdocs-minify-plugin pillow cairosvg
+      - run: pip install "mkdocs-material[imaging]"
+      - run: pip install mkdocs-glightbox mkdocs-minify-plugin
       - run: mkdocs gh-deploy --force
           
       # Node setup
