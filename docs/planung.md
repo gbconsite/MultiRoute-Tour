@@ -1,5 +1,6 @@
 ---
-description: Unter 2. Planung können Sich alle Ihre angelegten Planungen auf der Karte ansehen und Aufträge bearbeiten.
+title: Adressen und Aufträge bearbeiten für Touren
+description: Touren auf der Karte ansehen und bearbeiten, manuelles Eingreifen bei Ausreißeradressen, Darstellung auf der Karte
 ---
 
 # **2. Planung**
