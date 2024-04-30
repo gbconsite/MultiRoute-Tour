@@ -1,5 +1,6 @@
 ---
-description: Unter 1. Upload laden Sie Ihre Daten hoch. Sie können verschiedene Auftragsparameter berücksichtigen.
+title: Adressen hochladen in MultiRoute Tour! Upload per Excel oder CSV-Datei
+description: Adressupload mit verschiedenen Parameter an den Aufträgen und Adressen, Zeitfenster oder besondere Eigenschaften
 ---
 
 # **1. Upload**
