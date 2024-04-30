@@ -1,5 +1,6 @@
 ---
-description: Lernen Sie MultiRoute Tour! kennen und informieren Sie sich über die Terminologie, die zugrundeliegenden Konzepte und den generellen Ablauf.
+title: Begriffe in MultiRoute Tour! Übersicht zu den Bezeichnungen
+description: Lernen Sie MultiRoute Tour! kennen und informieren Sie sich über die Terminologie, die zugrundeliegenden Konzepte und den generellen Ablauf vom Adressupload bis zu den fertigen Touren.
 ---
 
 ## Terminologie
