@@ -1,5 +1,6 @@
 ---
-description: Unter 4. Touren können Sie Touren berechnen und bereits berechnete Touren ansehen. Exportieren Sie sich die Fahrerdokumente.
+title: Touren berechnen und exportieren für die Fahrer
+description: Touren berechnen und bereits berechnete Touren ansehen. Export der Fahrerdokumente.
 ---
 
 # 4. Touren
