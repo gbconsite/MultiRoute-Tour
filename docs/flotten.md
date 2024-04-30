@@ -1,5 +1,6 @@
 ---
-description: Unter 3. Flotten definieren Sie, welche Fahrzeuge Sie im Einsatz haben. Sie können viele verschiedene Parameter definieren.
+title: Fuhrpark anlegen, Fahrzeuge festlegen
+description: Die Flotten definieren ihren Fuhrpark mit verschiedenen Fahrzeugen wie PKW, Sprinter, Caddy, LKW mit Gewichtsprofilen oder E-Fahrzeugen mit Reichweitenbegrenzung
 ---
 
 # **3. Flotten**
