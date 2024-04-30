@@ -1,4 +1,5 @@
 ---
+title: Zusatzmodule für MultiRoute Tour!
 description: Erweitern Sie MultiRoute Tour! um praktische Zusatzmodule wie Tracking, Notifications und Reichweitenbegrenzung
 ---
 
