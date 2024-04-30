@@ -1,5 +1,6 @@
 ---
-description: Lernen Sie MultiRoute Tour! durch unsere Tipps und Tricks noch besser kennen.
+title: Tipps und Tricks bei der Arbeit mit MultiRoute Tour!
+description: Adresskorrekturen, Export nach Google Maps, Strecken festlegen und weitere Tricks
 ---
 
 # Tipps & Tricks 
