@@ -8,6 +8,10 @@ Alle MultiRoute Tour! Revisionen sind hier mit den letzten Änderungen aufgefüh
 
 ## 2024
 
+### v1.3065 vom 25.04.2024
+- Fähren können ausgeschlossen werden
+- Korrekturen bei Reichweitenbegrenzung
+  
 ### v1.3029M vom 15.03.2024
 - 🔥 **Neu: Reichweitenbegrenzung** für Elektrofahrzeuge 🔥
 - Design-Anpassungen wie u.a. eine klare Strukturierung und Begriffsanpassungen unter 4. Touren
