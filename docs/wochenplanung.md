@@ -1,5 +1,6 @@
 ---
-description: Planen Sie eine ganze Woche im Voraus und erhalten Sie einen detaillierten Plan, wer wann wo hinfahren muss.
+title: Wochenplanung mit MultiRoute Tour! 
+description: Planen Sie eine ganze Woche im Voraus und erhalten Sie einen detaillierten Plan, wer wann wo hinfahren muss bei geringster Gesamststrecke oder Zeit.
 ---
 
 # Wochenplanung
