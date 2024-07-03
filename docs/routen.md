@@ -1620,6 +1620,7 @@ Tour-Parameter:
 |ignore_vehicle_number_constraints|(Bool) Fahrzeugzuweisungen für die Optimierung ignorieren.|
 |tempo_modifier|(Integer) Relativer Geschwindigkeits-Regler (Default: 100) zur prozentualen Anpassung der Fahrzeuggeschwindigkeiten|
 |exploration_depth| (Integer) Explorationstiefe (1: schnellste Optimierung, 5: beste Optimierung, Default: 5)|
+|exclude_ferry_routes|(Bool) Fähren nicht benutzen|
 
 
 Gültige Fahrzeugroutingprofile für Tour-Parameter "zeit\_distanz".  
