@@ -68,6 +68,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.indexes
     - navigation.footer
+    - navigation.top
     - content.action.edit
     - content.code.copy
     - search.highlight
