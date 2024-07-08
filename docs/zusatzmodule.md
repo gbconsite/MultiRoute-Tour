@@ -72,15 +72,10 @@ Fügen Sie dann einmal eine Verknüpfung **Dienst starten** und **Dienst stoppen
 Auf iOS setzen Sie den **Dienststatus** auf aktiv/inaktiv zum Starten/Stoppen. 
 
 
-### Kontakt 
-**Interesse?**
 
-Weitere Fragen hierzu beantwortet Ihnen gerne Alina Erke, Fon 089 30 90 52 97-5,
-alina.erke@gbconsite.de. 
+## 2 Auftragsverfolgung {#auftragsverfolgung}
 
-## 2 Benachrichtigungen {#benachrichtigungen}
-
-Mithilfe des Benachrichtigungs-Moduls in MultiRoute Tour!, kann Ihr Fahrer in der praktischen [Google-Maps-Liste](../tour/#tour-exportieren) Aufträge als **erledigt** kennzeichnen. Dies sendet eine Benachrichtigung, die Sie und wahlweise auch Ihre Kunden empfangen können. So sind Sie immer auf dem neuesten Stand.
+Mithilfe des Auftragsverfolgungs-Moduls in MultiRoute Tour!, kann Ihr Fahrer in der praktischen [Google-Maps-Liste](../tour/#tour-exportieren) Aufträge als **erledigt** kennzeichnen. Dies sendet eine Benachrichtigung, die Sie und wahlweise auch Ihre Kunden empfangen können. So sind Sie immer auf dem neuesten Stand.
 
 ### Gesamtübersicht
 
@@ -102,10 +97,6 @@ In diesem Beispiel erhält der Kunde über seine ID `82B064585C81F5C` also nur e
 
 ![image](https://github.com/gbconsite/MultiRoute-Tour/assets/47481567/df52f469-1813-423a-9a72-2d6d9ef71b4a)
 
-Sprechen Sie uns gerne an für eine Demo!
 
-|Technischer Support|
-|---|
-|**Dominik Weckmüller<br>[dominik.weckmueller@gbconsite.de](mailto:dominik.weckmueller@gbconsite.de)<br>Telefon: +49 89 / 309 052 974**|
 
 
