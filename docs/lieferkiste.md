@@ -1,6 +1,6 @@
 ---
 title: Bio-Lieferkiste, Supermarktbestellung oder Getränkelieferung - MultiRoute Tour! plant die Routen für Sie
-description: Beliefern Sie Ihre Kunden an festen Tagen mit festen Mitarbeitern mit Ihrer Obst- und Gemüsekiste. Nutzen Sie Ihre Fahrzeuge optimal aus und sparen Sie Kosten. Individuelle Kundenwünsche zu Ablademöglichkeiten können auch berücksichtigt werden und an die Fahrer weitergegeben werden.
+description: Beliefern Sie Ihre Kunden an festen Tagen mit festen Mitarbeitern mit Ihrer Obst- und Gemüsekiste. Nutzen Sie Ihre Fahrzeuge optimal aus und sparen Sie Kosten. Individuelle Kundenwünsche zu Ablademöglichkeiten können auch berücksichtigt und an die Fahrer weitergegeben werden.
 ---
 
 # Lieferkisten 
