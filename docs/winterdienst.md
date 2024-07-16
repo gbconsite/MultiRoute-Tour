@@ -1,9 +1,9 @@
 ---
 title: Statt Schneechaos geplante Routenoptimierung
-description: Befreien Sie Ihre Kunden von Eis und Schnee mit Ihrer Flotte und unterschiedlichen Räumfahrzeugen. Definieren Sie im Voraus, wo kleine Traktoren nötig sind oder große Räumfahrzeuge zum Einsatz kommen. Winterdienste, Gartenlandschaftsbauer und alle, die im Schnee unterwegs sind, werden es lieben.
+description: Winterdienste nutzen MultiRoute Tour! für die schnelle Routenoptimierung mit unterschiedlichen Räumfahrzeugen. Egal, ob mit kleinem Traktor oder großem Räumfahrzeug. Für Winterdienste, Gartenlandschaftsbauer und alle, die im Schnee Routen planen.
 ---
 
-# Schneeräumung
+# Winterdienst
 
 ![!](assets/snow.jpg)
 
@@ -12,9 +12,9 @@ Photo by <a href="https://unsplash.com/@photoripey?utm_source=unsplash&utm_mediu
 
 ## Szenario
 
-Unsere Schneeräumdienste haben die wichtige Aufgabe Straßen, Gehwege und Innenhöfe von Eis und Schnee zu befreien.<br>
+Unsere Winterdienste haben die wichtige Aufgabe Straßen, Gehwege und Innenhöfe von Eis und Schnee zu befreien.<br>
 Hierbei kommen verschiedene Räumfahrzeuge zum Einsatz: große **Schneeschiebe-SUVs**, die eine ganze Fahrbahn von Schnee befreien und kleine wendige **Traktoren**, die auch enge Gehwege befahren können. 
-Manchmal sind es auch Bushaltestellen, die keine eigene Adresse haben. Hier können wir mit genauen Koordinaten arbeiten.
+Manchmal sind es auch Bushaltestellen, die keine eigene Adresse haben. Hier können wir mit genauen Koordinaten arbeiten und die bestmögliche Routenplanung erstellen.
 
 ## Lösung mit MultiRoute Tour!
 
@@ -45,6 +45,6 @@ Werden an einer Adresse Gehweg und Straße geräumt, müssen hieraus zwei Zeilen
 |...|Hauptstraße 10| 21614 | Buxtehude |Traktor| 60 |
 |...|...| ... | ... |...| ... |
 
-In Ihrer Flotte geben Sie nun die Anzahl Ihrer Traktoren und SUVs an und können sofort die Touren berechnen!
+In Ihrer Flotte geben Sie nun die Anzahl Ihrer Traktoren und SUVs an und können sofort die Touren optimal berechnen!
 
 Die Fahrer erhalten jeweils den [Google-Maps-Export](../tour/#tour-exportieren) und können mit Ihrem Handy losnavigieren.
