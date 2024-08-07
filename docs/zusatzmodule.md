@@ -97,6 +97,13 @@ In diesem Beispiel erhält der Kunde über seine ID `82B064585C81F5C` also nur e
 
 ![image](https://github.com/gbconsite/MultiRoute-Tour/assets/47481567/df52f469-1813-423a-9a72-2d6d9ef71b4a)
 
+## 3 Reichweitenbegrenzung {#reichweitenbegrenzung}
+
+Insbesondere für E-Fahrzeuge bieten wir die Reichweitenbegrenzung an. Legen Sie pro Fahrzeug fest, wie weit es fahren kann. Meistern Sie so problemlos die Elektromobilitätswende.
+
+![image](https://github.com/user-attachments/assets/f6d196db-fbe2-4bfc-8464-e4e4c3c970e0)
+
+
 
 
 
