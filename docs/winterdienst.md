@@ -5,7 +5,7 @@ description: Winterdienste nutzen MultiRoute Tour! für die schnelle Routenoptim
 
 # Winterdienst
 
-![!](assets/snow.jpg)
+![!](assets/snow.jpg "Routenplanung für Winterdienste")
 
 <div style="font-size: 11px">
 Photo by <a href="https://unsplash.com/@photoripey?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ibrahim Rifath</a> on <a href="https://unsplash.com/s/photos/snow-street?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>
@@ -14,7 +14,7 @@ Photo by <a href="https://unsplash.com/@photoripey?utm_source=unsplash&utm_mediu
 
 Unsere Winterdienste haben die wichtige Aufgabe Straßen, Gehwege und Innenhöfe von Eis und Schnee zu befreien.<br>
 Hierbei kommen verschiedene Räumfahrzeuge zum Einsatz: große **Schneeschiebe-SUVs**, die eine ganze Fahrbahn von Schnee befreien und kleine wendige **Traktoren**, die auch enge Gehwege befahren können. 
-Manchmal sind es auch Bushaltestellen, die keine eigene Adresse haben. Hier können wir mit genauen Koordinaten arbeiten und die bestmögliche Routenplanung erstellen.
+Manchmal sind es auch Bushaltestellen, die keine eigene Adresse haben. Hier können wir mit genauen Koordinaten arbeiten und die bestmögliche Routenplanung erstellen. Da häufig morgens wenig Zeit ist, ist eine effiziente Routenplanung besonders wichtig.
 
 ## Lösung mit MultiRoute Tour!
 
