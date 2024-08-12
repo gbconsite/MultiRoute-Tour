@@ -1,6 +1,6 @@
 ---
-title: Tourenoptimierung für Spediteure und Kurierdienste
-description: Nutzen Sie Ihre Flotte ideal aus und erledigen Sie alle Stopps. Teilen Sie die Aufträge effizient auf Ihre gemischte Flotte sowie externe Dienstleister auf.
+title: Tourenoptimierung für Spediteure und in der Spedition
+description: Optimale Routenplanung für die gesamte Flotte einer Spedition mit einem Upload. Spediteure sparen Zeit.
 ---
 
 # Spedition und Kurierdienste
@@ -10,8 +10,8 @@ description: Nutzen Sie Ihre Flotte ideal aus und erledigen Sie alle Stopps. Tei
 <div style="font-size: 11px">Photo by <a href="https://unsplash.com/@markuswinkler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Winkler</a> on <a href="https://unsplash.com/s/photos/fleet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>
 
 ## Szenario
-Ein Spediteursunternehmen optimiert täglich seine Touren und muss dabei alle Kundenaufträge optimal auf seine festangestellte Flotte von 2 LKW und 2 Sprintern sowie 2 Caddy-Springern, die nur nach Bedarf eingesetzt werden, verteilen.
-Es hat pro Tag rund 500 Aufträge, die sich im auszuliefernden Gewicht stark unterscheiden. 
+Eine Spedition optimiert täglich ihre Touren und muss dabei alle Kundenaufträge optimal auf die festangestellte Flotte von 2 LKW und 2 Sprintern sowie 2 Caddy-Springern, die nur bei Bedarf eingesetzt werden, verteilen.
+Pro Tag handelt es sich um rund 500 Aufträge, die sich im auszuliefernden Gewicht stark unterscheiden. 
 
 ## Lösung mit MultiRoute Tour!
 
