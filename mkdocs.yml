@@ -19,8 +19,8 @@ nav:
       - Zusatzmodule: zusatzmodule.md
       - Changelog: changelog.md
     - Anwendungsbeispiele:
-      - Spedition: spedition.md
       - Außendienst: aussendienst.md
+      - Spedition: spedition.md
       - Winterdienst: winterdienst.md
       - Essen auf Rädern: essen_auf_raedern.md
       - Getränkelieferungen: getraenkelieferung.md
