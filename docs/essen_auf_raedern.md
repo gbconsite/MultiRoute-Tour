@@ -5,13 +5,13 @@ description: Optimieren Sie die Verteilung Ihrer Essensbestellungen mit MultiRou
 
 # Essen auf Rädern 
 
-![!](assets/essen.jpg)
+![!](assets/essen.jpg "Routenplanung für regelmäßige Essenslieferungen")
 
 <div style="font-size: 11px">
 Photo by <a href="https://unsplash.com/@lvnatikk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lily Banse</a> on <a href="https://unsplash.com/s/photos/meal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>
 
 ## Szenario
-Sie beliefern Kunden mit warmen Mittagessen. Ihre Hauptkunden sind Senioren und Seniorenheime, die zwischen 11:30 und 13:30 beliefert werden. Täglich haben Sie drei Gerichte zur Auswahl:
+Sie beliefern regelmäßig Kunden mit warmen Mittagessen. Ihre Hauptkunden sind Senioren und Seniorenheime, die zwischen 11:30 und 13:30 beliefert werden. Täglich haben Sie drei Gerichte zur Auswahl:
 
 * 1 Suppe des Tages (vegetarisch)
 * 2 Einfaches Menü (Hauptgericht + Beilage)
@@ -36,5 +36,7 @@ Eine gute Lösung sähe wie folgt aus:
 |Eichenweg 33| 21614 | Buxtehude | 2 | 12:30 | 13:30 |
 
 MultiRoute Tour! berechnet Ihnen nun für Ihre Flotte von 3 Fahrzeugen mit 2 Schichten automatisch 6 verschiedene Strecken unter Berücksichtigung der angegebenen Belieferungszeitfenster. Sie können die Excellisten für die beiden Schichten exportieren und an die Küche weitergeben, die die Menüs entsprechend zubereitet. 
+
+Das Szenario funktioniert natürlich auch für die Essensbelieferung in Kindergärten, Schulen etc.
 
 Die Fahrer erhalten jeweils den [Google-Maps-Export](../tour/#tour-exportieren) und können mit Ihrem Handy losnavigieren.
