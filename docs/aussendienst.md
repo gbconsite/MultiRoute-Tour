@@ -1,9 +1,9 @@
 ---
-title: Optimierung der Routenplanung des Außendienst-Teams
-description: Nutzen Sie MultiRoute Tour! zur Planung Ihres Außendienstes. Optimieren Sie Tages-, Wochen-, Monats- oder sogar Jahresplanungen mit mehreren Besuchen und vermeiden Sie unnötige Fahrten. Unter Berücksichtigung von A, B, C Kunden.
+title: Effiziente Routenplanung für Außendienst-Teams mit MultiRoute Tour!
+description: Optimieren Sie die Routenplanung Ihres Außendienstes mit MultiRoute Tour! Planen Sie Tages-, Wochen-, Monats- oder Jahresbesuche effizient, vermeiden Sie unnötige Fahrten und priorisieren Sie A-, B- und C-Kunden.
 ---
 
-# Tourenplanung für den Außendienst
+# Optimierung der Außendienst-Routenplanung
 
 ![!](assets/aussendienst.jpg "Tourenplanung für Außendienstmitarbeiter")
 
