@@ -5,17 +5,22 @@ description: Optimieren Sie die Routenplanung Ihres Außendienstes mit MultiRout
 
 # Optimierung der Außendienst-Routenplanung
 
-![!](assets/aussendienst.jpg "Tourenplanung für Außendienstmitarbeiter")
+![!](assets/aussendienst.jpg "Effiziente Routenplanung für Außendienstmitarbeiter")
 
 <div style="font-size: 11px">
 Photo by <a href="https://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Christina @ wocintechchat.com</a> on <a href="https://unsplash.com/s/photos/business-casual?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>
 
-## Szenario
-Die Strecken und Zeit Ihres Außendienstes im Auto sollen optimiert werden. Dabei unterscheiden Sie zwischen Besuchen bei A-, B- und C-Kunden, die unterschiedlich häufig besucht werden sollen. Üblicherweise wird eine Monatsplanung für die Besuche durchgeführt. In unserem Beispiel gilt:
+## Warum Routenplanung für den Außendienst optimieren?
+Die Optimierung der Routenplanung für Außendienst-Teams ist entscheidend, um Zeit und Kosten zu sparen. MultiRoute Tour! hilft Ihnen, effizient zwischen A-, B- und C-Kunden zu navigieren und unnötige Fahrten zu vermeiden. Eine sorgfältige Planung, sei es auf Tages-, Wochen-, Monats- oder Jahresbasis, ermöglicht es, Kundenbesuche optimal zu organisieren.
 
-* A-Kunde: 4 x Monat
-* B-Kunde: 2 x Monat
-* C-Kunde: 1 x Monat 
+## Szenario: Effektive Planung Ihrer Außendienst-Routen
+Ihr Außendienst-Team verbringt viel Zeit im Auto. Um diese Zeit zu minimieren und Ihre Ressourcen bestmöglich zu nutzen, ist eine differenzierte Planung nötig. In unserem Beispiel werden Kunden nach ihrer Priorität kategorisiert:
+
+* A-Kunde: 4 Besuche pro Monat
+* B-Kunde: 2 Besuche pro Monat
+* C-Kunde: 1 Besuch pro Monat 
+
+Ein Beispiel für eine typische Kundenliste:
 
 |Straße Hausnummer|PLZ| Ort | Kundenname | Klasse|
 |---|---|---|---|---|
@@ -25,9 +30,11 @@ Die Strecken und Zeit Ihres Außendienstes im Auto sollen optimiert werden. Dabe
 |Eichenweg 33| 21614 | Buxtehude | Danny's | C |
 |...|...|...|...|...|
 
-## Lösung mit MultiRoute Tour!
+## MultiRoute Tour! - Die Lösung für Ihre Routenplanung
 
-Für das Tagesgeschäft ist es die einfachste Lösung, die Daten wochenweise aufzubereiten und je nach Bedarf, die Kunden zusammenzustellen. 
+### Wöchentliche Routenplanung
+
+Die einfachste Methode für das Tagesgeschäft besteht darin, Ihre Daten wöchentlich aufzubereiten und entsprechend den Bedürfnissen Ihrer Kunden zusammenzustellen.
 
 ### Woche 1
 
@@ -54,7 +61,8 @@ Für das Tagesgeschäft ist es die einfachste Lösung, die Daten wochenweise auf
 |Eichenweg 33| 21614 | Buxtehude | Danny's | C |
 |...|...|...|...|...|
 
-Soll eine strategische Monat- oder Jahresplanung stattfinden, so kann bspw. mit Kalenderwochen gearbeitet werden, innerhalb derer ein Kunde angefahren werden soll. 
-Je mehr Spielraum Sie MultiRoute Tour! bei der Berechnung geben, desto besser werden i.d.R. die Ergebnisse.
+### Monatliche und Jährliche Routenplanung
+Für strategische Planungen über mehrere Monate oder das gesamte Jahr hinweg können Sie Kalenderwochen nutzen, um festzulegen, wann ein Kunde besucht werden soll. MultiRoute Tour! bietet flexible Optionen, die Ihnen helfen, die besten Ergebnisse zu erzielen.
 
-Die Fahrer erhalten jeweils den [Google-Maps-Export](../tour/#tour-exportieren) für die entsprechenden Tage und können mit Ihrem Handy losnavigieren.
+## Vorteile des MultiRoute Tour! Google-Maps-Exports
+Die Fahrer erhalten  den [Google-Maps-Export](../tour/#tour-exportieren) für die geplanten Tage und können direkt mit ihrem Smartphone die Navigation starten. Dies reduziert Planungsaufwand und sorgt für reibungslose Abläufe.
