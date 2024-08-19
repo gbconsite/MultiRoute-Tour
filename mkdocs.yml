@@ -20,6 +20,7 @@ nav:
       - Changelog: changelog.md
     - Anwendungsbeispiele:
       - Außendienst: aussendienst.md
+      - Brief-Abholtouren: briefabholung.md
       - Spedition: spedition.md
       - Winterdienst: winterdienst.md
       - Essen auf Rädern: essen_auf_raedern.md
