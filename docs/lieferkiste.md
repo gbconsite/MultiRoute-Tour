@@ -1,30 +1,40 @@
 ---
-title: Bio-Lieferkiste, Supermarktbestellung oder Getränkelieferung - MultiRoute Tour! plant die Routen für Sie
-description: Beliefern Sie Ihre Kunden an festen Tagen mit festen Mitarbeitern mit Ihrer Obst- und Gemüsekiste. Nutzen Sie Ihre Fahrzeuge optimal aus und sparen Sie Kosten. Individuelle Kundenwünsche zu Ablademöglichkeiten können auch berücksichtigt und an die Fahrer weitergegeben werden.
+title: Effiziente Routenplanung für Bio-Lieferkisten, Supermarktbestellungen und Getränkelieferungen mit MultiRoute Tour!
+description: Optimieren Sie die Auslieferung Ihrer Bio-Lieferkisten und anderen Bestellungen mit MultiRoute Tour!. Nutzen Sie Ihre Flotte optimal, sparen Sie Kosten und berücksichtigen Sie individuelle Kundenwünsche für die Ablage. 
+keywords: Bio-Lieferkisten, Routenplanung, MultiRoute Tour, Lieferdienst, Fahrzeugoptimierung, Supermarktlieferung, Getränkelieferung, regionale Produkte
 ---
 
-# Lieferkisten 
+# Bio-Lieferkisten und mehr: Routenplanung leicht gemacht
 
-![!](assets/lieferkiste.jpg)
+![Effiziente Routenplanung für Lieferkisten](assets/lieferkiste.jpg "Effiziente Routenplanung für Lieferkisten")
 
 <div style="font-size: 11px">
 Photo by <a href="https://unsplash.com/@sarascarpa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sara Scarpa</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>
 
-## Szenario
-Sie beliefern Kunden einmal die Woche mit regionalen Obst- und Gemüsekisten. Für alle Kunden gibt es diese in der gleichen Ausführung.
-Sie haben 3 Fahrzeuge im Einsatz, die die Kisten einmal die Woche Ihren Kunden vor die Haustüre stellen.
+## Szenario: Erfolgreiche Lieferung von Bio-Lieferkisten
 
-## Lösung mit MultiRoute Tour!
+Sie beliefern Ihre Kunden wöchentlich mit regionalen Obst- und Gemüsekisten. Alle Kunden erhalten die gleiche Kiste, und Sie haben drei Fahrzeuge im Einsatz, die diese Lieferungen zuverlässig einmal pro Woche direkt vor die Haustür stellen.
 
-|Straße Hausnummer|PLZ| Ort | Anzahl | Belieferungszeitfenster Start| Belieferungszeitfenster Ende |
-|---|---|---|---|---|---|
-|Hauptstraße 10| 21614 | Buxtehude | 1 |  |  |
-|Bahnhofsweg 11| 21614 | Buxtehude | 1 | 11:45 | 12:30 |
-|Amselgasse 20| 21614 | Buxtehude | 2 |  | |
-|Eichenweg 33| 21614 | Buxtehude | 1 | 12:30 | 13:30 |
+## Lösung mit MultiRoute Tour!: Effiziente Auslieferung Ihrer Lieferkisten
 
-Sie können die Anzahl der Kisten pro Haushalt als auch eine gewünschte Empfangszeit in MultiRoute Tour! hochladen. Wenn Sie Ihre Flotte angelegt haben, können Sie die Touren sofort optimieren.
+MultiRoute Tour! ermöglicht es Ihnen, Ihre Routen für die wöchentliche Auslieferung Ihrer Bio-Lieferkisten effizient zu planen:
 
-Möchten Sie die Lieferung auf mehrere Tage aufteilen, können Sie diese Szenarien mit wenigen Klicks durchspielen und vergleichen. 
+* Erfassen Sie die Anzahl der Kisten pro Haushalt sowie gewünschte Lieferzeitfenster in einer Excel-Liste, die Sie in MultiRoute Tour! hochladen können.
 
-Die Fahrer erhalten jeweils den [Google-Maps-Export](../tour/#tour-exportieren) und können mit Ihrem Handy losnavigieren.
+Beispiel für die Excel-Liste:
+
+|Straße Hausnummer|PLZ|Ort|Anzahl|Lieferzeitfenster Start|Lieferzeitfenster Ende|
+|-----------------|---|---|------|----------------------|----------------------|
+|Hauptstraße 10|21614|Buxtehude|1| | |
+|Bahnhofsweg 11|21614|Buxtehude|1|11:45|12:30|
+|Amselgasse 20|21614|Buxtehude|2| | |
+|Eichenweg 33|21614|Buxtehude|1|12:30|13:30|
+
+* Optimieren Sie die Auslastung Ihrer Flotte, indem Sie die Touren mit einem Klick berechnen lassen. MultiRoute Tour! berücksichtigt dabei individuelle Kundenwünsche wie Ablageorte und Lieferzeitfenster.
+
+Falls Sie die Lieferungen auf mehrere Tage aufteilen möchten, können Sie verschiedene Szenarien mit wenigen Klicks vergleichen und das beste Modell auswählen.
+
+Ihre Fahrer erhalten den [Google-Maps-Export](../tour/#tour-exportieren) und können direkt mit der Navigation beginnen.
+
+---
+
