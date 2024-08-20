@@ -1,35 +1,30 @@
 ---
-title: Die häufigsten Fragen zur Tourenplanung
-description: Die wichtigsten Fragen zur Tourenoptimierung und Tourenplanung mit MultiRoute Tour! hier verständlich beantwortet
+title: Häufig gestellte Fragen (FAQ) zur Tourenplanung mit MultiRoute Tour!
+description: Antworten auf die wichtigsten Fragen zur Tourenoptimierung und Tourenplanung mit MultiRoute Tour! Erfahren Sie, woher die Straßendaten stammen, warum sich Touren manchmal kreuzen und wie viel Sie mit MultiRoute Tour! einsparen können.
+keywords: Tourenplanung, Tourenoptimierung, MultiRoute Tour, FAQ, Straßendaten, Kostenersparnis, Routenplanung, Logistiksoftware
 ---
 
-# FAQ
+# FAQ zur Tourenplanung mit MultiRoute Tour!
 
-## Wo kommen die Straßendaten her?
-Die Straßendaten beziehen wir aus [OpenStreetMap](https://www.openstreetmap.org/#map), einer offenen Plattform zum kollaborativen Kartieren unserer Welt.
-Die Einträge werden von Freiwlligen auf der ganzen Welt erstellt und sind oftmals - insbesondere in ländlichen Regionen - genauer als die Karten von kommerziellen Anbietern wie Google Maps oder amtliche Karten.
-Sollten Sie einmal einen Fehler feststellen, so können Sie selbst Hand anlegen und diesen korrigieren. Beim nächsten Update unserer Datenbank fließt Ihre Korrektur mit in die Berechnung ein.
+## Woher stammen die Straßendaten?
+
+Die Straßendaten für MultiRoute Tour! beziehen wir aus [OpenStreetMap](https://www.openstreetmap.org/#map), einer offenen, kollaborativen Kartierungsplattform. Freiwillige weltweit erstellen und aktualisieren die Einträge, die oft präziser sind als Karten kommerzieller Anbieter wie Google Maps, insbesondere in ländlichen Gebieten. Sollten Sie Fehler entdecken, können Sie diese direkt korrigieren. Ihre Änderungen fließen beim nächsten Update in unsere Datenbank ein und verbessern die Berechnungen.
 
 ## Warum kreuzen sich Touren manchmal?
-Die Streckenoptimierung basiert auf dem tatsächlichen Straßennetzwerk und hat zum Ziel, dass insgesamt eine möglichst niedrige Anzahl an Kilometern gefahren wird.
-Wenn Sie mehrere Strecken auf einer Karte betrachten und sich diese überschneiden oder kreuzen, bedeutet dies, dass es **aus Sicht der Optimierung sinnhaft ist**, die Strecken genau so zu fahren. 
-Es gibt mehrere Gründe warum dies aus Kilometersicht günstiger sein kann als in "Gebieten" zu denken: 
 
-- Autobahnen, Landstraßen etc. müssen von mehreren Fahrzeugen benutzt werden um schnell zu den Aufträgen zu kommen
-- Aufgrund von komplexen Anforderungen wie sich überschneidende Zeitfenster, Kapazitätseinschränkungen, Skills o.ä. müssen sich die Strecken kreuzen, da es mehrerer Fahrzeuge bedarf, um alle Aufträge erledigen zu können
-- Es gibt aus Optimierungssicht keinen Anreiz dem einen oder anderen Fahrzeug einen spezifischen Auftrag zuzuordnen, wenn bspw. zwei Fahrzeuge beide sowieso an einer Adresse an einer Landstraße vorbeifahren
-- Es erweckt nur den Anschein, als ob die Optimierung die Aufträge durcheinander wirft, denn lediglich die Anfahrtswege kreuzen sich, nicht aber die Aufträge
+Unsere Streckenoptimierung zielt darauf ab, die gefahrenen Kilometer insgesamt zu minimieren, basierend auf dem realen Straßennetzwerk. Wenn sich Touren überschneiden, bedeutet dies, dass es aus Sicht der Optimierung sinnvoll ist, die Strecken so zu fahren. Mehrere Faktoren können dazu führen, dass sich Touren kreuzen:
 
-Erfahrungsgemäß kann es anfangs befremdlich wirken, die räumliche klare Auftteilung in Untergebiete aufzugeben. Sie können genau an dieser Stelle allerdings enorm Kilometer einsparen.
-Insbesondere wenn Sie viele Parameter eingeben, können Strecken nicht mehr so einfach vom Menschen nachvollzogen werden, da die Komplexität exponentiell zunimmt.
-Unsere Algorithmen hingegen behalten die Übersicht und ermitteln Ihnen die besten Strecken!
+- **Gemeinsame Nutzung von Hauptverkehrswegen**: Autobahnen und Landstraßen müssen von mehreren Fahrzeugen genutzt werden, um effizient zu den Aufträgen zu gelangen.
+- **Komplexe Anforderungen**: Überlappende Zeitfenster, Kapazitätseinschränkungen oder spezialisierte Fähigkeiten können dazu führen, dass mehrere Fahrzeuge Aufträge in denselben Gebieten erledigen müssen.
+- **Optimierung der Gesamtroute**: Es kann effizienter sein, keine festen Gebiete zuzuweisen, sondern die Routen flexibel nach Bedarf zu gestalten, insbesondere wenn zwei Fahrzeuge an derselben Adresse vorbeifahren.
 
-Sollten Sie aus anderen Gründen doch eine Aufteilung in Untergebiete benötigen, So können Sie entweder:
+Obwohl es ungewohnt erscheinen mag, die räumliche Aufteilung in Untergebiete aufzugeben, können Sie dadurch erheblich Kilometer und somit Kosten einsparen. Die Komplexität moderner Tourenplanung erfordert Algorithmen, die diese Aufgabe optimal bewältigen.
 
-- Ihre Aufträge vorher aufteilen (bspw. nach PLZ-Gebieten) und in [separate Planungen hochladen](../planung) oder
-- Ihre Planung in MultiRoute Tour! selbst in [Untergebiete zerschneiden mit dem Scheren-Tool](../tipps/#planungen-manuell-zerteilen-schere)
+Falls Sie dennoch eine Aufteilung in Untergebiete bevorzugen, haben Sie zwei Optionen:
 
-## Wie viel spare ich mit MultiRoute Tour! ein? 
-Unsere Kunden berichten uns von einer Kostenersparnis zwischen 15% - 35%. Sie können Ihre derzeitigen Touren mit den optimierten vergleichen und diesen Wert selber transparent ermitteln.
-Je anspruchsvoller Ihre Tourenplanung vorher war, desto mehr können Sie einsparen.
-Sind Ihre Touren "historisch gewachsen"? Dann wird es höchste Zeit für eine Optimierung. [Sprechen Sie uns an](https://tour.multiroute.de/handbuch/impressum/)!
+- **Vorherige Auftragsaufteilung**: Teilen Sie Ihre Aufträge beispielsweise nach Postleitzahlen auf und laden Sie sie in [separate Planungen hoch](../planung).
+- **Untergebiete in MultiRoute Tour! erstellen**: Nutzen Sie das [Scheren-Tool](../tipps/#planungen-manuell-zerteilen-schere), um Ihre Planung in Untergebiete zu zerschneiden.
+
+## Wie viel kann ich mit MultiRoute Tour! einsparen?
+
+Unsere Kunden berichten von einer Kostenersparnis zwischen 15% und 35% durch die Nutzung von MultiRoute Tour!. Sie können Ihre aktuellen Touren mit den optimierten Touren vergleichen und Ihre eigene Ersparnis ermitteln. Besonders bei komplexen, historisch gewachsenen Touren können Sie erhebliche Einsparungen erzielen. Nutzen Sie die Gelegenheit für eine Optimierung und [kontaktieren Sie uns](https://tour.multiroute.de/handbuch/impressum/) für weitere Informationen!
