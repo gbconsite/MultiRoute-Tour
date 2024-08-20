@@ -1,30 +1,38 @@
 ---
-title: Planen Sie Ihre Team-Einsätze mit der voraussichtlichen Arbeitszeit und Fixterminen. 
-description: Glasreinigung, Fassadenreinigung, Innenreinigung, Gebäudereinigung - wer hat den passenden Schlüssel? Planen Sie die Aufenthaltsdauer Ihrer Teams vor Ort und welche umliegenden Aufräge noch bearbeitet werden können, damit wenig Fahrzeit verschwendet wird.
+title: Effiziente Einsatzplanung für Ihr Reinigungsteam mit voraussichtlicher Arbeitszeit und Fixterminen
+description: Optimieren Sie Ihre Glas-, Fassaden-, Innen- und Gebäudereinigungsdienste. Planen Sie den Einsatz Ihrer Teams inklusive Schlüsselvergabe und Aufenthaltsdauer, um die Fahrzeit zu minimieren und umliegende Aufträge effizient zu integrieren.
+keywords: Gebäudereinigung, Einsatzplanung, Reinigungsteams, Routenoptimierung, MultiRoute Tour, Glasreinigung, Fassadenreinigung, Innenreinigung
 ---
 
-# Gebäudereinigung
+# Gebäudereinigung: Effektive Planung Ihrer Einsätze
 
-![!](assets/reinigung.jpg)
+![Gebäudereinigung](assets/reinigung.jpg)
 
 <div style="font-size: 11px">
-Photo by <a href="https://unsplash.com/@uniqueton?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Anton</a> on <a href="https://unsplash.com/s/photos/cleaning?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>></div>
+Photo by <a href="https://unsplash.com/@uniqueton?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Anton</a> on <a href="https://unsplash.com/s/photos/cleaning?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>
 
-## Szenario
-Ein Reingungsunternehmen optimiert wöchentlich seine Touren. Es hat 10 Fahrzeuge zur Verfügung mit 2er-Reinigungsteams. 
+## Szenario: Optimierte Routen für Ihre Reinigungsteams
 
-## Lösung mit MultiRoute Tour!
+Ein Reinigungsunternehmen mit 10 Fahrzeugen und 2er-Teams plant wöchentlich seine Touren, um die Effizienz zu maximieren. Dabei gilt es, sowohl die Aufenthaltsdauer als auch die Fahrzeiten zu optimieren.
 
-Wöchentlich werden die zu beliefernden Kunden aus dem CRM als Excelliste exportiert. Der Wochentag kann neben der gewünschten Besuchszeit und Aufenthaltsdauer festegelegt werden.
+## Lösung mit MultiRoute Tour!: Zeit- und kostensparende Routenplanung
 
-|Straße Hausnummer|PLZ| Ort | Kundenname | Besuchszeit-<br>fenster Start| Besuchszeit-<br>fenster Ende | Aufenthalts-<br>dauer in Sekunden | Wochentag |
-|---|---|---|---|---|---|---|---|
-|Hauptstraße 10| 21614 | Buxtehude | Edeka | 07:30 | 12:30 | 3600 | Mo |
-|Bahnhofsweg 11| 21614 | Buxtehude | Rossmann |  10:30 | 12:30 | 3600 | Mo |
-|Amselgasse 20| 21614 | Buxtehude | Müller & co. |  11:30 | 12:30 | 3600 | Di |
-|Eichenweg 33| 21614 | Buxtehude | Danny's |  09:00 | 10:30 | 3600 | Fr |
-|...|...|...|...|...|...|...|...|
+MultiRoute Tour! unterstützt Sie bei der effizienten Planung Ihrer Reinigungsaufträge:
 
-In der Flotte wird nun genau definiert, welche Fahrzeuge an welchen Wochentagen zur Verfügung stehen. Im Anschluss können Sie sofort Ihre Touren berechnen.
+* **Wöchentliche Planung**: Exportieren Sie die zu bearbeitenden Kunden aus Ihrem CRM als Excel-Liste. In der Tabelle können Sie Wochentag, gewünschte Besuchszeit, Aufenthaltsdauer und weitere Details festlegen.
 
-Die Fahrer erhalten jeweils den [Google-Maps-Export](../tour/#tour-exportieren) und können mit Ihrem Handy losnavigieren.
+Beispiel für eine Excel-Liste:
+
+| Straße Hausnummer | PLZ  | Ort       | Kundenname  | Besuchszeitfenster Start | Besuchszeitfenster Ende | Aufenthaltsdauer (Sek.) | Wochentag |
+|------------------|------|-----------|-------------|--------------------------|-------------------------|-------------------------|-----------|
+| Hauptstraße 10    | 21614| Buxtehude | Edeka       | 07:30                    | 12:30                   | 3600                    | Mo        |
+| Bahnhofsweg 11    | 21614| Buxtehude | Rossmann    | 10:30                    | 12:30                   | 3600                    | Mo        |
+| Amselgasse 20     | 21614| Buxtehude | Müller & co.| 11:30                    | 12:30                   | 3600                    | Di        |
+| Eichenweg 33      | 21614| Buxtehude | Danny's     | 09:00                    | 10:30                   | 3600                    | Fr        |
+
+* **Fahrzeug- und Teamzuteilung**: Definieren Sie in Ihrer Flotte, welche Fahrzeuge und Teams an welchen Tagen zur Verfügung stehen. Mit diesen Informationen kann MultiRoute Tour! die optimalen Routen berechnen, um Fahrzeiten zu minimieren und die Produktivität zu maximieren.
+
+* **Navigation und Export**: Die Fahrer erhalten den [Google-Maps-Export](../tour/#tour-exportieren) und können sofort mit ihrem Smartphone zur nächsten Adresse navigieren.
+
+---
+
