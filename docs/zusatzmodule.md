@@ -1,13 +1,18 @@
 ---
-title: Zusatzmodule für MultiRoute Tour!
-description: Erweitern Sie MultiRoute Tour! um praktische Zusatzmodule wie Tracking, Notifications und Reichweitenbegrenzung
+title: Entdecken Sie die leistungsstarken Zusatzmodule für MultiRoute Tour!
+description: Erweitern Sie Ihre MultiRoute Tour! Software mit praktischen Zusatzmodulen wie Tracking, Auftragsverfolgung und Reichweitenbegrenzung für eine noch effizientere Routenplanung.
+keywords: MultiRoute Tour, Zusatzmodule, Tracking, Auftragsverfolgung, Reichweitenbegrenzung, Routenoptimierung, Logistiksoftware
 ---
 
-# Zusatzmodule
+# Zusatzmodule für MultiRoute Tour!: Mehr Effizienz und Kontrolle
 
-Die MRT Zusatzmodule sind einzeln zubuchbar.
+MultiRoute Tour! bietet Ihnen die Möglichkeit, Ihre Routenplanung noch weiter zu optimieren. Mit unseren praktischen Zusatzmodulen können Sie Ihr Logistikmanagement auf das nächste Level heben. Entdecken Sie die Vorteile von [Tracking](#tracking), [Auftragsverfolgung](#auftragsverfolgung) und [Reichweitenbegrenzung](#reichweitenbegrenzung). Alle Zusatzmodule sind einzeln zubuchbar.
 
-## 1 Tracking {#tracking}
+
+
+### Tracking {#tracking}
+
+Verfolgen Sie Ihre Fahrzeuge in Echtzeit. Das Tracking-Modul ermöglicht es Ihnen, jederzeit den genauen Standort Ihrer Fahrzeuge zu sehen. So können Sie sicherstellen, dass alle Lieferungen planmäßig verlaufen und bei Bedarf schnell reagieren. 
 
 ![Traccar](https://github.com/gbconsite/MultiRoute-Tour/assets/47481567/dad38292-9681-4724-99b1-0e68fdf13187){ align=left }
 
@@ -73,9 +78,10 @@ Auf iOS setzen Sie den **Dienststatus** auf aktiv/inaktiv zum Starten/Stoppen.
 
 
 
-## 2 Auftragsverfolgung {#auftragsverfolgung}
+### Auftragsverfolgung {#auftragsverfolgung}
 
-Mithilfe des Auftragsverfolgungs-Moduls in MultiRoute Tour!, kann Ihr Fahrer in der praktischen [Google-Maps-Liste](../tour/#tour-exportieren) Aufträge als **erledigt** kennzeichnen. Dies sendet eine Benachrichtigung, die Sie und wahlweise auch Ihre Kunden empfangen können. So sind Sie immer auf dem neuesten Stand.
+Mit der Auftragsverfolgung behalten Sie den Status jeder Lieferung im Blick. Informieren Sie Ihre Kunden proaktiv über den Fortschritt ihrer Bestellung und sorgen Sie für maximale Transparenz. Dieses Modul erleichtert die Kommunikation und verbessert die Kundenzufriedenheit.
+Ihr Fahrer kann in der praktischen [Google-Maps-Liste](../tour/#tour-exportieren) Aufträge als **erledigt** kennzeichnen. Dies sendet eine Benachrichtigung, die Sie und wahlweise auch Ihre Kunden empfangen können. So sind Sie immer auf dem neuesten Stand.
 
 ### Gesamtübersicht
 
@@ -97,13 +103,23 @@ In diesem Beispiel erhält der Kunde über seine ID `82B064585C81F5C` also nur e
 
 ![image](https://github.com/gbconsite/MultiRoute-Tour/assets/47481567/df52f469-1813-423a-9a72-2d6d9ef71b4a)
 
-## 3 Reichweitenbegrenzung {#reichweitenbegrenzung}
+### Reichweitenbegrenzung {#reichweitenbegrenzung}
 
+Optimieren Sie Ihre Flotte mit dem Modul für Reichweitenbegrenzung. Legen Sie maximale Reichweiten für Ihre Fahrzeuge fest, um unnötige Fahrten zu vermeiden und die Effizienz zu steigern. So stellen Sie sicher, dass Ihre Fahrzeuge innerhalb der festgelegten Grenzen bleiben und Ressourcen optimal genutzt werden.
 Insbesondere für E-Fahrzeuge bieten wir die Reichweitenbegrenzung an. Legen Sie pro Fahrzeug fest, wie weit es fahren kann. Meistern Sie so problemlos die Elektromobilitätswende.
 
 ![image](https://github.com/user-attachments/assets/f6d196db-fbe2-4bfc-8464-e4e4c3c970e0)
 
+---
 
+**Vorteile der Zusatzmodule:**
+- **Verbesserte Kontrolle:** Behalten Sie Ihre Flotte in Echtzeit im Auge.
+- **Erhöhte Effizienz:** Vermeiden Sie unnötige Fahrten und sparen Sie Zeit und Ressourcen.
+- **Kundenzufriedenheit:** Durch transparente Auftragsverfolgung und schnelle Kommunikation.
+
+Erweitern Sie Ihre MultiRoute Tour! Software noch heute und profitieren Sie von diesen leistungsstarken Zusatzmodulen.
+
+---
 
 
 
