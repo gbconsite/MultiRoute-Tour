@@ -10,7 +10,7 @@ MultiRoute Tour! bietet Ihnen die Möglichkeit, Ihre Routenplanung noch weiter z
 
 
 
-### Tracking {#tracking}
+### 1 Tracking {#tracking}
 
 Verfolgen Sie Ihre Fahrzeuge in Echtzeit. Das Tracking-Modul ermöglicht es Ihnen, jederzeit den genauen Standort Ihrer Fahrzeuge zu sehen. So können Sie sicherstellen, dass alle Lieferungen planmäßig verlaufen und bei Bedarf schnell reagieren. 
 
@@ -78,7 +78,7 @@ Auf iOS setzen Sie den **Dienststatus** auf aktiv/inaktiv zum Starten/Stoppen.
 
 
 
-### Auftragsverfolgung {#auftragsverfolgung}
+### 2 Auftragsverfolgung {#auftragsverfolgung}
 
 Mit der Auftragsverfolgung behalten Sie den Status jeder Lieferung im Blick. Informieren Sie Ihre Kunden proaktiv über den Fortschritt ihrer Bestellung und sorgen Sie für maximale Transparenz. Dieses Modul erleichtert die Kommunikation und verbessert die Kundenzufriedenheit.
 Ihr Fahrer kann in der praktischen [Google-Maps-Liste](../tour/#tour-exportieren) Aufträge als **erledigt** kennzeichnen. Dies sendet eine Benachrichtigung, die Sie und wahlweise auch Ihre Kunden empfangen können. So sind Sie immer auf dem neuesten Stand.
@@ -103,7 +103,7 @@ In diesem Beispiel erhält der Kunde über seine ID `82B064585C81F5C` also nur e
 
 ![image](https://github.com/gbconsite/MultiRoute-Tour/assets/47481567/df52f469-1813-423a-9a72-2d6d9ef71b4a)
 
-### Reichweitenbegrenzung {#reichweitenbegrenzung}
+### 3 Reichweitenbegrenzung {#reichweitenbegrenzung}
 
 Optimieren Sie Ihre Flotte mit dem Modul für Reichweitenbegrenzung. Legen Sie maximale Reichweiten für Ihre Fahrzeuge fest, um unnötige Fahrten zu vermeiden und die Effizienz zu steigern. So stellen Sie sicher, dass Ihre Fahrzeuge innerhalb der festgelegten Grenzen bleiben und Ressourcen optimal genutzt werden.
 Insbesondere für E-Fahrzeuge bieten wir die Reichweitenbegrenzung an. Legen Sie pro Fahrzeug fest, wie weit es fahren kann. Meistern Sie so problemlos die Elektromobilitätswende.
