@@ -1,28 +1,41 @@
 ---
-title: Getränkeauslieferung 2.0 - keine Gedanken mehr um die beste Route machen, einfach rechnen lassen
-description: Beliefern Sie kleine und große Märkte effizient mit Ihrer Flotte. Nutzen Sie die Kapazität Ihrer Fahrzeuge effizient aus und beliefern Sie Ihre Kunden gemäß Ihrer Wünsche schnell und effizient. So bleibt das Bier kalt und es bleibt mehr Zeit zum Genießen.
+title: Effiziente Getränkelieferung 2.0 – Optimierte Routenplanung für Ihre Flotte
+description: Steigern Sie die Effizienz Ihrer Getränkelieferungen mit MultiRoute Tour!. Optimieren Sie die Auslastung Ihrer Fahrzeuge und beliefern Sie große und kleine Märkte schnell und zuverlässig. Halten Sie Getränke kühl und sparen Sie Zeit für den Genuss.
+keywords: Getränkelieferung, Routenplanung, MultiRoute Tour, Flottenmanagement, Getränkeauslieferung, Lieferzeitfenster, effiziente Logistik, Fahrzeugkapazität
 ---
 
-# Getränkelieferungen
+# Getränkelieferungen: Effiziente Routenplanung mit MultiRoute Tour!
 
-![!](assets/getraenke.jpg)
+![Effiziente Routenplanung für Getränkelieferungen](assets/getraenke.jpg "Effiziente Routenplanung für Getränkelieferungen")
 
 <div style="font-size: 11px">
 Photo by <a href="https://unsplash.com/@itsmaemedia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Shayna Douglas</a> on <a href="https://unsplash.com/s/photos/beverages?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>
 
-## Szenario
-Sie sind ein Getränkelieferdienst und möchten Ihre Touren so effizient wie möglich gestalten. Ihre Fahrzeuge möchten Sie so gut wie möglich auslasten.
-Sie haben Großkunden aber auch kleinere Supermärkte und die Gastronomie unter Beachtung spezieller Öffnungszeiten zu beliefern.
+## Szenario: Herausforderung in der Getränkelieferung
 
-## Lösung mit MultiRoute Tour!
+Als Getränkelieferdienst stehen Sie vor der Aufgabe, Ihre Touren möglichst effizient zu planen. Sie beliefern Großkunden, kleine Supermärkte und Gastronomiebetriebe, die oft spezielle Öffnungszeiten haben. Dabei möchten Sie Ihre Fahrzeuge optimal auslasten und die Lieferzeiten genau einhalten.
 
-|Straße Hausnummer|PLZ| Ort | kg | Belieferungszeitfenster Start| Belieferungszeitfenster Ende |
-|---|---|---|---|---|---|
-|Hauptstraße 10| 21614 | Buxtehude | 100 |  |  |
-|Bahnhofsweg 11| 21614 | Buxtehude | 700 | 11:45 | 12:30 |
-|Amselgasse 20| 21614 | Buxtehude | 1000 |  | |
-|Eichenweg 33| 21614 | Buxtehude | 300 | 12:30 | 13:30 |
+## Lösung mit MultiRoute Tour!: Maximale Effizienz bei der Auslieferung
 
-Der Schlüssel sind hier die Kapazitäten Ihrer Fahrzeuge. Diese müssen vorher definiert werden und sollten am besten einen kleinen Puffer beeinhalten. Haben Sie Ihre Flotte erstellt, können Sie Ihre Touren mit einem Klick berechnen! 
+MultiRoute Tour! bietet Ihnen die perfekte Lösung, um Ihre Getränkelieferungen effizient zu gestalten:
 
-Die Fahrer erhalten jeweils den [Google-Maps-Export](../tour/#tour-exportieren) und können mit Ihrem Handy losnavigieren.
+* Definieren Sie die Kapazitäten Ihrer Fahrzeuge mit einem kleinen Puffer, um flexibel auf Bestellmengen reagieren zu können.
+* Exportieren Sie die täglichen Lieferaufträge aus Ihrem CRM als Excel-Liste. Diese Liste sollte die Adressinformationen, das Gewicht der Ladung und die gewünschten Lieferzeitfenster enthalten.
+
+Beispiel für die Excel-Liste:
+
+|Straße Hausnummer|PLZ|Ort|kg|Lieferzeitfenster Start|Lieferzeitfenster Ende|
+|-----------------|---|---|---|----------------------|--------------------|
+|Hauptstraße 10|21614|Buxtehude|100| | |
+|Bahnhofsweg 11|21614|Buxtehude|700|11:45|12:30|
+|Amselgasse 20|21614|Buxtehude|1000| | |
+|Eichenweg 33|21614|Buxtehude|300|12:30|13:30|
+
+* Nutzen Sie MultiRoute Tour!, um mit einem Klick die optimalen Touren für Ihre Flotte zu berechnen. Die Software berücksichtigt dabei sowohl die Fahrzeugkapazitäten als auch die Lieferzeitfenster.
+
+Ihre Fahrer erhalten anschließend den [Google-Maps-Export](../tour/#tour-exportieren) und können die Route direkt mit ihrem Handy navigieren.
+
+Dieses effiziente System sorgt dafür, dass Ihre Kunden pünktlich beliefert werden und die Getränke kühl bleiben – damit mehr Zeit für den Genuss bleibt.
+
+---
+
