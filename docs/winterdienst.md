@@ -1,50 +1,49 @@
 ---
-title: Statt Schneechaos geplante Routenoptimierung
-description: Winterdienste nutzen MultiRoute Tour! für die schnelle Routenoptimierung mit unterschiedlichen Räumfahrzeugen. Egal, ob mit kleinem Traktor oder großem Räumfahrzeug. Für Winterdienste, Gartenlandschaftsbauer und alle, die im Schnee Routen planen.
+title: Statt Schneechaos geplante Routenoptimierung – MultiRoute Tour! für Winterdienste
+description: Nutzen Sie MultiRoute Tour! für eine effiziente Routenoptimierung im Winterdienst. Planen Sie Routen für verschiedene Räumfahrzeuge, von kleinen Traktoren bis hin zu großen Schneeschiebern. Ideal für Winterdienste, Gartenlandschaftsbauer und alle, die Schneeräumungen planen.
+keywords: Winterdienst, Routenoptimierung, Schneeräumung, MultiRoute Tour, Traktor, Schneeschieber, Tourenplanung, Winterdienste Software
 ---
 
-# Winterdienst
+# Winterdienst: Effiziente Routenplanung im Winter
 
-![!](assets/snow.jpg "Routenplanung für Winterdienste")
+![Routenplanung für Winterdienste](assets/snow.jpg "Routenplanung für Winterdienste")
 
 <div style="font-size: 11px">
 Photo by <a href="https://unsplash.com/@photoripey?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ibrahim Rifath</a> on <a href="https://unsplash.com/s/photos/snow-street?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>
 
-## Szenario
+## Szenario: Herausforderungen im Winterdienst
 
-Unsere Winterdienste haben die wichtige Aufgabe Straßen, Gehwege und Innenhöfe von Eis und Schnee zu befreien.<br>
-Hierbei kommen verschiedene Räumfahrzeuge zum Einsatz: große **Schneeschiebe-SUVs**, die eine ganze Fahrbahn von Schnee befreien und kleine wendige **Traktoren**, die auch enge Gehwege befahren können. 
-Manchmal sind es auch Bushaltestellen, die keine eigene Adresse haben. Hier können wir mit genauen Koordinaten arbeiten und die bestmögliche Routenplanung erstellen. Da häufig morgens wenig Zeit ist, ist eine effiziente Routenplanung besonders wichtig.
+Winterdienste spielen eine entscheidende Rolle, wenn es darum geht, Straßen, Gehwege und Innenhöfe von Eis und Schnee zu befreien. Hierbei kommen verschiedene Räumfahrzeuge zum Einsatz: große **Schneeschiebe-SUVs** für breite Fahrbahnen und kleine wendige **Traktoren** für enge Gehwege.
 
-## Lösung mit MultiRoute Tour!
+Oftmals erfordert die Räumung auch spezifische Standorte, wie Bushaltestellen ohne direkte Adresse. Hier kommt die präzise Routenplanung durch exakte Koordinaten ins Spiel. Da die Arbeit oft in den frühen Morgenstunden erledigt werden muss, ist eine effiziente Routenplanung von größter Bedeutung.
 
-Hier ist es wichtig, dass die einzelnen Objekte (Adressen) entsprechend gekennzeichnet werden. Welcher Kunde hat nur den Gehweg gebucht? Wer möchte auch die Straße oder beides räumen? <br>
-Der Schlüssel zu einer erfolgreichen Tourenoptimierung sind hier unsere sogenannten **Skills** mithilfe derer sich diese Anforderungen darstellen lassen. Für dieses Beispiel könnte man also folgende Skills benutzen: 
+## MultiRoute Tour!: Die Lösung für Ihre Routenplanung
 
-|Skill | Bedeutung |
-|---|---|
-|SUV| großer Schneeschieber, ganze Fahrbahn räumen |
-|Traktor| Gehweg räumen |
+Mit **MultiRoute Tour!** können Sie Ihre Routenplanung perfekt optimieren, indem Sie verschiedene Anforderungen der Kunden mithilfe von **Skills** abbilden. Diese Skills ermöglichen es, die spezifischen Bedürfnisse jedes Auftrags zu erfassen, wie beispielsweise:
 
-Diese Skills müssen nun bei jedem Auftrag in Ihrer Exceltabelle hinterlegt sein. Diese könnte bspw. so aussehen: 
+| Skill   | Bedeutung                                                 |
+|---------|------------------------------------------------------------|
+| **SUV** | großer Schneeschieber, ganze Fahrbahn räumen              |
+| **Traktor** | Gehweg räumen                                           |
 
-|...|Straße Hausnummer|PLZ| Ort | Skill | Räumzeit in Sekunden |
-|---|---|---|---|---|---|
-|...|Hauptstraße 10| 21614 | Buxtehude |SUV| 30 |
-|...|Bahnhofsweg 11| 21614 | Buxtehude |Traktor| 60 |
-|...|Amselgasse 20| 21614 | Buxtehude |SUV| 30 |
-|...|...| ... | ... |...| ... |
+Diese Skills werden in Ihrer Exceltabelle hinterlegt, die beispielsweise so aussehen könnte:
 
-Die Räumzeit kann **individuell** mit hochgeladen oder **pauschal** für alle Aufträge gleich festgelegt werden.<br>
+|...|Straße Hausnummer|PLZ|Ort|Skill|Räumzeit in Sekunden|
+|---|-----------------|---|---|-----|-------------------|
+|...|Hauptstraße 10|21614|Buxtehude|SUV|30|
+|...|Bahnhofsweg 11|21614|Buxtehude|Traktor|60|
+|...|Amselgasse 20|21614|Buxtehude|SUV|30|
+|...|...|...|...|...|...|
 
-Werden an einer Adresse Gehweg und Straße geräumt, müssen hieraus zwei Zeilen erstellt werden, weil diese auch von zwei unterschiedlichen Fahrzeugen bedient werden.
+Die **Räumzeit** kann individuell festgelegt oder pauschal für alle Aufträge festgesetzt werden. Für Adressen, die sowohl Gehwege als auch Straßen räumen lassen, müssen separate Zeilen erstellt werden:
 
-|...|Straße Hausnummer|PLZ| Ort | Skill | Räumzeit in Sekunden |
-|---|---|---|---|---|---|
-|...|Hauptstraße 10| 21614 | Buxtehude |SUV| 30 |
-|...|Hauptstraße 10| 21614 | Buxtehude |Traktor| 60 |
-|...|...| ... | ... |...| ... |
+|...|Straße Hausnummer|PLZ|Ort|Skill|Räumzeit in Sekunden|
+|---|-----------------|---|---|-----|-------------------|
+|...|Hauptstraße 10|21614|Buxtehude|SUV|30|
+|...|Hauptstraße 10|21614|Buxtehude|Traktor|60|
+|...|...|...|...|...|...|
 
-In Ihrer Flotte geben Sie nun die Anzahl Ihrer Traktoren und SUVs an und können sofort die Touren optimal berechnen!
+Anschließend geben Sie in Ihrer Flottenübersicht die Anzahl Ihrer Traktoren und SUVs an und können die Touren optimal berechnen lassen. Die Fahrer erhalten den [Google-Maps-Export](../tour/#tour-exportieren) und können direkt loslegen.
 
-Die Fahrer erhalten jeweils den [Google-Maps-Export](../tour/#tour-exportieren) und können mit Ihrem Handy losnavigieren.
+---
+
