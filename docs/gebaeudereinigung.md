@@ -23,12 +23,12 @@ MultiRoute Tour! unterstützt Sie bei der effizienten Planung Ihrer Reinigungsau
 
 Beispiel für eine Excel-Liste:
 
-| Straße Hausnummer | PLZ  | Ort       | Kundenname  | Besuchszeitfenster Start | Besuchszeitfenster Ende | Aufenthaltsdauer (Sek.) | Wochentag |
-|------------------|------|-----------|-------------|--------------------------|-------------------------|-------------------------|-----------|
-| Hauptstraße 10    | 21614| Buxtehude | Edeka       | 07:30                    | 12:30                   | 3600                    | Mo        |
-| Bahnhofsweg 11    | 21614| Buxtehude | Rossmann    | 10:30                    | 12:30                   | 3600                    | Mo        |
-| Amselgasse 20     | 21614| Buxtehude | Müller & co.| 11:30                    | 12:30                   | 3600                    | Di        |
-| Eichenweg 33      | 21614| Buxtehude | Danny's     | 09:00                    | 10:30                   | 3600                    | Fr        |
+| Straße Hausnummer | PLZ  | Ort       | Kundenname  | Besuchszeitfenster Start | Besuchszeitfenster Ende | Aufenthaltsdauer (Sek.) | 
+|------------------|------|-----------|-------------|--------------------------|-------------------------|-------------------------|
+| Hauptstraße 10    | 21614| Buxtehude | Edeka       | 07:30                    | 12:30                   | 3600                    |
+| Bahnhofsweg 11    | 21614| Buxtehude | Rossmann    | 10:30                    | 12:30                   | 3600                    |
+| Amselgasse 20     | 21614| Buxtehude | Müller & co.| 11:30                    | 12:30                   | 3600                    |
+| Eichenweg 33      | 21614| Buxtehude | Danny's     | 09:00                    | 10:30                   | 3600                    |
 
 * **Fahrzeug- und Teamzuteilung**: Definieren Sie in Ihrer Flotte, welche Fahrzeuge und Teams an welchen Tagen zur Verfügung stehen. Mit diesen Informationen kann MultiRoute Tour! die optimalen Routen berechnen, um Fahrzeiten zu minimieren und die Produktivität zu maximieren.
 
