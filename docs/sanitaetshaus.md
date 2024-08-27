@@ -24,6 +24,8 @@ Beispiel für eine Excel-Liste:
 | Hauptstraße 23    | 10115| Berlin      | Schmidt       | 09:30                   | 11:00                  | 2400                    | 
 | Gartenweg 18      | 10115| Berlin      | Meier         | 10:00                   | 12:00                  | 1800                    | 
 | Lindenallee 5     | 10115| Berlin      | Schulz        | 08:30                   | 09:30                  | 2400                    | 
+
+
 * **Fahrzeug- und Fahrerzuteilung**: Legen Sie fest, welche Fahrzeuge und Fahrer an welchen Tagen zur Verfügung stehen. MultiRoute Tour! berechnet daraufhin die optimalen Routen, um die Fahrzeiten zu minimieren und gleichzeitig genügend Zeit für die Versorgung der Patienten einzuplanen.
 
 * **Navigation und Export**: Die Fahrer erhalten den [Google-Maps-Export](../tour/#tour-exportieren) und können sofort mit ihrem Smartphone zur nächsten Lieferadresse navigieren, um pünktlich und effizient bei den Patienten anzukommen.
