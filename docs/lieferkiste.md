@@ -38,7 +38,7 @@ Ihre Fahrer erhalten den [Google-Maps-Export](../tour/#tour-exportieren) und kö
 
 ## Ähnliche Szenarien:
 
-Auslieferung von Lebensmittelkisten für Supermärkte, Belieferung von Büros mit Obstkisten, Brötchendienste etc.
+Auslieferung von Lebensmittelkisten für Supermärkte, Belieferung von Büros mit Obstkisten, Essen für Kindergärten oder Schulen, Brötchendienste etc.
 
 ---
 
