@@ -18,12 +18,12 @@ MultiRoute Tour! unterstützt Sie bei der effizienten Planung Ihrer Reifen- und 
 
 Beispiel für eine Excel-Liste:
 
-| Straße Hausnummer | PLZ  | Ort        | Kundenname | Lieferzeitfenster Start | Lieferzeitfenster Ende | Aufenthaltsdauer (Sek.) | Wochentag |
-|------------------|------|------------|------------|-------------------------|------------------------|-------------------------|-----------|
-| Industriestraße 5 | 80331| München    | AutoPlus   | 08:00                   | 11:00                  | 1800                    | Mo        |
-| Werkstraße 12     | 80331| München    | ReifenPro  | 09:00                   | 12:00                  | 1800                    | Mo        |
-| Hauptstraße 22    | 80331| München    | TeileMax   | 10:00                   | 13:00                  | 1800                    | Di        |
-| Westendstraße 44  | 80331| München    | SpeedTires | 08:30                   | 10:00                  | 1800                    | Fr        |
+| Straße Hausnummer | PLZ  | Ort        | Kundenname | Lieferzeitfenster Start | Lieferzeitfenster Ende | Aufenthaltsdauer (Sek.) | 
+|------------------|------|------------|------------|-------------------------|------------------------|-------------------------|
+| Industriestraße 5 | 80331| München    | AutoPlus   | 08:00                   | 11:00                  | 1800                    | 
+| Werkstraße 12     | 80331| München    | ReifenPro  | 09:00                   | 12:00                  | 1800                    |
+| Hauptstraße 22    | 80331| München    | TeileMax   | 10:00                   | 13:00                  | 1800                    |
+| Westendstraße 44  | 80331| München    | SpeedTires | 08:30                   | 10:00                  | 1800                    |
 
 * **Fahrzeug- und Fahrerzuteilung**: Legen Sie fest, welche Fahrzeuge und Fahrer an welchen Tagen zur Verfügung stehen. MultiRoute Tour! berechnet daraufhin die optimalen Routen, um Fahrzeiten zu minimieren und die Produktivität zu maximieren.
 
