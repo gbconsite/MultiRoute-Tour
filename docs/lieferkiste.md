@@ -36,5 +36,9 @@ Falls Sie die Lieferungen auf mehrere Tage aufteilen möchten, können Sie versc
 
 Ihre Fahrer erhalten den [Google-Maps-Export](../tour/#tour-exportieren) und können direkt mit der Navigation beginnen.
 
+## Ähnliche Szenarien:
+
+Auslieferung von Lebensmittelkisten für Supermärkte, Belieferung von Büros mit Obstkisten, Brötchendienste etc.
+
 ---
 
