@@ -617,6 +617,7 @@ Die JSON-Repräsentation einer Flotte besitzt einen Namen
 | start                 | JSON-Objekt der Start-Adresse                 | Pflichtfeld             | \-               |
 | end                   | JSON-Objekt der End-Adresse                   | Pflichtfeld             | \-               |
 | capacity              | Fahrzeugkapazität                             | optional                | 100              |
+| max_travel_distance   | Maximale Reichweite des Fahrzeugs (in km)     | optional                | \-               |
 | driving               | Zeitlicher Rahmen für die Tour (HHMMD-Format) | Pflichtfeld             | \-               |
 | break                 | JSON-Object der Pause                         | optional                | {}               |
 | skills                | Schlüsselfertigkeiten des Fahrzeugs/Fahrers   | optional                | \[\]             |
@@ -1609,18 +1610,20 @@ Parameter:
 
 Tour-Parameter:
 
-|                               |                                              |
-|-------------------------------|----------------------------------------------|
-| zeit\_distanz                 | Fahrzeugroutingprofil                        |
-| flat\_deploy\_time            | Entladezeit pro Auftrag (Sek.)               |
-| deploy\_time                  | Entladezeit pro Einheit (Sek.)               |
-| maximum\_jobs\_per\_vehicle   | Maximale Anzahl Aufträge pro Fahrzeugstrecke |
-|ignore_capacity_constraints|(Bool) Kapazitäten für die Optimierung ignorieren.|
-|ignore_skill_constraints|(Bool) Skills für die Optimierung ignorieren.|
-|ignore_vehicle_number_constraints|(Bool) Fahrzeugzuweisungen für die Optimierung ignorieren.|
-|tempo_modifier|(Integer) Relativer Geschwindigkeits-Regler (Default: 100) zur prozentualen Anpassung der Fahrzeuggeschwindigkeiten|
-|exploration_depth| (Integer) Explorationstiefe (1: schnellste Optimierung, 5: beste Optimierung, Default: 5)|
-|exclude_ferry_routes|(Bool) Fähren nicht benutzen|
+|                                  |                                                            |
+|----------------------------------|------------------------------------------------------------|
+| zeit\_distanz                    | Fahrzeugroutingprofil                                      |
+| flat\_deploy\_time               | Entladezeit pro Auftrag (Sek.)                             |
+| deploy\_time                     | Entladezeit pro Einheit (Sek.)                             |
+| maximum\_jobs\_per\_vehicle      | Maximale Anzahl Aufträge pro Fahrzeugstrecke               |
+|ignore_capacity_constraints       | (Bool) Kapazitäten für die Optimierung ignorieren.         |
+|ignore_skill_constraints          | (Bool) Skills für die Optimierung ignorieren.              |
+|ignore_vehicle_number_constraints | (Bool) Fahrzeugzuweisungen für die Optimierung ignorieren. |
+|tempo_modifier                    | (Integer) Relativer Geschwindigkeits-Regler (Default: 100) zur prozentualen Anpassung der Fahrzeuggeschwindigkeiten |
+|exploration_depth                 | (Integer) Explorationstiefe (1: schnellste Optimierung, 5: beste Optimierung, Default: 5) |
+|exclude_ferry_routes              | (Bool) Fähren nicht benutzen                               |
+|max_travel_distance_treatment     | (String-Enum) Modus der Reichweite, Default: "ignore"   |
+|max_travel_distance               | (Float) Globale Reichweite für alle Fahrzeuge in km. (Nur relevant für Modus "global") |
 
 
 Gültige Fahrzeugroutingprofile für Tour-Parameter "zeit\_distanz".  
@@ -1635,6 +1638,14 @@ Error-Response gelistet.
 | hgv\_35  | LKW (3,5 Tonnen)         |
 | hgv\_75  | LKW (7,5 Tonnen)         |
 | hgv\_120 | LKW (12,0 Tonnen)        |
+
+Die Option "exclude_ferry_routes" funktioniert nur für die Fahrzeugprofile "zeit" und "distanz".
+
+Gültige Reichweiten Modi sind:
+| ignore | Ignoriere etwaige Reichweiten-Angaben                 |
+| global | Eine globale Reichweite für alle Fahrzeuge der Flotte | 
+| indi   | Verwende die Reichweiten der Fahrzeuge                |
+
 
 Bsp:
 
