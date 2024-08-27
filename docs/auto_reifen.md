@@ -28,6 +28,6 @@ Beispiel für eine Excel-Liste:
 * **Fahrzeug- und Fahrerzuteilung**: Legen Sie fest, welche Fahrzeuge und Fahrer an welchen Tagen zur Verfügung stehen. MultiRoute Tour! berechnet daraufhin die optimalen Routen, um Fahrzeiten zu minimieren und die Produktivität zu maximieren.
 
 * **Navigation und Export**: Die Fahrer erhalten den [Google-Maps-Export](../tour/#tour-exportieren) und können sofort mit ihrem Smartphone zur nächsten Lieferadresse navigieren.
-* 
+
 ---
 
