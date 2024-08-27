@@ -29,6 +29,7 @@ nav:
       - Lieferkisten: lieferkiste.md
       - Monteure: monteure.md
       - Gebäudereinigung: gebaeudereinigung.md
+      - Sanitätshäuser: sanitaetshaus.md
     - Blog:
       - blog/index.md
     - API:
