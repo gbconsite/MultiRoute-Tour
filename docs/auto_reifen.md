@@ -6,6 +6,11 @@ keywords: Reifenlieferung, Autoteile, Routenoptimierung, Logistikplanung, schnel
 
 # Reifenlieferung und Autoteile: Effektive Logistikplanung
 
+![!](assets/reifen.jpg "Effiziente Routenplanung für Ersatzteillieferungen")
+
+<div style="font-size: 11px">
+Photo by <a href="https://unsplash.com/@jontyson?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jon Tyson</a> on <a href="https://unsplash.com/photos/orange-traffic-cone-near-pile-of-vehicle-tires-rRaApBvfSkA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></div>
+
 ## Szenario: Optimierte Routen für Ihre Lieferflotte
 
 Ein Logistikunternehmen mit 15 Fahrzeugen plant täglich die Auslieferung von Reifen und Autoteilen. Ziel ist es, die Lieferzeiten zu minimieren und die Kosten durch effiziente Routenplanung zu senken.
@@ -28,6 +33,3 @@ Beispiel für eine Excel-Liste:
 * **Fahrzeug- und Fahrerzuteilung**: Legen Sie fest, welche Fahrzeuge und Fahrer an welchen Tagen zur Verfügung stehen. MultiRoute Tour! berechnet daraufhin die optimalen Routen, um Fahrzeiten zu minimieren und die Produktivität zu maximieren.
 
 * **Navigation und Export**: Die Fahrer erhalten den [Google-Maps-Export](../tour/#tour-exportieren) und können sofort mit ihrem Smartphone zur nächsten Lieferadresse navigieren.
-
----
-
