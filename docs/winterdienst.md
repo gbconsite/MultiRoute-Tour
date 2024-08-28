@@ -8,8 +8,7 @@ keywords: Winterdienst, Routenoptimierung, Schneeräumung, MultiRoute Tour, Trak
 
 ![Routenplanung für Winterdienste](assets/snow.jpg "Routenplanung für Winterdienste")
 
-<div style="font-size: 11px">
-Photo by <a href="https://unsplash.com/@photoripey?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ibrahim Rifath</a> on <a href="https://unsplash.com/s/photos/snow-street?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>
+<div style="font-size: 11px">Foto von <a href="https://unsplash.com/de/@eliasnull?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Elias Null</a> auf <a href="https://unsplash.com/de/fotos/gruner-und-schwarzer-john-deere-fahrt-mit-rasenmahern-auf-schneebedecktem-boden-tagsuber-Pz2x7wzV0jM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></div>
 
 ## Szenario: Herausforderungen im Winterdienst
 
