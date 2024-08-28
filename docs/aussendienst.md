@@ -19,12 +19,12 @@ Ihr Außendienst-Team verbringt viel Zeit im Auto. Um diese Zeit zu minimieren u
 Ein Beispiel für eine typische Kundenliste:
 
 |Straße Hausnummer|PLZ| Ort | Kundenname |
-|---|---|---|---|---|
+|---|---|---|---|
 |Hauptstraße 10| 21614 | Buxtehude | Edeka | 
 |Bahnhofsweg 11| 21614 | Buxtehude | Rossmann |
 |Amselgasse 20| 21614 | Buxtehude | Müller & co. |
 |Eichenweg 33| 21614 | Buxtehude | Danny's |
-|...|...|...|...|...|
+|...|...|...|...|
 
 ## MultiRoute Tour! - Die Lösung für Ihre Routenplanung
 
@@ -35,27 +35,27 @@ Die einfachste Methode für das Tagesgeschäft besteht darin, Ihre Daten wöchen
 ### Woche 1
 
 |Straße Hausnummer|PLZ| Ort | Kundenname |
-|---|---|---|---|---|
+|---|---|---|---|
 |Hauptstraße 10| 21614 | Buxtehude | Edeka |
 |Bahnhofsweg 11| 21614 | Buxtehude | Rossmann |
-|...|...|...|...|...|
+|...|...|...|...|
 
 ### Woche 2 
 
 |Straße Hausnummer|PLZ| Ort | Kundenname | 
-|---|---|---|---|---|
+|---|---|---|---|
 |Hauptstraße 10| 21614 | Buxtehude | Edeka |
 |Bahnhofsweg 11| 21614 | Buxtehude | Rossmann |
 |Amselgasse 20| 21614 | Buxtehude | Müller & co. |
-|...|...|...|...|...|
+|...|...|...|...|
 
 ### Woche 3
 
 |Straße Hausnummer|PLZ| Ort | Kundenname |
-|---|---|---|---|---|
+|---|---|---|---|
 |Hauptstraße 10| 21614 | Buxtehude | Edeka |
 |Eichenweg 33| 21614 | Buxtehude | Danny's |
-|...|...|...|...|...|
+|...|...|...|...|
 
 ### Monatliche und jährliche Routenplanung
 Für strategische Planungen über mehrere Monate oder das gesamte Jahr hinweg können Sie Kalenderwochen nutzen, um festzulegen, wann ein Kunde besucht werden soll. MultiRoute Tour! bietet flexible Optionen, die Ihnen helfen, die besten Ergebnisse zu erzielen.
