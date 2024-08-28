@@ -41,5 +41,3 @@ Beispiele für eine Excel-Liste:
 * **Fahrzeug- und Fahrerzuteilung**: Definieren Sie in Ihrer Flotte, welche Fahrzeuge und Fahrer für den Transport maßgefertigter Produkte geeignet sind und an welchen Tagen verfügbar. MultiRoute Tour! berechnet daraufhin die optimalen Routen, um die Fahrzeiten zu minimieren und eine sichere Lieferung zu gewährleisten.
 
 * **Navigation und Export**: Die Fahrer erhalten den [Google-Maps-Export](../tour/#tour-exportieren) und können sofort mit ihrem Smartphone zur nächsten Lieferadresse navigieren, um sicherzustellen, dass die maßgefertigten Produkte unbeschadet und pünktlich beim Kunden ankommen.
-
----
