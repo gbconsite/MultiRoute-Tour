@@ -5,6 +5,12 @@ description: Optimieren Sie die Routen Ihrer Monteure für Stromablesung und Zä
 
 # Routenoptimierung und Tourenplanung für Monteure oder zur Stromablesung und Zählerwechsel
 
+![!](assets/monteur.jpg "Effiziente Routenplanung für Monteurstouren")
+
+<div style="font-size: 11px">
+Photo by <a href="https://unsplash.com/@rgaleriacom?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ricardo Gomez Angel</a> on <a href="https://unsplash.com/photos/man-in-blue-crew-neck-t-shirt-and-brown-pants-sitting-on-red-and-black-motorcycle-IQDWnu2xfRI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></div>
+  
+
 ## Warum Routenoptimierung und Tourenplanung für Monteure wichtig sind
 
 Die Routenoptimierung und Tourenplanung sind entscheidend für die effiziente Durchführung Arbeiten durch Fachleute. Da sich die Touren häufig ändern, ist eine flexible und schnelle Anpassung der Routen unerlässlich, um unnötige Fahrten und Verzögerungen zu vermeiden. Eine durchdachte Routenoptimierung bietet zahlreiche Vorteile:

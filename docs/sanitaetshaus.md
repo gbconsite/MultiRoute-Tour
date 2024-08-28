@@ -1,11 +1,15 @@
 ---
 title: Effiziente Logistikplanung für die Belieferung von Patienten durch Sanitätshäuser und Orthopädietechnik
 description: Optimieren Sie die Lieferungen von Sanitätshäusern und Orthopädietechnikern an Patienten mit präziser Einsatzplanung und Routenoptimierung. Stellen Sie sicher, dass Patienten nach Operationen schnell und zuverlässig versorgt werden.
-keywords: Sanitätshaus, Orthopädietechnik, Routenoptimierung, Logistikplanung, schnelle Lieferung, Patientenversorgung, MultiRoute Tour, akute Lieferung
 ---
 
 # Patientenversorgung durch Sanitätshäuser und Orthopädietechnik: Effektive Logistikplanung
 
+![!](assets/rollstuhl.jpg "Effiziente Routenplanung für Sanitätshäuser")
+
+<div style="font-size: 11px">
+Photo by <a href="https://unsplash.com/@rebelvisual?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Steven HWG</a> on <a href="https://unsplash.com/photos/woman-sitting-on-wheelchair-zBsdRTHIIm4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></div>
+  
 ## Szenario: Optimierte Routen für die Patientenbelieferung durch Sanitätshäuser und Orthopädietechniker
 
 Sanitätshäuser und Orthopädietechniker versorgen regelmäßig Patienten, oft unmittelbar nach Operationen oder in akuten Situationen. Dabei ist es wichtig, dass die Lieferungen pünktlich und zuverlässig erfolgen, während gleichzeitig genügend Zeit bleibt, um die Patienten bestmöglich zu versorgen. Da die Zeit knapp ist, ist eine optimierte Routenführung unerlässlich.
