@@ -14,14 +14,16 @@ jobs:
         with:
           python-version: 3.11
 
-      # Install uv and dependencies with uv instead of pip
+      # Install uv and set up a virtual environment
       - run: |
           curl -LsSf https://astral.sh/uv/install.sh | sh
+          source $HOME/.cargo/env
+          uv venv --python 3.11
           uv pip install "mkdocs-material[imaging]==9.5.18"
           uv pip install mkdocs-glightbox mkdocs-minify-plugin
           
       # Deploy with mkdocs
-      - run: mkdocs gh-deploy --force
+      - run: uv run mkdocs gh-deploy --force
 
       # Node setup
       - uses: actions/setup-node@v2
