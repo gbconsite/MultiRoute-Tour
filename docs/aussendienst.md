@@ -11,7 +11,7 @@ description: Optimieren Sie die Routenplanung Ihres Außendienstes mit MultiRout
 Photo by <a href="https://unsplash.com/@wocintechchat">Christina @ wocintechchat.com</a> on <a href="https://unsplash.com/s/photos/business-casual">Unsplash</a></div>
 
 ## Warum Routenplanung für den Außendienst optimieren?
-Die Optimierung der Routenplanung für Außendienst-Teams ist entscheidend, um Zeit und Kosten zu sparen. MultiRoute Tour! hilft Ihnen, effizient zwischen A-, B- und C-Kunden zu navigieren und unnötige Fahrten zu vermeiden. Eine sorgfältige Planung, sei es auf Tages-, Wochen-, Monats- oder Jahresbasis, ermöglicht es, Kundenbesuche optimal zu organisieren.
+Die Optimierung der Routenplanung für Außendienst-Teams ist entscheidend, um Zeit und Kosten zu sparen. MultiRoute Tour! hilft Ihnen, effizient zwischen Kunden zu navigieren und unnötige Fahrten zu vermeiden. Eine sorgfältige Planung, sei es auf Tages-, Wochen-, Monats- oder Jahresbasis, ermöglicht es, Kundenbesuche optimal zu organisieren.
 
 ## Szenario: Effektive Planung Ihrer Außendienst-Routen
 Ihr Außendienst-Team verbringt viel Zeit im Auto. Um diese Zeit zu minimieren und Ihre Ressourcen bestmöglich zu nutzen, ist eine differenzierte Planung nach Mitarbeiterwohnort nötig. Jeder Mitarbeiter soll die Kunden bedienen, die möglichst nah bei ihm wohnen.
