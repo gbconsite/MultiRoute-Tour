@@ -1,6 +1,6 @@
 ---
 title: Effiziente Routenplanung für Außendienst-Teams mit MultiRoute Tour!
-description: Optimieren Sie die Routenplanung Ihres Außendienstes mit MultiRoute Tour! Planen Sie Tages-, Wochen-, Monats- oder Jahresbesuche effizient und vermeiden Sie unnötige Fahrten.
+description: Optimieren Sie die Routenplanung Ihres Außendienstes mit MultiRoute Tour!. Planen Sie Tages-, Wochen-, Monats- oder Jahresbesuche effizient und vermeiden Sie unnötige Fahrten.
 ---
 
 # Optimierung der Außendienst-Routenplanung
@@ -58,7 +58,7 @@ Die einfachste Methode für das Tagesgeschäft besteht darin, Ihre Daten wöchen
 |...|...|...|...|
 
 ### Monatliche und jährliche Routenplanung
-Für strategische Planungen über mehrere Monate oder das gesamte Jahr hinweg können Sie Kalenderwochen nutzen, um festzulegen, wann ein Kunde besucht werden soll. MultiRoute Tour! bietet flexible Optionen, die Ihnen helfen, die besten Ergebnisse zu erzielen.
+Für strategische Planungen über mehrere Monate oder das gesamte Jahr hinweg können Sie Kalenderwochen nutzen, um festzulegen, wann ein Kunde besucht werden soll. MultiRoute Tour! bietet flexible Optionen, die Ihnen helfen, die besten Ergebnisse zu erzielen. Sprechen Sie uns hierzu einfach an!
 
 ## Vorteile des MultiRoute Tour! Google-Maps-Exports
 Die Fahrer erhalten  den [Google-Maps-Export](../tour/#tour-exportieren) für die geplanten Tage und können direkt mit ihrem Smartphone die Navigation starten. Dies reduziert Planungsaufwand für die Tourenplanung und sorgt für reibungslose Abläufe.
