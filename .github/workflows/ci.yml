@@ -1,4 +1,4 @@
-name: ci 
+name: ci
 on:
   push:
     branches:
@@ -25,6 +25,18 @@ jobs:
       # Deploy with mkdocs
       - run: uv run mkdocs gh-deploy --force
 
+      # Check out other branch (gh-pages)
+      - uses: actions/checkout@v2
+        with:
+          ref: gh-pages
+
+      # Commit pages without compression
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "pages without compression"
+          branch: gh-pages
+          push_options: '--force'
+
       # Node setup
       - uses: actions/setup-node@v2
         with:
@@ -34,17 +46,12 @@ jobs:
       - run: npm install
       - run: npm install -g gzipper@7.2.0
 
-      # Check out other branch (gh-pages)
-      - uses: actions/checkout@v2
-        with:
-          ref: gh-pages
-
       # Compress all files in all directories
       - run: gzipper compress --include htm,html,css,js,svg,xml,map,json,img,png,jpg,jpeg --zopfli --brotli --remove-larger .
 
       # Commit compressed files
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Compress Files
+          commit_message: "pages with compression"
           branch: gh-pages
           push_options: '--force'
