@@ -13,11 +13,11 @@ Photo by <a href="https://unsplash.com/@sarascarpa?utm_source=unsplash&utm_mediu
 
 ## Szenario: Erfolgreiche Lieferung von Bio-Lieferkisten
 
-Sie beliefern Ihre Kunden wöchentlich mit regionalen Obst- und Gemüsekisten. Alle Kunden erhalten die gleiche Kiste, und Sie haben drei Fahrzeuge im Einsatz, die diese Lieferungen zuverlässig einmal pro Woche direkt vor die Haustür stellen.
+Sie beliefern Ihre Kunden täglich oder wöchentlich mit regionalen Obst- und Gemüsekisten. Alle Kunden erhalten die gleiche Kiste, und Sie haben drei Fahrzeuge im Einsatz, die diese Lieferungen zuverlässig einmal pro Woche direkt vor die Haustür stellen.
 
 ## Lösung mit MultiRoute Tour!: Effiziente Auslieferung Ihrer Lieferkisten
 
-MultiRoute Tour! ermöglicht es Ihnen, Ihre Routen für die wöchentliche Auslieferung Ihrer Bio-Lieferkisten effizient zu planen:
+MultiRoute Tour! ermöglicht es Ihnen, Ihre Routen für die tägliche oder wöchentliche Auslieferung Ihrer Bio-Lieferkisten effizient zu planen:
 
 * Erfassen Sie die Anzahl der Kisten pro Haushalt sowie gewünschte Lieferzeitfenster in einer Excel-Liste, die Sie in MultiRoute Tour! hochladen können.
 
