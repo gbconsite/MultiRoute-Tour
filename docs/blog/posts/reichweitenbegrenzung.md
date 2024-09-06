@@ -1,5 +1,5 @@
 ---
-date: 2023-09-06
+date: 2024-09-06
 description: >
   Begrenzen Sie die Reichweite Ihrer Elektrofahrzeuge
 categories:
