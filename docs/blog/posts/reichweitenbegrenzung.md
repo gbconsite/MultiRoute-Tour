@@ -15,7 +15,7 @@ Das bekannte Problem, das E-Fahrzeuge eine geringere Reichweite haben als konven
 
 ## Beispiel 
 
-![!](assets/E-Flotte.png "Effiziente Routenplanung für Elektrofahrzeuge")
+![image](https://github.com/user-attachments/assets/424c78c6-3da5-49c6-8b22-9734ba319241 "Effiziente Routenplanung für Elektrofahrzeuge")
 
 Im Flotteneditor können Sie sowohl Elektrofahrzeuge als auch Verbrenner eingeben und diese zusammen benutzen.
 Bei den Elektrofahrzeugen geben Sie die maximale Reichweite in Kilometern ein. 
