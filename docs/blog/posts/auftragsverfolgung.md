@@ -12,7 +12,7 @@ Mit unserem neuen Auftragsverfolgungsmodul haben Sie die Möglichkeit, jede Lief
 
 ![image](https://github.com/user-attachments/assets/dd489569-18ed-4913-8bc0-da946d02c26c)
 
-Photo by <a href="https://unsplash.com/@brucemars?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">bruce mars</a> on <a href="https://unsplash.com/photos/woman-in-white-shirt-using-smartphone-FWVMhUa_wbY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+<div style="font-size: 11px">Photo by <a href="https://unsplash.com/@brucemars?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">bruce mars</a> on <a href="https://unsplash.com/photos/woman-in-white-shirt-using-smartphone-FWVMhUa_wbY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></div>
 
 <!-- more -->
 
