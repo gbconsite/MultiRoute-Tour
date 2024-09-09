@@ -155,7 +155,7 @@ div.doc-contents:not(.first) {
 /* größerer Abstand bei Überschriften*/
 
 .md-typeset h1 {
-  margin: 1em 0 1em !important;
+  margin: 0 0 1em !important;
 }
 
 .md-typeset a {
