@@ -10,7 +10,8 @@ categories:
 
 Mit unserem neuen Auftragsverfolgungsmodul haben Sie die Möglichkeit, jede Lieferung genau im Auge zu behalten und Ihre Kunden proaktiv über den aktuellen Status ihrer Bestellung zu informieren. Durch diese Funktion schaffen Sie maximale Transparenz und verbessern gleichzeitig die Kommunikation und Kundenzufriedenheit.
 
-![image](https://github.com/user-attachments/assets/dd489569-18ed-4913-8bc0-da946d02c26c)
+![image](https://github.com/user-attachments/assets/076cfab3-0e19-460d-9673-9c3a83cd0383)
+
 
 <div style="font-size: 11px">Photo by <a href="https://unsplash.com/@brucemars?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">bruce mars</a> on <a href="https://unsplash.com/photos/woman-in-white-shirt-using-smartphone-FWVMhUa_wbY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></div>
 
