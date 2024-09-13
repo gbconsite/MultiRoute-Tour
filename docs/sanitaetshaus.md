@@ -1,5 +1,5 @@
 ---
-title: Effiziente Logistikplanung für die Belieferung von Patienten durch Sanitätshäuser und Orthopädietechnik
+title: Einfache Logistikplanung für die Belieferung von Patienten durch Sanitätshäuser und Orthopädietechnik
 description: Optimieren Sie die Lieferungen von Sanitätshäusern und Orthopädietechnikern an Patienten mit präziser Einsatzplanung und Routenoptimierung. Stellen Sie sicher, dass Patienten nach Operationen schnell und zuverlässig versorgt werden.
 ---
 
