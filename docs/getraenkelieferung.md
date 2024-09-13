@@ -1,5 +1,5 @@
 ---
-title: Effiziente Getränkelieferung 2.0 – Optimierte Routenplanung für Ihre Flotte
+title: Schnelle Getränkelieferung 2.0 – Optimierte Routenplanung für Ihre Flotte
 description: Steigern Sie die Effizienz Ihrer Getränkelieferungen mit MultiRoute Tour!. Optimieren Sie die Auslastung Ihrer Fahrzeuge und beliefern Sie große und kleine Märkte schnell und zuverlässig. Halten Sie Getränke kühl und sparen Sie Zeit für den Genuss.
 keywords: Getränkelieferung, Routenplanung, MultiRoute Tour, Flottenmanagement, Getränkeauslieferung, Lieferzeitfenster, effiziente Logistik, Fahrzeugkapazität
 ---
