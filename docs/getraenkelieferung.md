@@ -4,7 +4,7 @@ description: Steigern Sie die Effizienz Ihrer Getränkelieferungen mit MultiRout
 keywords: Getränkelieferung, Routenplanung, MultiRoute Tour, Flottenmanagement, Getränkeauslieferung, Lieferzeitfenster, effiziente Logistik, Fahrzeugkapazität
 ---
 
-# Getränkelieferungen: Effiziente Routenplanung mit MultiRoute Tour!
+# Getränkelieferungen: Einfache Routenplanung mit MultiRoute Tour!
 
 ![Effiziente Routenplanung für Getränkelieferungen](assets/getraenke.jpg "Effiziente Routenplanung für Getränkelieferungen")
 
