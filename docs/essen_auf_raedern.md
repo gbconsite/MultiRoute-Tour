@@ -4,7 +4,7 @@ description: Einfache Routenplanung für Essenslieferungen mit MultiRoute Tour!.
 keywords: Routenplanung, Essenslieferung, MultiRoute Tour, Lieferdienst, Essen auf Rädern, Pizzalieferung, Kindergartenverköstigung, Menüplanung, Lieferzeitfenster
 ---
 
-# Essen auf Rädern: Effiziente Routenplanung für Ihre Essenslieferungen
+# Essen auf Rädern: Die Routenplanung für Ihre Essenslieferungen
 
 ![Routenplanung für regelmäßige Essenslieferungen](assets/essen.jpg "Routenplanung für regelmäßige Essenslieferungen")
 
