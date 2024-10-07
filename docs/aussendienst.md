@@ -1,5 +1,5 @@
 ---
-title: Optimale Routenplanung für Außendienst-Teams mit MultiRoute Tour!
+title: Optimale Routenplanung für Außendienst-Teams
 description: Optimieren Sie die Routenplanung Ihres Außendienstes mit MultiRoute Tour!. Planen Sie Tages-, Wochen-, Monats- oder Jahresbesuche effizient und vermeiden Sie unnötige Fahrten.
 ---
 
