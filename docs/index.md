@@ -1,4 +1,4 @@
 ---
 template: home.html
-title: MultiRoute Tour!
+title: Der Tourenplaner für intelligente Planung, Optimierung, Navigation
 ---
