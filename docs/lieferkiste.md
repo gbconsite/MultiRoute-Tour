@@ -1,6 +1,6 @@
 ---
-title: Effiziente Routenplanung für Bio-Lieferkisten, Supermarktbestellungen und Getränkelieferungen mit MultiRoute Tour!
-description: Optimieren Sie die Auslieferung Ihrer Bio-Lieferkisten und anderen Bestellungen mit MultiRoute Tour!. Nutzen Sie Ihre Flotte optimal, sparen Sie Kosten und berücksichtigen Sie individuelle Kundenwünsche für die Ablage. 
+title: Effiziente Routenplanung für Bio-Kisten & Lieferungen
+description: Optimieren Sie Ihre Bio-Lieferkisten mit MultiRoute Tour – nutzen Sie Ihre Flotte effizient, sparen Sie Kosten und erfüllen Sie individuelle Kundenwünsche! 
 keywords: Bio-Lieferkisten, Routenplanung, MultiRoute Tour, Lieferdienst, Fahrzeugoptimierung, Supermarktlieferung, Getränkelieferung, regionale Produkte
 ---
 
