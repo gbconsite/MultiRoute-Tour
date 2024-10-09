@@ -1,6 +1,6 @@
 ---
-title: Statt Schneechaos geplante Routenoptimierung – MultiRoute Tour! für Winterdienste
-description: Nutzen Sie MultiRoute Tour! für eine effiziente Routenoptimierung im Winterdienst. Planen Sie Routen für verschiedene Räumfahrzeuge, von kleinen Traktoren bis hin zu großen Schneeschiebern. Ideal für Winterdienste, Gartenlandschaftsbauer und alle, die Schneeräumungen planen.
+title: Statt Schneechaos geplante Routenoptimierung für Winterdienste
+description: Effiziente Routenoptimierung im Winterdienst. Routen und Einsätze für Winterdienste, Gartenlandschaftsbauer und alle, die draußen planen.
 keywords: Winterdienst, Routenoptimierung, Schneeräumung, MultiRoute Tour, Traktor, Schneeschieber, Tourenplanung, Winterdienste Software
 ---
 
