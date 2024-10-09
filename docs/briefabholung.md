@@ -1,6 +1,6 @@
 ---
-title: Effiziente Routenoptimierung und Tourenplanung zur Abholung von Briefen
-description: Optimieren Sie die Routenoptimierung und Tourenplanung Ihrer Briefabhol-Touren, senken Sie Kosten, sparen Sie Zeit und steigern Sie die Kundenzufriedenheit.
+title: Tourenplanung zur Abholung von Briefen
+description: Optimieren Sie die Routenoptimierung und Tourenplanung Ihrer Briefabhol-Touren, senken Sie Kosten und sparen Sie Zeit..
 ---
 
 # Routenoptimierung und Tourenplanung für Briefabhol-Touren
