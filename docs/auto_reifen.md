@@ -1,6 +1,6 @@
 ---
-title: Effiziente Logistikplanung für schnelle Reifenlieferung und Autoteile
-description: Optimieren Sie Reifen- und Autoteilelieferungen mit präziser Planung und Routenoptimierung. Reduzieren Sie Fahrzeiten, integrieren Sie Aufträge und sparen Sie Kosten.
+title: Effiziente Logistikplanung für schnelle Lieferung
+description: Optimieren Sie Reifen- und Autoteilelieferungen mit präziser Planung und Routenoptimierung. Reduzieren Sie Fahrzeiten und sparen Sie Kosten.
 keywords: Reifenlieferung, Autoteile, Routenoptimierung, Logistikplanung, schnelle Lieferung, MultiRoute Tour, kostengünstig, Lieferung
 ---
 
