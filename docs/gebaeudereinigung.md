@@ -1,5 +1,5 @@
 ---
-title: Effiziente Einsatzplanung für Ihr Reinigungsteam mit voraussichtlicher Arbeitszeit und Fixterminen
+title: Einsatzplanung für Reinigungsteams mit Arbeitszeit und Fixterminen
 description: Optimieren Sie Ihre Glas-, Fassaden-, Innen- und Gebäudereinigungsdienste. Planen Sie den Einsatz Ihrer Teams inklusive Schlüsselvergabe und Aufenthaltsdauer, um die Fahrzeit zu minimieren und umliegende Aufträge effizient zu integrieren.
 keywords: Gebäudereinigung, Einsatzplanung, Reinigungsteams, Routenoptimierung, MultiRoute Tour, Glasreinigung, Fassadenreinigung, Innenreinigung
 ---
