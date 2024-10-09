@@ -1,6 +1,6 @@
 ---
-title: Routenplanung für Essenslieferungen – Optimierung mit MultiRoute Tour!
-description: Einfache Routenplanung für Essenslieferungen mit MultiRoute Tour!. Optimieren Sie die Verteilung Ihrer Bestellungen, egal ob Mittagstisch, Pizzalieferung, Kindergartenverköstigung oder Essen auf Rädern. Berücksichtigen Sie Menü-Wünsche und Lieferzeitfenster für Ihre Kunden.
+title: Routenplanung für Essenslieferungen – Optimierung mit
+description: Effiziente Routenplanung für Essenslieferungen mit MultiRoute Tour – optimieren Sie Bestellverteilung, Menüwünsche und Lieferzeitfenster Ihrer Kunden!
 keywords: Routenplanung, Essenslieferung, MultiRoute Tour, Lieferdienst, Essen auf Rädern, Pizzalieferung, Kindergartenverköstigung, Menüplanung, Lieferzeitfenster
 ---
 
