@@ -1,5 +1,5 @@
 ---
-title: Statt Schneechaos: Geplante Routenoptimierung für Winterdienste
+title: Statt Schneechaos - Geplante Routenoptimierung für Winterdienste
 description: Effiziente Routenoptimierung im Winterdienst. Routen und Einsätze für Winterdienste, Gartenlandschaftsbauer und alle, die draußen planen.
 keywords: Winterdienst, Routenoptimierung, Schneeräumung, MultiRoute Tour, Traktor, Schneeschieber, Tourenplanung, Winterdienste Software
 ---
