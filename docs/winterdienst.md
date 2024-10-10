@@ -1,5 +1,5 @@
 ---
-title: Kein Schneechaos mit geplanter Routenoptimierung für Winterdienste
+title: Kein Schneechaos dank Routenoptimierung für Winterdienste
 description: Effiziente Routenoptimierung im Winterdienst. Routen und Einsätze für Winterdienste, Gartenlandschaftsbauer und alle, die draußen planen.
 keywords: Winterdienst, Routenoptimierung, Schneeräumung, MultiRoute Tour, Traktor, Schneeschieber, Tourenplanung, Winterdienste Software
 ---
