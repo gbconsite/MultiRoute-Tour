@@ -1,6 +1,6 @@
 ---
 title: Einfache Logistikplanung für Sanitätshäuser mit MultiRoute
-description: Optimieren Sie Lieferungen von Sanitätshäusern und Orthopädietechnikern. Sorgen Sie mit präziser Planung und Routenoptimierung für eine zuverlässige Versorgung.
+description: Optimieren Sie Lieferungen von Sanitäts- und Orthopädiehäusern. Sorgen Sie mit präziser Planung und Routenoptimierung für eine zuverlässige Versorgung.
 ---
 
 # Patientenversorgung durch Sanitätshäuser und Orthopädietechnik: Effektive Logistikplanung
