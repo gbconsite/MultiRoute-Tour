@@ -62,7 +62,7 @@ Wenn Sie auf den blauen Pfeil bei "Spalten für Adressen auswählen" klicken, k�
 
 ### Verschieben oder löschen
 
-
+#### Manuelles Verschieben und Löschen
 Möchten Sie einen Auftrag in eine andere Planung verschieben, klicken Sie in der Zeile mit dem gewünschten Auftrag in der Spalte **Aktion** auf die kleine Weltkugel. 
 
 Es öffnet sich ein Popup-Fenster, in dem Sie nun nur noch die richtige Planung anklicken müssen. Über die Mülltonne ließe sich der ausgewählte Auftrag löschen.
@@ -72,6 +72,20 @@ Es öffnet sich ein Popup-Fenster, in dem Sie nun nur noch die richtige Planung 
 Sie können alternativ direkt in der Karte eine Adresse auswählen. Mit einem Klick auf den entsprechenden Punkt öffnet sich das Menü. Auch hier können Sie einfach auf die Weltkugel klicken und den Auftrag ebenso verschieben.
 
 ![!](assets/verschieben3.png)
+
+#### Verschieben über Polygon
+Aufträge können in MultiRoute Tour! nicht nur manuell in eine andere Planung verschoben werden, sondern können auch über ein Polygon im kml-Format automatisch zugeordnet werden. Dies ist sehr praktisch, wenn Sie bspw. PLZ-Gebiete oder selbst erstellte Gebiete in MRT! einspielen wollen. Hierzu gehen Sie wie folgt vor: 
+
+1. Unter Administration -> Ausgaben -> Ausgabe anzeigen, einmal ganz unten die kml-Datei hochladen. Diese muss einen Namen enthalten, der in MRT! als Planung verwendet wird. Eine Beispieldatei finden Sie hier: [kml Musterdatei]().
+![image](https://github.com/user-attachments/assets/b336d1b6-afc3-4687-9cbb-85dc744a66b5)
+
+2. Das Planungs-Polygon ist nun erstellt worden, aber es enthält noch keine Aufträge. 
+![image](https://github.com/user-attachments/assets/c31fa0a2-1e4a-499f-8806-3993d923b02d)
+Um nun die Aufträge aus anderen Planungen in diese Planung zu verschieben klicken Sie folgt: Administration -> Planung -> gewünschte Planung anhaken -> Markierte Planungen: Zuordnung erzeugen -> Anwenden.
+![image](https://github.com/user-attachments/assets/ca6ed2d2-5e4b-4da0-b1c3-5fd1855bfc72)
+
+3. Die Aufträge wurden nun erfolgreich in das Polygon übertragen. Sie können nun wie gewohnt mit dieser Planung Tourenoptimierungen vornehmen.
+![image](https://github.com/user-attachments/assets/89e79bce-c5ab-4266-bdf1-e16544a17dd4)
 
 ***
 
