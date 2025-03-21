@@ -76,7 +76,7 @@ Sie können alternativ direkt in der Karte eine Adresse auswählen. Mit einem Kl
 #### Verschieben über Polygon
 Aufträge können in MultiRoute Tour! nicht nur manuell in eine andere Planung verschoben werden, sondern können auch über ein Polygon im kml-Format automatisch zugeordnet werden. Dies ist sehr praktisch, wenn Sie bspw. PLZ-Gebiete oder selbst erstellte Gebiete in MRT! einspielen wollen. Hierzu gehen Sie wie folgt vor: 
 
-1. Unter Administration -> Ausgaben -> Ausgabe anzeigen, einmal ganz unten die kml-Datei hochladen. Diese muss einen Namen enthalten, der in MRT! als Planung verwendet wird. Eine Beispieldatei finden Sie hier: [kml Musterdatei]().
+1. Unter Administration -> Ausgaben -> Ausgabe anzeigen, einmal ganz unten die kml-Datei hochladen. Diese muss einen Namen enthalten, der in MRT! als Planung verwendet wird. Eine Beispieldatei finden Sie hier: [kml Musterdatei](assets/downloads/Testdatei.kml).
 ![image](https://github.com/user-attachments/assets/b336d1b6-afc3-4687-9cbb-85dc744a66b5)
 
 2. Das Planungs-Polygon ist nun erstellt worden, aber es enthält noch keine Aufträge. 
