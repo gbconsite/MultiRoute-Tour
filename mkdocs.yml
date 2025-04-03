@@ -19,7 +19,7 @@ nav:
       - Zusatzmodule: zusatzmodule.md
       - Changelog: changelog.md
     - Anwendungsbeispiele:
-      - Autoteile Zulieferer: autoteile_zulieferer.md
+      - Autoteile Zulieferer: auto_reifen.md
       - Reifenhandel Logistik: reifen_logistik.md
       - Außendienst: aussendienst.md
       - Brief-Abholtouren: briefabholung.md
