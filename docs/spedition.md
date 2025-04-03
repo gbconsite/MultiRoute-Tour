@@ -5,7 +5,7 @@ description: "Optimieren Sie Ihre Speditionslogistik mit intelligenter Tourenpla
 
 # Tourenoptimierung und effiziente Routenplanung für Speditionen & Kurierdienste
 
-
+![Speditionsfahrzeuge für die Routenplanung](assets/sprinter.jpg "Moderne Speditionsflotte im Einsatz")
 
 <div style="font-size: 11px">Photo by <a href="https://unsplash.com/@markuswinkler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Winkler</a> on <a href="https://unsplash.com/s/photos/fleet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>
 
