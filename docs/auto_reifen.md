@@ -6,8 +6,7 @@ keywords: Routenplanung Autoteile, Tourenoptimierung Zulieferer, Werkstattbelief
 
 # Effiziente Tourenplanung für Automobilteile-Zulieferer
 
-
-![autoteile_lieferlogistik](https://github.com/user-attachments/assets/d0764a34-77c7-4442-b450-686ac6b2cf85 "Routenoptimierung für die schnelle Lieferung von Kfz-Ersatzteilen an Werkstätten")
+![autoteile_lieferlogistik](https://github.com/user-attachments/assets/3b09eea9-12c2-4793-a361-ab85c934b9bb "Routenoptimierung für die schnelle Lieferung von Kfz-Ersatzteilen an Werkstätten")
 
 <div style="font-size: 11px">
 Photo by <a href="https://unsplash.com/de/@nito_ad">J MB</a> on <a href="https://unsplash.com/de/fotos/schwarz-silberner-motorradmotor-mj_VRSoe5t4">Unsplash</a></div>
