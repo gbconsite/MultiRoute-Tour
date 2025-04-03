@@ -17,7 +17,7 @@ Ein Reifengroßhändler steht vor der Aufgabe, Reifen und Felgen effizient an ei
 
 ## Lösung: Tourenexport und Navigation für Reifen-Auslieferungsfahrer mit MultiRoute Tour!
 
-Nachdem die Tourenplanung in MultiRoute Tour! (wie in Anwendungsbeispiel 1 beschrieben, angepasst an die spezifischen Bedürfnisse der Reifenlogistik wie z.B. Ladevolumen) erfolgt ist, unterstützt die Software die Fahrer optimal bei der Ausführung:
+Nachdem die täglichen Lieferaufträge für Reifen und Felgen importiert und die optimalen Routen unter Berücksichtigung von Zeitfenstern, Fahrzeugkapazitäten (insbesondere für sperrige Güter) und saisonalen Anforderungen durch MultiRoute Tour! berechnet wurden, unterstützt die Software die Fahrer optimal bei der Ausführung:
 
 1.  **Einfacher Tourenexport zu Google Maps**: Die final geplanten und optimierten Auslieferungstouren können mit wenigen Klicks für die Fahrer bereitgestellt werden. MultiRoute Tour! generiert einen direkten [Link zur Route für Google Maps](../tour/#tour-exportieren), der alle Lieferstopps in der optimalen Reihenfolge enthält.
 
