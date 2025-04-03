@@ -31,6 +31,9 @@ nav:
       - Gebäudereinigung: gebaeudereinigung.md
       - Sanitätshäuser: sanitaetshaus.md
       - Warenauslieferung: auslieferung.md
+      - Pflegedienst: tourenplanung-pflegedienst.md
+      - Kundendienst: tourenplanung-kundendienst.md
+      - Apotheken: tourenplanung-apotheken.md
       
     - Blog:
       - blog/index.md
