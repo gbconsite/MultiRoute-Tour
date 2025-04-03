@@ -4,7 +4,7 @@ description: Effiziente Tourenplanung speziell für Automobilteile-Zulieferer. O
 keywords: Routenplanung Autoteile, Tourenoptimierung Zulieferer, Werkstattbelieferung Software, Logistik Automotive Aftermarket, JIT Lieferung Autoteile, Ersatzteillogistik Software, MultiRoute Tour!, Fuhrparkmanagement Teilehandel, Lieferavisierung Werkstatt, letzte Meile Automobilteile, Transportplanung Kfz-Teile, Expresslieferung Autoteile
 ---
 
-# Anwendungsbeispiel 1: Effiziente Tourenplanung für Automobilteile-Zulieferer
+# Effiziente Tourenplanung für Automobilteile-Zulieferer
 
 !(autoteile_lieferlogistik.jpg "Routenoptimierung für die schnelle Lieferung von Kfz-Ersatzteilen an Werkstätten")
 
