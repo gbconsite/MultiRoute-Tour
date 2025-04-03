@@ -6,10 +6,12 @@ keywords: Routenplanung Autoteile, Tourenoptimierung Zulieferer, Werkstattbelief
 
 # Anwendungsbeispiel 1: Effiziente Tourenplanung für Automobilteile-Zulieferer
 
+!(autoteile_lieferlogistik.jpg "Routenoptimierung für die schnelle Lieferung von Kfz-Ersatzteilen an Werkstätten")
+
 ![!](assets/reifen.jpg "Routenoptimierung für die schnelle Lieferung von Kfz-Ersatzteilen an Werkstätten")
 
 <div style="font-size: 11px">
-Photo by <a href="https://unsplash.com/@jontyson?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jon Tyson</a> on <a href="https://unsplash.com/photos/orange-traffic-cone-near-pile-of-vehicle-tires-rRaApBvfSkA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></div>
+Photo by <a href="https://unsplash.com/@jontyson?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">J MB</a> on <a href="https://unsplash.com/de/fotos/schwarz-silberner-motorradmotor-mj_VRSoe5t4">Unsplash</a></div>
 
 ## Szenario: Tägliche Herausforderungen in der Ersatzteillogistik
 
