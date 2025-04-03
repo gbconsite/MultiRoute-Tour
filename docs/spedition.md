@@ -14,11 +14,10 @@ description: Optimieren Sie Ihre Speditionslogistik mit intelligenter Tourenplan
 Speditionen stehen täglich vor der Herausforderung, steigende Auftragszahlen mit begrenzten Ressourcen zu bewältigen. Ineffiziente Routenplanung führt zu:
 
 * **Zeit- und Kostenverlust:** Unnötige Fahrzeiten, höherer Kraftstoffverbrauch und Überstunden.
-* **Geringere Flottenauslastung:**  Ungenutztes Optimierungspotenzial bei Fahrzeugauswahl und Tourenplanung.
+* **Geringere Flottenauslastung:** Ungenutztes Optimierungspotenzial bei Fahrzeugauswahl und Tourenplanung.
 * **Unzufriedene Kunden:** Verspätungen und nicht eingehaltene Liefertermine schaden dem Image.
 
 **Beispiel:** Eine mittelgroße Spedition mit 2 LKWs, 2 Sprintern und 2 Caddy-Fahrzeugen muss täglich ca. 500 Aufträge (verschiedene Gewichte und Lieferfenster) bearbeiten. Wie lassen sich die Routen optimieren, um alle Aufträge pünktlich zu liefern und Kosten zu minimieren?
-
 
 ## Lösung: Effiziente Tourenplanung mit MultiRoute Tour! – Ihre Software für optimierte Routen
 
@@ -28,13 +27,12 @@ MultiRoute Tour! bietet eine intelligente Lösung für Ihre tägliche Tourenplan
 
 **Beispiel-Datenimport:**
 
-| Straße & Hausnummer | PLZ     | Ort        | Kunde          | Gewicht (kg) | Öffnungszeit Start | Öffnungszeit Ende | Priorität | Besondere Hinweise |
-|----------------------|---------|-------------|-----------------|---------------|--------------------|--------------------|-----------|----------------------|
-| Hauptstraße 10       | 21614   | Buxtehude    | Edeka           | 100           | 08:00              | 20:00              | Hoch      | Kühltransport erforderlich |
-| Bahnhofsweg 11       | 21614   | Buxtehude    | Rossmann        | 200           | 09:00              | 18:00              | Mittel    |                  |
-| Amselgasse 20        | 21614   | Buxtehude    | Müller & Co.    | 50            | 08:30              | 12:30              | Niedrig   |                  |
-| Eichenweg 33         | 21614   | Buxtehude    | Danny's         | 700           | 09:00              | 10:30              | Hoch      |                  |
-
+| Straße & Hausnummer | PLZ | Ort | Kunde | Gewicht (kg) | Öffnungszeit Start | Öffnungszeit Ende | Priorität | Besondere Hinweise |
+| :-------------------- | :-: | :---------- | :------------- | :------------- | :------------------ | :---------------- | :-------- | :------------------ |
+| Hauptstraße 10 | 21614 | Buxtehude | Edeka | 100 | 08:00 | 20:00 | Hoch | Kühltransport erforderlich |
+| Bahnhofsweg 11 | 21614 | Buxtehude | Rossmann | 200 | 09:00 | 18:00 | Mittel | |
+| Amselgasse 20 | 21614 | Buxtehude | Müller & Co. | 50 | 08:30 | 12:30 | Niedrig | |
+| Eichenweg 33 | 21614 | Buxtehude | Danny's | 700 | 09:00 | 10:30 | Hoch | |
 
 **2. Intelligente Routenberechnung:** MultiRoute Tour! berechnet optimale Routen unter Berücksichtigung von:
 
@@ -44,14 +42,12 @@ MultiRoute Tour! bietet eine intelligente Lösung für Ihre tägliche Tourenplan
 * **Prioritäten:** Wichtige Aufträge werden priorisiert bearbeitet.
 * **Zusätzliche Restriktionen:** Individuelle Einschränkungen (z.B. Fahrverbote, Mautgebühren) können berücksichtigt werden.
 
-
 **3. Intuitive Tourenverwaltung:** Übersichtliche Darstellung der Touren, einfache Zuweisung der Aufträge zu den Fahrzeugen und Anpassung der Routen bei Bedarf.
 
 **4. Export & Fahrerinformation:** Direkter Export der Routen als Google Maps Link oder Integration in Ihre Navigationssysteme für die reibungslose Navigation Ihrer Fahrer.
-
 
 **Optimierung der Ressourcen:** Minimieren Sie Leerfahrten, optimieren Sie die Flottenauslastung und sparen Sie Kosten durch effizientere Routenführung.
 
 ## Fazit: Steigern Sie Ihre Effizienz mit MultiRoute Tour!
 
-MultiRoute Tour! hilft Ihnen, Ihre Tourenplanung zu optimieren, Kosten zu senken und die Kundenzufriedenheit zu erhöhen. 
+MultiRoute Tour! hilft Ihnen, Ihre Tourenplanung zu optimieren, Kosten zu senken und die Kundenzufriedenheit zu erhöhen.
