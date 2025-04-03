@@ -22,7 +22,7 @@ Täglich kämpfen Speditionen mit dem Spagat zwischen steigenden Auftragszahlen 
 
 ## Lösung: Effiziente Tourenplanung mit MultiRoute Tour! – Ihre Software für optimierte Routen
 
-MultiRoute Tour! bietet eine intelligente Lösung für Ihre tägliche Tourenplanung:
+MultiRoute Tour bietet eine intelligente Lösung für Ihre tägliche Tourenplanung:
 
 **1. Datenimport:**  Einfacher Import Ihrer Kundendaten (z.B. aus Ihrem CRM-System) via Excel, CSV oder direkter API-Anbindung.
 
@@ -36,7 +36,7 @@ MultiRoute Tour! bietet eine intelligente Lösung für Ihre tägliche Tourenplan
 | Eichenweg 33         | 21614   | Buxtehude    | Danny's         | 700           | 09:00              | 10:30              | Hoch       |                  |
 
 
-**2. Intelligente Routenberechnung:**  MultiRoute Tour berechnet optimale Routen unter Berücksichtigung von:
+**2. Intelligente Routenberechnung:**  MultiRoute Tour! berechnet optimale Routen unter Berücksichtigung von:
 
 * **Fahrzeugtypen:**  LKW, Sprinter, Caddy – Berücksichtigung von Ladekapazität und Gewichtsbeschränkungen.
 * **Lieferfenster:**  Pünktliche Lieferungen dank Berücksichtigung der Öffnungszeiten.
@@ -47,11 +47,11 @@ MultiRoute Tour! bietet eine intelligente Lösung für Ihre tägliche Tourenplan
 
 **3.  Intuitive Tourenverwaltung:**  Übersichtliche Darstellung der Touren, einfache Zuweisung der Aufträge zu den Fahrzeugen und Anpassung der Routen bei Bedarf.
 
-**4.  Export & Fahrerinformation:**  Direkter Export der Routen als [Google Maps Link](https://tour.multiroute.de/handbuch/tour/#google-maps-export) oder Integration in Ihre Navigationssysteme für die reibungslose Navigation Ihrer Fahrer.
+**4.  Export & Fahrerinformation:**  Direkter Export der Routen als Google Maps Link oder  Integration in Ihre Navigationssysteme für die reibungslose Navigation Ihrer Fahrer.
 
 
 **3. Optimierung der Ressourcen:** Minimieren Sie Leerfahrten, optimieren Sie die Fahrzeug-Auslastung und sparen Sie Kosten durch effizientere Routenführung.
 
 ## Fazit: Steigern Sie Ihre Effizienz mit MultiRoute Tour!
 
-MultiRoute Tour! hilft Ihnen, Ihre Tourenplanung zu optimieren, Kosten zu senken und die Kundenzufriedenheit zu erhöhen.  
+MultiRoute Tour hilft Ihnen, Ihre Tourenplanung zu optimieren, Kosten zu senken und die Kundenzufriedenheit zu erhöhen. 
