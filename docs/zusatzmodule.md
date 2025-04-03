@@ -55,7 +55,8 @@ Sie müssen einmalig die Einstellungen für den Traccar-Client auf Ihrem Smartph
 - Frequenz: 5 (zu Fuß) oder 60 (Kfz)
 - Entfernung: 10
 - Winkel: 30
-- Datenherkunft: gemischt 
+- Datenherkunft: gemischt
+- Offline buffering: an
 
 
 **Bitte nicht vergessen, GPS auf Ihrem mobilen Endgerät zu aktivieren!**

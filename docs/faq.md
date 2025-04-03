@@ -28,3 +28,16 @@ Falls Sie dennoch eine Aufteilung in Untergebiete bevorzugen, haben Sie zwei Opt
 ## Wie viel kann ich mit MultiRoute Tour! einsparen?
 
 Unsere Kunden berichten von einer Kostenersparnis zwischen 15% und 35% durch die Nutzung von MultiRoute Tour!. Sie können Ihre aktuellen Touren mit den optimierten Touren vergleichen und Ihre eigene Ersparnis ermitteln. Besonders bei komplexen, historisch gewachsenen Touren können Sie erhebliche Einsparungen erzielen. Nutzen Sie die Gelegenheit für eine Optimierung und [kontaktieren Sie uns](https://tour.multiroute.de/handbuch/impressum/) für weitere Informationen!
+
+## Welche Geschwindigkeiten werden benutzt? 
+
+In MultiRoute Tour! können Sie zwischen PKW- und LKW-Profilen verschiedener Gewichtsklassen unterscheiden. Je nach Profil unterscheiden sich nicht nur die Straßen, die befahren werden können, sondern auch die hinterlegten Geschwindigkeiten. Unsere Profile haben sich seit 2007 in der Praxis bewährt und wurden von Tausenden Kunden in ganz Europa bestätigt. 
+
+Wie funktioniert dies in der Praxis? 
+
+Unsere Routingdaten beziehen wir über das OpenStreetMap-Projekt, einer großen Community von weltweiten, freiwilligen Online-Kartographen. Diese tragen die Straßen und die dort hinterlegten Geschwindigkeiten pro Fahrzeugprofil ein. Sollte mal etwas fehlen, greifen bewährte Durchschnittsgeschwindigkeiten. 
+Die Geschwindigkeiten sind dabei von vielen Faktoren abhängig, wie bspw. dem Straßenbelag. Wenn Sie genau wissen möchten, wo welche Geschwindigkeit hinterlegt ist, nutzen Sie eine der folgenden Quellen: 
+
+- [Overpass-Turbo für die Höchstgeschwindigkeiten](https://overpass-turbo.eu/?Q=%2F*%0AThis%20has%20been%20generated%20by%20the%20overpass-turbo%20wizard.%0AThe%20original%20search%20was%3A%0A%E2%80%9Cmaxspeed%3D*%E2%80%9D%0A*%2F%0A%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%2F%2F%20gather%20results%0Anwr%5B%22maxspeed%22%5D%28%7B%7Bbbox%7D%7D%29%3B%0A%2F%2F%20print%20results%0Aout%20geom%3B&C=48.732389%3B8.725376%3B14&R=)
+- [OpenStreetMap für alle hinterlegten Parameter an den Straßen](https://www.openstreetmap.org/#map=6/51.24/9.77)
+
