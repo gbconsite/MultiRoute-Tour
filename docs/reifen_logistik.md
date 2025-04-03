@@ -4,7 +4,7 @@ description: Optimieren Sie Ihre Reifenlogistik mit MultiRoute Tour! – Die Sof
 keywords: Tourenplanung Reifenhandel, Reifenlogistik Software, Reifen Großhandel Logistik, Auslieferung Reifen und Felgen, Saisonale Tourenplanung Reifenwechsel, MultiRoute Tour!, Fuhrparkmanagement Reifenlieferung, Navigation Reifen Zustellung, Google Maps Export Reifenroute, Sperrgut Logistik Software, Reifeneinlagerung Logistik, Zustellsoftware Reifen
 ---
 
-# Anwendungsbeispiel 2: Effiziente Reifenlogistik und mobile Navigation
+# Effiziente Reifenlogistik und mobile Navigation
 
 ![!](assets/reifen.jpg "Effiziente Routenplanung und Navigation für die Auslieferung im Reifenhandel")
 
