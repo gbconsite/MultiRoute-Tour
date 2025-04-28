@@ -9,7 +9,7 @@ keywords: Brötchenlieferdienst, Bäckerei-Logistik, Filialbelieferung, Routenop
 ![backwaren](https://github.com/user-attachments/assets/6a27bf41-3885-40a1-b3fe-24f4afb7b50d "Effiziente Logistikplanung für Bäckereien und Lieferdienste")
 
 <div style="font-size: 11px">
-Foto von <a href="https://unsplash.com/de/@k_drew?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kirsten Drew</a> auf <a href="https://unsplash.com/de/fotos/gebackener-teig-auf-schussel-n49BjsFf5dI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Foto von <a href="https://unsplash.com/de/@k_drew?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Kirsten Drew</a> auf <a href="https://unsplash.com/de/fotos/gebackener-teig-auf-schussel-n49BjsFf5dI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></div>
       
 
 ## Szenario 1: Belieferung eigener Bäckereifilialen
