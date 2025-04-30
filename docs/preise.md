@@ -17,7 +17,7 @@ description: Die MultiRoute Tour! Preisstaffelung ist hauptsächlich von der Gr�
 
 Weitere Preisstaffelungen möglich.
 
-Preise zzgl. Einrichtungspauschale abhängig von Ihrer individuellen Fragestellung und Komplexität.
+Preise zzgl. Einrichtungspauschale (ab 129 €) abhängig von Ihrer individuellen Fragestellung und Komplexität.
 
 
 **Kostenpflichtige Zusatzmodule:**
@@ -25,10 +25,10 @@ Preise zzgl. Einrichtungspauschale abhängig von Ihrer individuellen Fragestellu
 - [API Zugang](https://tour.multiroute.de/handbuch/api-intro/)
 - [Klick Maps](https://tour.multiroute.de/handbuch/zusatzmodule/#klickbare-karte)
 - [GPS-Tracking](https://tour.multiroute.de/handbuch/zusatzmodule/#tracking){:target="_blank"}
-- 🆕 Auftragsverfolgung 🆕 
-- Reichweite für E-Fahrzeuge
+- [Auftragsverfolgung](https://tour.multiroute.de/handbuch/zusatzmodule/#auftragsverfolgung) 
+- [Reichweite für E-Fahrzeuge](https://tour.multiroute.de/handbuch/zusatzmodule/#reichweitenbegrenzung)
 
-**Gerne kontaktieren Sie uns für ein Angebot, das zu Ihnen passt. Ein kostenfreier Demozugang ist möglich.**
+**Gerne kontaktieren Sie uns für ein Angebot, das zu Ihnen passt. Ein kostenfreier Demozugang ist befristet möglich.**
 
 
 Sprechen Sie uns an! 
