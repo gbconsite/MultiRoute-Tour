@@ -6,11 +6,10 @@ keywords: Tourenplanung Briefabholung, Routenoptimierung Postabholung, Software 
 
 # Routenoptimierung und Tourenplanung für Briefabhol-Touren
 
+![mathyas-kurmann-fb7yNPbT0l8-unsplash](https://github.com/user-attachments/assets/4a771140-d5b7-442e-9ae2-a7444935e82b "Effiziente Routenplanung für Briefabholung und Postzustellung")
 
-![!](assets/briefkasten.jpg "Effiziente Routenplanung für Briefabholung und Postzustellung")
-
-<div style="font-size: 11px">
-Foto von <a href="https://unsplash.com/de/@rolls0ut?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jac Alexandru</a> auf <a href="https://unsplash.com/de/fotos/braun-weisser-wandschrank-L0Wdk52FAmM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></div>
+<div style="font-size: 11px">Foto von <a href="https://unsplash.com/de/@mathyaskurmann?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mathyas Kurmann</a> auf <a href="https://unsplash.com/de/fotos/sechs-farblich-sortierte-briefkasten-fb7yNPbT0l8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></div>
+      
 
 ## Warum Routenoptimierung und Tourenplanung für Briefabhol-Touren wichtig sind
 
