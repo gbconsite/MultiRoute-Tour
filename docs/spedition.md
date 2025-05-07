@@ -1,5 +1,5 @@
 ---
-title: Tourenoptimierung & Routenplanung für Speditionen: Zeit und Kosten sparen
+title: Tourenoptimierung und Routenplanung für Speditionen: Zeit und Kosten sparen
 description: Optimieren Sie Ihre Speditionslogistik mit intelligenter Tourenplanung. Effiziente Routen, maximale Auslastung & zufriedene Kunden dank MultiRoute Tour!
 ---
 
