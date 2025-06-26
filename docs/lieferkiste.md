@@ -7,7 +7,7 @@ keywords: Bio-Lieferkisten, Routenplanung, MultiRoute Tour, Lieferdienst, Fahrze
 # 🚚 Use Case: Optimierte Lieferlogistik für Bio-Kisten mit MultiRoute Tour!
 
 ![Effiziente Routenplanung für Lieferkisten](assets/lieferkiste.jpg "Effiziente Routenplanung für Lieferkisten")
-Photo by Sara Scarpa on Unsplash
+
 <div style="font-size: 11px">
 Photo by <a href="https://unsplash.com/@sarascarpa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" rel="noopener noreferrer nofollow">Sara Scarpa</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>
 
