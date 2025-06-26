@@ -14,6 +14,7 @@ Photo by <a href="https://unsplash.com/@uniqueton?utm_source=unsplash&utm_medium
 ## 🧩 Herausforderung
 
 Reinigungsfirmen mit 10 Fahrzeugen und 2er-Teams müssen wöchentlich zahlreiche Objekte mit festgelegten Zeitfenstern und Aufenthaltsdauern bedienen.  
+
 **Probleme ohne Planungshilfe:**  
 - Überlappende Termine  
 - Lange Fahrstrecken  
