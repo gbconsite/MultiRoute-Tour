@@ -7,7 +7,8 @@ description: "Erfahren Sie, wie Versorgungsbetriebe mit MultiRoute Tour! Monteur
 # 🚧 Use Case: Monteureinsatz & Zählerablesung effizient organisieren
 
 ![!](assets/monteur.jpg "Effiziente Routenplanung für Monteurstouren")
-
+<div style="font-size: 11px">
+Photo by <a href="https://unsplash.com/@rgaleriacom?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" rel="noopener noreferrer nofollow">Ricardo Gomez Angel</a> on <a href="https://unsplash.com/photos/man-in-blue-crew-neck-t-shirt-and-brown-pants-sitting-on-red-and-black-motorcycle-IQDWnu2xfRI" rel="noopener noreferrer nofollow">Unsplash</a></div>
 ## 🧩 Die Herausforderung
 
 Versorgungsunternehmen müssen regelmäßig Stromzähler ablesen oder wechseln – häufig mit **flexiblen Zeitfenstern** und kurzfristigen Änderungen.  
