@@ -15,9 +15,9 @@ description: Die MultiRoute Tour! Preisstaffelung ist hauptsächlich von der Gr�
 |       bis 20 |             489 € |           4.890 € |
 
 
-Weitere Preisstaffelungen möglich.
+Die Preisstaffelung richtet sich nach der Anzahl der zu berechnenden Touren bzw. der eingesetzen Fahrzeuge. Gerne erstellen wir Ihnen ein unverbindliches Angebot für Ihren Anwendungsfall.
 
-Preise zzgl. Einrichtungspauschale (ab 129 €) abhängig von Ihrer individuellen Fragestellung und Komplexität.
+Preise zzgl. einmaliger Einrichtungspauschale (ab 129 €) und abhängig von Ihrer individuellen Fragestellung und Komplexität.
 
 
 **Kostenpflichtige Zusatzmodule:**
