@@ -17,7 +17,7 @@ Im folgenden Beispiel gehen wir von einer Flotte aus, bei der wir für eine Arbe
 ## 1. Wochenarbeitszeit der Fahrzeuge definieren 
 
 - Geben Sie bei der Einsatzzeit zunächst die gewünschte Startzeit am Montagmorgen (=Tag 0) ein, bspw. 8 Uhr.
-- Bei der Endzeit bezieht sich mit Tag 4 auf den Freitag.
+- Bei der Endzeit bezieht sich Tag 4 auf den Freitag.
 
 Hier eine Übersicht zur Hilfe: 
 
@@ -45,12 +45,13 @@ Die fertige Flotte sieht nun so aus:
 
 <img width="2147" height="423" alt="image" src="https://github.com/user-attachments/assets/01884c65-e275-4283-a485-b66a0788ddc3" />
 
-Nun können Sie die Tour optimieren oder weitere Parameter berücksichtigen: 
+Fertig! Nun können Sie die Tour optimieren oder weitere Parameter berücksichtigen: 
 
 - Haben Ihre Aufträge Fixtermine? Kein Problem, dann laden Sie im Upload einfach den Tag und das Zeitfenster mit hoch.
 - Für eine gemischte Flotte können Sie einfach noch Tagesfahrzeuge hinzufügen. Hier müssen Sie bei den Tagsfahrzeugen auch den entsprechenden Tag bei der Arbeitszeit definieren. Eine solche Flotte kann dann bspw. so aussehen:
 
 <img width="1836" height="1079" alt="image" src="https://github.com/user-attachments/assets/5826179e-7db0-4dbd-8d64-400280b22072" />
+
 
 
 
