@@ -10,42 +10,47 @@ description: Planen Sie eine ganze Woche im Voraus und erhalten Sie einen detail
 <div style="font-size: 11px">Photo by <a href="https://unsplash.com/de/@towfiqu999999">Towfiqu barbhuiya</a> on <a href="https://unsplash.com/de/fotos/einen-kalender-mit-daran-angehefteten-roten-druckknopfen-bwOAixLG0uc">Unsplash</a></div>
 
 ## Anforderung 
-Wenn Sie Ihre Fahrzeuge nicht nur auf einfache Tagestouren schicken, bei denen das Fahrzeug immer wieder am gleichen Tag zurück zum Depot oder nach Hause fährt, sondern die Fahrzeuge bspw. *eine ganze Woche am Stück* mit Übernachtungen unterwegs sein sollen, kann dies ganz einfach in MRT! abgebildet werden. 
+Wenn Sie Ihre Fahrzeuge nicht nur auf einfache Tagestouren schicken, bei denen das Fahrzeug immer wieder am gleichen Tag zurück zum Depot oder nach Hause fährt, sondern die Fahrzeuge bspw. *eine ganze Woche am Stück* mit Übernachtungen unterwegs sein sollen, kann dies ganz einfach in MRT! abgebildet werden. Auch gemischte Flotten mit Wochentouren und Tagestouren sind kein Problem.
 
-Um anstatt einer einfachen Tagestour eine Wochentour abzubilden, befolgen Sie diese zwei Schritte.
+Im folgenden Beispiel gehen wir von einer Flotte aus, bei der wir für eine Arbeitswoche zwei LKW zur Verfügung haben die beide von Mo - Fr unterwegs sein sollen.
 
-## 1. Wochenarbeitszeit des Fahrzeugs definieren 
+## 1. Wochenarbeitszeit der Fahrzeuge definieren 
 
-In der Flotte geben Sie bei den entsprechenden Fahrzeugen bei der Einsatzzeit zunächst die gewünschte Startzeit am Montagmorgen ein, bspw. 8 Uhr. 
+- Geben Sie bei der Einsatzzeit zunächst die gewünschte Startzeit am Montagmorgen (=Tag 0) ein, bspw. 8 Uhr.
+- Bei der Endzeit bezieht sich mit Tag 4 auf den Freitag.
 
-Danach passen Sie die Endzeit so an, dass bei der **Zeitspanne** die gewünschte Wochenarbeitszeit herauskommt, also bspw:
+Hier eine Übersicht zur Hilfe: 
 
-**5 Wochentage * 8 Stunden/Tag = 40 Wochenarbeitsstunden**
+| Tag   | Abkürzung |
+|-------|-----------|
+| Tag 0 | Mo        |
+| Tag 1 | Di        |
+| Tag 2 | Mi        |
+| Tag 3 | Do        |
+| Tag 4 | Fr        |
+| Tag 5 | Sa        |
+| Tag 6 | So        |
 
-Diese Endzeit hat keinerlei Bedeutung für die Tourenplanung und dient nur dazu, die Wochenarbeitszeit zu definieren. 
+Die Arbeitszeit sieht dann also wie folgt aus: 
 
-Rechnung: Von **Tag 0 | 08:00 Uhr** zu **Tag 2 | 00:00 Uhr** sind es genau 40h, die später genau auf die einzelnen Wochentage aufgeteilt werden. 
+<img width="945" height="539" alt="image" src="https://github.com/user-attachments/assets/45beac78-926d-4377-930f-d2e5a4146e49" />
 
-![](assets/wochenplanung-40h.png)
+## 2. Übernachtungspausen definieren 
 
-Arbeiten Sie nur die 3 Tage in der Woche?
+Nun fehlen noch die Übernachtungspausen, die immer zum Arbeitsende anfangen und zum Arbeitsbeginn aufhören sollten. Für die Übernachtung Mo-Di, Di-Mi, Mi-Do, Do-Fr müssen also die Pausen von 16:00 bis um 08:00 am Folgetag eingegeben werden. 960 Minuten dauert eine Nacht mit 16 Stunden.
 
-Kein Problem, der zweite Eingabewert würde dann **Tag 1 | 08:00 Uhr** betragen, weil Sie an **3 Tagen je 8h arbeiten** und somit auf **24h** gesamte Arbeitszeit für diese 3 Tage kommen.
+<img width="938" height="578" alt="image" src="https://github.com/user-attachments/assets/ecdedcc3-3719-42fd-99d8-7128a48605a7" />
 
-![](assets/wochenplanung-24h.png)
+Die fertige Flotte sieht nun so aus: 
 
-## 2. Tour berechnen & Tourexport
+<img width="2147" height="423" alt="image" src="https://github.com/user-attachments/assets/01884c65-e275-4283-a485-b66a0788ddc3" />
 
-Nun berechnen Sie wie gewohnt Ihre Touren. Beim Tourexport gibt es ein kleines Uhr-Icon zum Export der Wochenplanung. 
+Nun können Sie die Tour optimieren oder weitere Parameter berücksichtigen: 
 
-![](assets/wochenplanung-export.png)
+- Haben Ihre Aufträge Fixtermine? Kein Problem, dann laden Sie im Upload einfach den Tag und das Zeitfenster mit hoch.
+- Für eine gemischte Flotte können Sie einfach noch Tagesfahrzeuge hinzufügen. Hier müssen Sie bei den Tagsfahrzeugen auch den entsprechenden Tag bei der Arbeitszeit definieren. Eine solche Flotte kann dann bspw. so aussehen:
 
-Wenn Sie hierauf klicken, öffnet sich ein kleines Fenster, mithilfe dessen Sie nun die präzise Wochenplanung mit Startdatum & Arbeitszeit pro Tag exportieren können. 
+<img width="1836" height="1079" alt="image" src="https://github.com/user-attachments/assets/5826179e-7db0-4dbd-8d64-400280b22072" />
 
-![](assets/wochenplanung-excel.png)
-
-In der Exceltabelle sind alle Infos (Uhrzeit, Datum, Wochentag) genau zu entnehmen.
-
-![](assets/wochenplanung-excelexport.png)
 
 
