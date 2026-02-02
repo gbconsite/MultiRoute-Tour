@@ -30,10 +30,7 @@ Sehen Sie sich unsere kurzen Videos zur Einführung an.
 
 Für detailliertere Erklärungen klicken Sie sich links durch die einzelnen Schritte.
 
-|Vertrieb|Technischer Support|
-|---|---|
-|**Alina Erke<br>[alina.erke@gbconsite.de](mailto:alina.erke@gbconsite.de)<br>Telefon: +49 89 / 309 052 975**|**Dominik Weckmüller<br>[dominik.weckmueller@gbconsite.de](mailto:dominik.weckmueller@gbconsite.de)<br>Telefon: +49 89 / 309 052 974**|
+## Kontakt
+**Alina Erke<br>[alina.erke@gbconsite.de](mailto:alina.erke@gbconsite.de)<br>Telefon: +49 89 / 309 052 975**
 
 
-## Newsletter 
-Abonnieren Sie [unseren Newsletter](https://publ.maillist-manage.com/ua/Optin?od=11287eca5605b8&zx=1283976e&lD=11669435b1efc0ce&n=11699f75114c2c8&sD=11669435b1f80da7) und seien Sie immer up-to-date! Etwa einmal im Quartal alle Infos zu neuen Features und Verbesserungen.
