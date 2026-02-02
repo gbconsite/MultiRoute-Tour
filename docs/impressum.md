@@ -1,5 +1,5 @@
 ---
-description: Im Impressum finden Sie unsere Kontaktinformationen. Rufen Sie uns an oder schreiben Sie uns gerne eine Mail.
+description: Im Impressum finden Sie unsere Kontaktinformationen. Rufen Sie uns an oder schreiben Sie uns gerne eine E-Mail.
 ---
 
 # Kontakt
@@ -15,7 +15,8 @@ Gerne klären wir in einem unverbindlichen Erstgespräch Ihre Anforderungen und 
 ## Impressum
 gb consite GmbH Geomarketing Software & Beratung<br>
 Mittenheimer Straße 58<br>
-85764 Oberschleißheim, Deutschland<br>
+85764 Oberschleißheim<br> 
+Deutschland<br>
 
 ## Rechtliche Informationen
 Geschäftsführer: Herr Malte Geschwinder, Herr Knut Büscher<br>
@@ -25,4 +26,5 @@ Registerart: Handelsregister<br>
 Registerort: Amtsgericht München<br>
 Registernummer: HRB 168433<br>
 Umsatzsteuer-ID: DE 254841920<br>
+
 
