@@ -25,7 +25,7 @@ Die notwendigen Spalten sind blau markiert, die optionalen orange.
 
 ![!Upload erweitert](assets/upload_erweitert.jpg "Zusätzliche Spalten im Upload")
 
-Neben einem Gewicht oder eine Stückzahl, können Sie ein oder mehrere Auftragszeitfenster festlegen. Diese können die Öffnungszeit(en) Ihres Kunden widerspiegeln. Sie können ebenfalls eine Auftragsbezeichnung und Notizen vergeben, die auf den Export-Dokumenten nach der Tourenberechnung wieder auftauchen. 
+Neben einem Gewicht (Volumen) oder eine Stückzahl, können Sie ein oder mehrere Auftragszeitfenster festlegen. Diese können die Öffnungszeit(en) Ihres Kunden widerspiegeln. Sie können ebenfalls eine Auftragsbezeichnung und Notizen vergeben, die auf den Export-Dokumenten nach der Tourenberechnung wieder auftauchen. 
 
 Mithilfe der Skills können Sie Besonderheiten abbilden, wenn ein Auftrag bspw. ein Kühlfahrzeug benötigt, sie aber eine heterogene Flotte von "normalen" Fahrzeugen und Kühlfahrezugen haben. Diese Skills werden ebenfalls in der Flotte eingegeben und den oder dem entsprechenden Fahrzeug(en) zugeordnet. 
 
@@ -37,7 +37,7 @@ Mithilfe der Skills können Sie Besonderheiten abbilden, wenn ein Auftrag bspw. 
 
 Die räumliche Information zu Ihren Aufträgen bildet die Grundlage für jede Optimierung. Diese kann in zwei verschiedenen Formen übergeben werden: als Adresse oder als Koordinate. 
 
-Das Gros unserer unserer Kunden übermittelt uns lediglich die Adressinfos zu denen in MRT! anschließend automatisch die Koordinaten gesucht werden. Falls Sie diese bereits vorliegen haben - umso besser! Sie können in diesem Fall entweder nur die Koordinaten hochladen oder ebenfalls Adressinfos.
+Für Adressinfos sucht MultiRoute Tour! im Hintergrund für Sie die korrekten Koordinaten (Geokodierung). Falls Ihnen bereits Koordinaten vorliegen - umso besser! Sie können in diesem Fall entweder nur die Koordinaten hochladen oder ebenfalls Adressinfos.
 
 |Spalte|Erklärung|Beispiel|
 |---|---|---|
@@ -70,8 +70,8 @@ Aufträge beinhalten gewisse notwendige Angaben Kunden oder können eine Vielzah
 |Spalte|Erklärung|Beispiel|
 |---|---|---|
 |**Einfache Textangaben**|||
-|Auftragsbezeichnung|Hiernach lässt sich in MRT suchen und filtern|Auftrag B-5132|
-|Fahrernotizen|Etwaige Textinformationen, die für den Auftrag Belang haben. Spalte kann im Upload mehrmals vergeben werden|Achtung Hund!|
+|Auftragsbezeichnung|Hiernach lässt sich in MultiRoute Tour! suchen und filtern|Auftrag B-5132|
+|Fahrernotizen|Etwaige Textinformationen, die für den Auftrag Belang haben. *Spalte kann im Upload mehrmals vergeben werden*|Achtung Hund!|
 ||||
 |**Einfache Bedingungen**|||
 |Kapazität|Liefermenge in kg, Stück, oder Personen|10|
@@ -109,6 +109,7 @@ In MultiRoute Tour! klicken Sie auf **1. Upload** und wählen Ihre Datei aus. An
 Der Dateiname wird standardmäßig als Planungsbezeichnung genommen. Diese können Sie im Feld "An Planung" manuell nach Belieben anpassen, bspw. zu "Montag 04.10.2021".
 
 ![!Spaltenzuordnung](assets/upload_zuordnung_v1.jpg "Zuordnung der Excelspalten")
+
 
 
 
