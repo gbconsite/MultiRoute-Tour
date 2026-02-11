@@ -71,10 +71,10 @@ Aufträge beinhalten gewisse notwendige Angaben Kunden oder können eine Vielzah
 |---|---|---|
 |**Einfache Textangaben**|||
 |Auftragsbezeichnung|Hiernach lässt sich in MultiRoute Tour! suchen und filtern|Auftrag B-5132|
-|Fahrernotizen|Etwaige Textinformationen, die für den Auftrag Belang haben. *Spalte kann im Upload mehrmals vergeben werden*|Achtung Hund!|
+|Fahrernotizen|Etwaige Textinformationen, die für den Auftrag Belang haben. **Spalte kann im Upload mehrmals vergeben werden**|Achtung Hund!|
 ||||
 |**Einfache Bedingungen**|||
-|Kapazität|Liefermenge in kg, Stück, oder Personen|10|
+|Kapazität|Liefermenge in kg, Volumen, Stück, oder Personen (Wichtig: einheitlich!)|10|
 |Servicezeit|Individuelle Zeit, die am Auftragsort verbracht wird in Sekunden|60|
 |Auftragszeitfenster Start|Startzeit eines Zeitfensters innerhalb dessen der Auftrag erledigt werden kann. Es können auch mehrere mögliche Zeitfenster hochgeladen werden.|20:00|
 |Start am nächsten Tag (ja/nein)|Wenn der Zeitpunkt nicht auf den Ausgangstag sondern den Folgetag fällt, muss dies mit **ja** gekennzeichnet werden|nein| 
@@ -96,11 +96,11 @@ Aufträge beinhalten gewisse notwendige Angaben Kunden oder können eine Vielzah
 	02:00 Uhr hingegen meint den Folgetag und muss entsprechend mit "ja" gekennzeichnet werden.
  
 
-Kontaktieren Sie uns gerne, wenn Sie eine besonders komplizierte Anforderung haben. Wir freuen uns über Ihre Anfrage!
+Kontaktieren Sie uns gerne bei Fragen hierzu!
 
-|Vertrieb|Technischer Support|
-|---|---|
-|**Alina Erke<br>[alina.erke@gbconsite.de](mailto:alina.erke@gbconsite.de)<br>Telefon: +49 89 / 309 052 975**|**Dominik Weckmüller<br>[dominik.weckmueller@gbconsite.de](mailto:dominik.weckmueller@gbconsite.de)<br>Telefon: +49 89 / 309 052 974**|
+|Vertrieb & Support||
+|---||
+|**Alina Erke<br>[alina.erke@gbconsite.de](mailto:alina.erke@gbconsite.de)<br>Telefon: +49 89 / 309 052 975**||
 
 
 ## Upload in MultiRoute Tour!
@@ -109,6 +109,7 @@ In MultiRoute Tour! klicken Sie auf **1. Upload** und wählen Ihre Datei aus. An
 Der Dateiname wird standardmäßig als Planungsbezeichnung genommen. Diese können Sie im Feld "An Planung" manuell nach Belieben anpassen, bspw. zu "Montag 04.10.2021".
 
 ![!Spaltenzuordnung](assets/upload_zuordnung_v1.jpg "Zuordnung der Excelspalten")
+
 
 
 
