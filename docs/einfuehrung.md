@@ -31,6 +31,9 @@ Sie können alle **Flotten** mit allen **Planungen** kombinieren und beliebig vi
 *   Anschließend wird eine sogenannte Planung angelegt, die als Container für die Aufträge an den Adressen dient. Diese kann bspw. dazu dienen, alle Aufträge für einen Wochentag, bspw. Montag in einer bestimmten Kalenderwoche zusammenzufassen.
 *   Nachdem eine Flotte definiert wurde, kann die Tour optimiert werden.
 
+<!--
 ## Newsletter
 
 Abonnieren Sie [unseren Newsletter](https://publ.maillist-manage.com/ua/Optin?od=11287eca5605b8&zx=1283976e&lD=11669435b1efc0ce&n=11699f75114c2c8&sD=11669435b1f80da7) und seien Sie immer up-to-date! Einmal im Quartal alle Infos zu neuen Features und Verbesserungen.
+-->
+
