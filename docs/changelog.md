@@ -6,8 +6,62 @@ description: Verfolgen Sie alle Änderungen und Versionssprünge im Changelog.
 
 Alle MultiRoute Tour! Revisionen sind hier mit den letzten Änderungen aufgeführt.
 
+
+## 2026
+
+### v1.3696 vom 15.02.2026
+- Fix: Hinweismails auf zu viele Fahrzeuge
+  
+## 2025
+
+### v1.3565 vom 26.11.2025
+- Update Geschwindigkeitsregler
+- Neue Tooltips
+  
+### v1.3546 vom 28.10.2025
+- Vorbereitungen "gemischte Flotte"
+  
+### v1.3543 vom 27.10.2025
+- Vorbereitungen "gemischte Flotte"
+  
+### v1.3541 vom 22.10.2025
+- Vorbereitungen "gemischte Flotte"
+  
+### v1.3533 vom 15.10.2025
+- Umbenennung Begriffe bei Reichweitenberechnung
+
+### v1.3527 vom 25.09.2025
+- Verbesserungen beim Upload von Excel-Dateien mit Filter
+
+### v1.3521 vom 08.09.2025
+- Korrekturen bei Icons
+  
+### v1.3492 vom 16.07.2025
+- Verbesserungen Google Maps Export
+  
+### v1.3490 vom 07.07.2025
+- Fahrzeugangaben in Flottenkonfiguration vereinfacht
+
+### v1.3456 vom 15.05.2025
+- Angabe Depot in Flotte verbessert
+
 ## 2024
 
+### v1.3319 vom 11.12.2024
+- Mehr Hilfetexte
+  
+### v1.3252 vom 24.10.2024
+- Verbesserter Upload
+  
+### v1.3170 vom 19.07.2024
+- QR Code auch in Straßenliste
+  
+### v1.3152 vom 27.06.2024
+- Verbesserungen Flottenkonfiguration
+
+### v1.3096 vom 16.05.2024
+- Korrekturen und Erweiterungen Google & Apple Maps Ansichten
+  
 ### v1.3065 vom 25.04.2024
 - Fähren können ausgeschlossen werden
 - Korrekturen bei Reichweitenbegrenzung
@@ -135,3 +189,4 @@ Alle MultiRoute Tour! Revisionen sind hier mit den letzten Änderungen aufgefüh
 ### v1.2391M vom 24.03.2021
 - Verbesserte Performance beim Touranzeigen
 - API Erweiterung für LKW-Profile
+
