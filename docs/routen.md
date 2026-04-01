@@ -7,13 +7,14 @@ description: Informieren Sie sich über alle Routen & Endpunkte der MultiRoute T
 ## Normaler Ablauf 
 
 1. Adressen hochladen <http://domain/fernsteuerung/add_and_update_adresse>
-2. Adressen prüfen wenn ohne Koordinaten hochgeladen http://domain/fernsteuerung/check_geocode?upload_id=ID-des-Uploads
-3. Planung anlegen http://domain/fernsteuerung/planung/add_and_update
-4. Aufträge an Adresse spielen und Planung zuweisen http://domain/fernsteuerung/auftrag
-5. Flotte anlegen http://domain/fernsteuerung/flotte
-6. Tourberechnung starten http://domain/fernsteuerung/tour/berechnen
-7. Prüfen ob Tourberechnung fertig http://domain/fernsteuerung/touren?limit=1&planung=Name-der-Planung
-8. Tour abfragen http://domain/fernsteuerung/tour/ID-der-Tour
+2. Adressen prüfen wenn ohne Koordinaten hochgeladen <http://domain/fernsteuerung/check_geocode?upload_id=ID-des-Uploads>
+3. Planung anlegen <http://domain/fernsteuerung/planung/add_and_update>
+4. Planungsdefinition anlegen <http://domain/fernsteuerung/planung/definition>
+5. Aufträge an Adresse spielen und Planung zuweisen <http://domain/fernsteuerung/auftrag>
+6. Flotte anlegen <http://domain/fernsteuerung/flotte>
+7. Tourberechnung starten <http://domain/fernsteuerung/tour/berechnen>
+8. Prüfen ob Tourberechnung fertig <http://domain/fernsteuerung/touren?limit=1&planung=Name-der-Planung>
+9. Tour abfragen <http://domain/fernsteuerung/tour/ID-der-Tour>
 
 ## Authentifizierung 
 
