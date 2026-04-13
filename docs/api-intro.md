@@ -14,7 +14,7 @@ Unsere SaaS finden Sie unter [https://tour.multiroute.de](https://tour.multirout
 
 Bei Fragen wenden Sie sich an:
 
-**Alina Erke<br>
-[alina.erke@gbconsite.de](mailto:alina.erke@gbconsite.de)<br>
-Telefon: +49 89 / 309 052 975**
+**Matthias Kraft<br>
+[matthias.kraft@gbconsite.de](mailto:matthias.kraft@gbconsite.de)<br>
+Telefon: +49 89 / 309 052 974**
 
