@@ -6,7 +6,7 @@ description: Im Impressum finden Sie unsere Kontaktinformationen. Rufen Sie uns 
 
 ## Kontakt und Support für MultiRoute Tour!
 
-**Alina Erke<br>[alina.erke@gbconsite.de](mailto:alina.erke@gbconsite.de)<br>Telefon: +49 89 / 309 052 975**
+**Matthias Kraft<br>[matthias.kraft@gbconsite.de](mailto:matthias.kraft@gbconsite.de)<br>Telefon: +49 89 / 309 052 974**
 
 
 **Kontaktieren Sie uns für Ihre kostenlose Demoversion! 
