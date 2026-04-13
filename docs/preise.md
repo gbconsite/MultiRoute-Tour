@@ -34,6 +34,6 @@ Preise zzgl. einmaliger Einrichtungspauschale (ab 129 €) und abhängig von Ihr
 Sprechen Sie uns an! 
 
 ## Kontakt und Support
-**Alina Erke<br>
-[alina.erke@gbconsite.de](mailto:alina.erke@gbconsite.de)<br>
-Telefon: +49 89 / 309 052 975**
+**Matthias Kraft<br>
+[matthias.kraft@gbconsite.de](mailto:matthias.kraft@gbconsite.de)<br>
+Telefon: +49 89 / 309 052 974**
