@@ -31,6 +31,6 @@ Sehen Sie sich unsere kurzen Videos zur Einführung an.
 Für detailliertere Erklärungen klicken Sie sich links durch die einzelnen Schritte.
 
 ## Kontakt
-**Alina Erke<br>[alina.erke@gbconsite.de](mailto:alina.erke@gbconsite.de)<br>Telefon: +49 89 / 309 052 975**
+**Matthias Kraft<br>[matthias.kraft@gbconsite.de](mailto:matthias.kraft@gbconsite.de)<br>Telefon: +49 89 / 309 052 974**
 
 
