@@ -100,7 +100,7 @@ Kontaktieren Sie uns gerne bei Fragen hierzu!
 
 |Vertrieb & Support||
 |---||
-|**Alina Erke<br>[alina.erke@gbconsite.de](mailto:alina.erke@gbconsite.de)<br>Telefon: +49 89 / 309 052 975**||
+|**Matthias Kraft<br>[matthias.kraft@gbconsite.de](mailto:matthias.kraft@gbconsite.de)<br>Telefon: +49 89 / 309 052 974**||
 
 
 ## Upload in MultiRoute Tour!
