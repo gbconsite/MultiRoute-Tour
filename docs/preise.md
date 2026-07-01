@@ -17,7 +17,7 @@ description: Die MultiRoute Tour! Preisstaffelung ist hauptsächlich von der Gr�
 
 Die Preisstaffelung richtet sich nach der Anzahl der zu berechnenden Touren bzw. der eingesetzen Fahrzeuge. Gerne erstellen wir Ihnen ein unverbindliches Angebot für Ihren Anwendungsfall.
 
-Preise zzgl. einmaliger Einrichtungspauschale (ab 129 €) und abhängig von Ihrer individuellen Fragestellung und Komplexität.
+Preise zzgl. einmaliger Einrichtungspauschale (ab 149 €) und abhängig von Ihrer individuellen Fragestellung und Komplexität.
 
 
 **Kostenpflichtige Zusatzmodule:**
