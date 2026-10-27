@@ -28,7 +28,7 @@ for (var i = 0, linksLength = links.length; i < linksLength; i++) {
       const style = document.createElement("style");
       style.dataset.solidSearchSurface = "true";
       style.textContent = `
-        .\${panel[1]} {
+        .${panel[1]} {
           background-color: rgb(var(--color-background-subtle)) !important;
           -webkit-backdrop-filter: none !important;
           backdrop-filter: none !important;
