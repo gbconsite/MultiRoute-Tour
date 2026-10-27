@@ -22,11 +22,11 @@ Preise zzgl. einmaliger Einrichtungspauschale (ab 149 €) und abhängig von Ihr
 
 **Kostenpflichtige Zusatzmodule:**
 
-- [API Zugang](https://tour.multiroute.de/handbuch/api-intro/)
-- [Klick Maps](https://tour.multiroute.de/handbuch/zusatzmodule/#klickbare-karte)
-- [GPS-Tracking](https://tour.multiroute.de/handbuch/zusatzmodule/#tracking){:target="_blank"}
-- [Auftragsverfolgung](https://tour.multiroute.de/handbuch/zusatzmodule/#auftragsverfolgung) 
-- [Reichweite für E-Fahrzeuge](https://tour.multiroute.de/handbuch/zusatzmodule/#reichweitenbegrenzung)
+- [API Zugang](api-intro.md)
+- [Klick Maps](routen.md#klick-maps)
+- [GPS-Tracking](zusatzmodule.md#tracking){:target="_blank"}
+- [Auftragsverfolgung](zusatzmodule.md#auftragsverfolgung) 
+- [Reichweite für E-Fahrzeuge](zusatzmodule.md#reichweitenbegrenzung)
 
 **Gerne kontaktieren Sie uns für ein Angebot, das zu Ihnen passt. Ein kostenfreier Demozugang ist befristet möglich.**
 

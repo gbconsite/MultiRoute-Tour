@@ -26,4 +26,4 @@ Das Modul ermöglicht es Ihrem Fahrer, Aufträge direkt in der Google-Maps-Ansic
 Die Auftragsverfolgung bietet zudem die Möglichkeit, Ihren Kunden spezifische Benachrichtigungen zukommen zu lassen. Wenn beispielsweise ein Paket oder eine Gemüsekiste abgelegt wurde, erhält der Kunde einen personalisierten Link, der an seine Kunden-ID geknüpft ist. So erhält jeder Kunde nur die Benachrichtigungen, die für ihn relevant sind.
 Diese Features ermöglichen Ihnen und Ihren Kunden, stets auf dem neuesten Stand zu bleiben und die Abläufe reibungslos zu gestalten.
 
-[Mehr Infos dazu im Handbuch](https://tour.multiroute.de/handbuch/zusatzmodule/#auftragsverfolgung).
+[Mehr Infos dazu im Handbuch](../../zusatzmodule.md#auftragsverfolgung).

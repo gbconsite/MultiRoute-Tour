@@ -27,7 +27,7 @@ Falls Sie dennoch eine Aufteilung in Untergebiete bevorzugen, haben Sie zwei Opt
 
 ## Wie viel kann ich mit MultiRoute Tour! einsparen?
 
-Unsere Kunden berichten von einer Kostenersparnis zwischen 15% und 35% durch die Nutzung von MultiRoute Tour!. Sie können Ihre aktuellen Touren mit den optimierten Touren vergleichen und Ihre eigene Ersparnis ermitteln. Besonders bei komplexen, historisch gewachsenen Touren können Sie erhebliche Einsparungen erzielen. Nutzen Sie die Gelegenheit für eine Optimierung und [kontaktieren Sie uns](https://tour.multiroute.de/handbuch/impressum/) für weitere Informationen!
+Unsere Kunden berichten von einer Kostenersparnis zwischen 15% und 35% durch die Nutzung von MultiRoute Tour!. Sie können Ihre aktuellen Touren mit den optimierten Touren vergleichen und Ihre eigene Ersparnis ermitteln. Besonders bei komplexen, historisch gewachsenen Touren können Sie erhebliche Einsparungen erzielen. Nutzen Sie die Gelegenheit für eine Optimierung und [kontaktieren Sie uns](impressum.md) für weitere Informationen!
 
 ## Welche Geschwindigkeiten werden benutzt? 
 
